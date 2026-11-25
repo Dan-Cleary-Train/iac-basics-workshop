@@ -75,7 +75,7 @@ parameter **--confirm-with-what-if** we can first check what will happen if
 we deploy the template:
 
 ```Shell
-az deployment group create -n demo01 -g <RG name>  --template-file ./storage.json --parameters storageAccountName=<your name> --confirm-with-what-if
+az deployment group create -n demo01 -g <RG name> --template-file ./challenges/templates/challenge_03/storage.json --parameters storageAccountName=<your name> --confirm-with-what-if
 ```
 
 This call will output the following:

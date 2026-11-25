@@ -100,7 +100,8 @@ Of course, we also need to make sure that all Azure resources that need a unique
 }
 ```
 
-The ARM template can be found under the repository's root [/challenges/templates/challenge_05/storage.json](./templates/challenge_05/storage.json).
+The template to rename can be found under the repository's root
+[/challenges/templates/challenge_05/storage.json__rename_me](./templates/challenge_05/storage.json__rename_me).
 
 
 ### Apply labels to your Pull Request to control the workflow

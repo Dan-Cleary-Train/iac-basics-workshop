@@ -1,0 +1,732 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <title>VJBL 2027 U12 Boys - Division 10 Results</title>
+  <style>
+    :root {
+      font-family: "Segoe UI", Arial, sans-serif;
+      color: #17243b;
+      background: #f3f6fb;
+      font-synthesis: none;
+      text-rendering: optimizeLegibility;
+      --blue: #233d9b;
+      --muted: #647189;
+      --border: #dce3ee;
+      --panel: #fff;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      min-width: 320px;
+    }
+
+    header {
+      padding: 28px max(20px, calc((100% - 1180px) / 2));
+      color: #fff;
+      background: linear-gradient(120deg, #1d2f79, #3156bd);
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: clamp(1.45rem, 3vw, 2rem);
+    }
+
+    header p {
+      margin: 8px 0 0;
+      color: #e3eaff;
+    }
+
+    main {
+      width: min(1180px, calc(100% - 32px));
+      margin: 24px auto 48px;
+    }
+
+    .filters {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(150px, 1fr));
+      gap: 14px;
+      padding: 18px;
+      margin-bottom: 18px;
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      box-shadow: 0 3px 12px #17243b0a;
+    }
+
+    .tabs {
+      display: flex;
+      gap: 4px;
+      margin: 20px 0 14px;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .tab-button {
+      padding: 11px 17px;
+      color: var(--muted);
+      background: transparent;
+      border: 0;
+      border-bottom: 3px solid transparent;
+      cursor: pointer;
+      font: inherit;
+      font-weight: 650;
+    }
+
+    .tab-button[aria-selected="true"] {
+      color: var(--blue);
+      border-bottom-color: var(--blue);
+    }
+
+    .tab-button:focus-visible {
+      outline: 3px solid #3156bd40;
+      outline-offset: -3px;
+    }
+
+    .tab-panel[hidden] {
+      display: none;
+    }
+
+    label {
+      display: grid;
+      gap: 6px;
+      color: #3d4d67;
+      font-size: .88rem;
+      font-weight: 600;
+    }
+
+    select,
+    input {
+      width: 100%;
+      min-height: 42px;
+      padding: 9px 11px;
+      color: #17243b;
+      background: #fff;
+      border: 1px solid #c9d2e0;
+      border-radius: 7px;
+      font: inherit;
+      font-weight: 400;
+    }
+
+    select:focus,
+    input:focus {
+      border-color: #3156bd;
+      outline: 3px solid #3156bd30;
+    }
+
+    .summary {
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      align-items: center;
+      min-height: 34px;
+      margin: 0 2px 12px;
+      color: var(--muted);
+      font-size: .94rem;
+    }
+
+    .game-list {
+      display: grid;
+      gap: 16px;
+    }
+
+    .game {
+      overflow: hidden;
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      box-shadow: 0 3px 12px #17243b0a;
+    }
+
+    .game-top {
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      align-items: center;
+      padding: 13px 18px;
+      color: #40506a;
+      background: #f9fbfe;
+      border-bottom: 1px solid var(--border);
+      font-size: .9rem;
+    }
+
+    .grade {
+      color: var(--blue);
+      font-weight: 700;
+    }
+
+    .final {
+      padding: 4px 9px;
+      color: #1d6b43;
+      background: #e6f5ec;
+      border-radius: 20px;
+      font-size: .76rem;
+      font-weight: 700;
+      letter-spacing: .04em;
+    }
+
+    .scoreboard {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
+      gap: 12px;
+      align-items: center;
+      padding: 18px;
+    }
+
+    .game-overview {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 16px;
+      padding: 16px 18px;
+    }
+
+    .score-team {
+      min-width: 0;
+    }
+
+    .score-team:last-child {
+      text-align: right;
+    }
+
+    .team-name {
+      overflow-wrap: anywhere;
+      font-weight: 700;
+    }
+
+    .team-score {
+      margin-top: 2px;
+      color: var(--blue);
+      font-size: 1.8rem;
+      font-weight: 750;
+      line-height: 1.1;
+    }
+
+    .versus {
+      color: #8a96a9;
+      font-size: .8rem;
+      font-weight: 700;
+      text-transform: uppercase;
+    }
+
+    .game-meta {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      gap: 8px 16px;
+      padding: 0 18px 14px;
+      color: var(--muted);
+      font-size: .86rem;
+    }
+
+    .game-meta a {
+      color: var(--blue);
+      font-weight: 600;
+      text-decoration: none;
+    }
+
+    .game-meta a:hover {
+      text-decoration: underline;
+    }
+
+    details {
+      border-top: 1px solid var(--border);
+    }
+
+    summary {
+      padding: 13px 18px;
+      color: var(--blue);
+      cursor: pointer;
+      font-weight: 650;
+      list-style-position: inside;
+    }
+
+    .details-content {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 16px;
+      padding: 0 18px 18px;
+    }
+
+    .team-stats {
+      min-width: 0;
+      overflow: hidden;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+    }
+
+    .team-stats h3 {
+      margin: 0;
+      padding: 10px 12px;
+      background: #f6f8fc;
+      font-size: .95rem;
+    }
+
+    .team-stats table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: .88rem;
+    }
+
+    th,
+    td {
+      padding: 8px 10px;
+      border-top: 1px solid #e8edf4;
+      text-align: left;
+    }
+
+    th {
+      color: #51617a;
+      background: #fbfcfe;
+      font-size: .77rem;
+      font-weight: 650;
+      text-transform: uppercase;
+    }
+
+    th.number,
+    td.number {
+      width: 52px;
+      text-align: right;
+    }
+
+    .empty {
+      padding: 30px 18px;
+      color: var(--muted);
+      background: var(--panel);
+      border: 1px dashed #c9d2e0;
+      border-radius: 10px;
+      text-align: center;
+    }
+
+    .leader-groups {
+      display: grid;
+      gap: 16px;
+    }
+
+    .leader-group {
+      overflow: hidden;
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      box-shadow: 0 3px 12px #17243b0a;
+    }
+
+    .leader-group h2 {
+      margin: 0;
+      padding: 14px 18px;
+      background: #f9fbfe;
+      border-bottom: 1px solid var(--border);
+      color: var(--blue);
+      font-size: 1rem;
+    }
+
+    .leader-table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+
+    .leader-table td:first-child,
+    .leader-table th:first-child {
+      width: 60px;
+      text-align: right;
+    }
+
+    .leader-table td:last-child,
+    .leader-table th:last-child {
+      width: 150px;
+      text-align: right;
+    }
+
+    footer {
+      padding: 0 16px 28px;
+      color: var(--muted);
+      font-size: .82rem;
+      text-align: center;
+    }
+
+    @media (max-width: 760px) {
+      .filters {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+
+      .details-content {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    @media (max-width: 600px) {
+      .game-overview {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    @media (max-width: 480px) {
+      .filters {
+        grid-template-columns: 1fr;
+      }
+
+      .game-top,
+      .scoreboard,
+      .game-meta {
+        padding-right: 13px;
+        padding-left: 13px;
+      }
+
+      .scoreboard {
+        gap: 7px;
+      }
+
+      .team-score {
+        font-size: 1.5rem;
+      }
+
+      .team-stats table {
+        font-size: .81rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>VJBL 2027 · U12 Boys</h1>
+    <p>Completed Division 10 games, final scores, period scores and player statistics</p>
+  </header>
+
+  <main>
+    <section class="filters" aria-label="Game filters">
+      <label>
+        Division
+        <select id="division-filter">
+          <option value="">All divisions</option>
+        </select>
+      </label>
+      <label>
+        Pool
+        <select id="pool-filter">
+          <option value="">All pools</option>
+        </select>
+      </label>
+      <label>
+        Search team
+        <input id="team-search" type="search" placeholder="Enter a team name" autocomplete="off">
+      </label>
+      <label>
+        Search player
+        <input id="player-search" type="search" placeholder="Enter a player name" autocomplete="off">
+      </label>
+    </section>
+
+    <div class="tabs" role="tablist" aria-label="Report views">
+      <button id="games-tab" class="tab-button" type="button" role="tab"
+        aria-selected="true" aria-controls="games-panel">Games</button>
+      <button id="scorers-tab" class="tab-button" type="button" role="tab"
+        aria-selected="false" aria-controls="scorers-panel" tabindex="-1">Top scorers</button>
+    </div>
+
+    <section id="games-panel" class="tab-panel" role="tabpanel" aria-labelledby="games-tab">
+      <div class="summary" aria-live="polite">
+        <span id="result-count"></span>
+        <span>Player points and fouls are shown per game.</span>
+      </div>
+      <section id="game-list" class="game-list" aria-label="Completed games"></section>
+    </section>
+
+    <section id="scorers-panel" class="tab-panel" role="tabpanel"
+      aria-labelledby="scorers-tab" hidden>
+      <div class="summary" aria-live="polite">
+        <span id="scorer-count"></span>
+        <span>All players sorted by total points in the selected division and pool.</span>
+      </div>
+      <section id="leader-list" class="leader-groups" aria-label="Top scorers"></section>
+    </section>
+  </main>
+
+  <footer>
+    Data from PlayHQ. The report is self-contained and can be opened locally.
+  </footer>
+
+  <script id="report-data" type="application/json">{"competition_url":"https://www.playhq.com/basketball-victoria/org/victorian-junior-basketball-league/2027/e5908800","scraped_at":"2026-11-20T13:41:23.190762+00:00","grades":[{"grade":"12 Boys Grading 1 - Pool 10A","url":"https://www.playhq.com/basketball-victoria/org/victorian-junior-basketball-league/2027/12-boys-grading-1-pool-10a/c28dc7a5","rounds":[{"round":1,"round_url":"https://www.playhq.com/basketball-victoria/org/victorian-junior-basketball-league/2027/12-boys-grading-1-pool-10a/c28dc7a5/R1","completed_game_count":2,"completed_games":[{"game_id":"69122d31","url":"https://www.playhq.com/basketball-victoria/org/victorian-junior-basketball-league/2027/12-boys-grading-1-pool-10a/game-centre/69122d31","round":1,"status":"FINAL","title":"Dandenong U12 Boys 8 v Southern Peninsula U12 Boys 3, 2027, R1 - Game Centre | PlayHQ","fixture_summary":"Dandenong U12 Boys 8 24 FINAL Southern Peninsula U12 Boys 3 31 Southern Peninsula U12 Boys 3 won by 7 Points 06:40 PM, Fri, 20 Nov 26 Somerville Recreation and Community Centre / Court 2","teams":[{"name":"Dandenong U12 Boys 8","score":24,"period_scores":{"Q1":6,"Q2":3,"Q3":9,"Q4":6}},{"name":"Southern Peninsula U12 Boys 3","score":31,"period_scores":{"Q1":5,"Q2":11,"Q3":7,"Q4":8}}],"player_statistics":[{"team":"Dandenong U12 Boys 8","players":[{"jersey_number":13,"name":"Benjamin Joynt","points":0,"fouls":0},{"jersey_number":25,"name":"Joon Bing Teoh","points":4,"fouls":2},{"jersey_number":29,"name":"Yunqi Zhang","points":2,"fouls":1},{"jersey_number":48,"name":"Levi McQualter","points":7,"fouls":4},{"jersey_number":52,"name":"Lachlan Lin","points":0,"fouls":3},{"jersey_number":57,"name":"Ari Hallaby","points":7,"fouls":2},{"jersey_number":63,"name":"Kaiden Tut","points":2,"fouls":4},{"jersey_number":87,"name":"Shawn Kim","points":2,"fouls":0}],"player_points_total":24,"points_match_score":true},{"team":"Southern Peninsula U12 Boys 3","players":[{"jersey_number":8,"name":"Maxwell Fraser","points":0,"fouls":0},{"jersey_number":23,"name":"Archie Hester","points":10,"fouls":4},{"jersey_number":29,"name":"William Taylor","points":6,"fouls":1},{"jersey_number":38,"name":"Roy Sahely","points":1,"fouls":1},{"jersey_number":54,"name":"Taj Gillespie","points":0,"fouls":2},{"jersey_number":64,"name":"Theo Downie","points":6,"fouls":1},{"jersey_number":68,"name":"Leo McCubbin","points":8,"fouls":4},{"jersey_number":83,"name":"Ned Gili","points":0,"fouls":1}],"player_points_total":31,"points_match_score":true}]},{"game_id":"f55f6d83","url":"https://www.playhq.com/basketball-victoria/org/victorian-junior-basketball-league/2027/12-boys-grading-1-pool-10a/game-centre/f55f6d83","round":1,"status":"FINAL","title":"Chelsea U12 Boys 2 v Sandringham U12 Boys 6, 2027, R1 - Game Centre | PlayHQ","fixture_summary":"Chelsea U12 Boys 2 39 FINAL Sandringham U12 Boys 6 40 Sandringham U12 Boys 6 won by 1 Point 07:40 PM, Fri, 20 Nov 26 Bentleigh Secondary College / Court 3","teams":[{"name":"Chelsea U12 Boys 2","score":39,"period_scores":{"Q1":12,"Q2":10,"Q3":6,"Q4":11}},{"name":"Sandringham U12 Boys 6","score":40,"period_scores":{"Q1":10,"Q2":11,"Q3":10,"Q4":9}}],"player_statistics":[{"team":"Chelsea U12 Boys 2","players":[{"jersey_number":2,"name":"Arlie Gillespie","points":2,"fouls":3},{"jersey_number":6,"name":"Oscar Wilson","points":8,"fouls":3},{"jersey_number":10,"name":"Alexander Constable","points":0,"fouls":1},{"jersey_number":13,"name":"Xander Pitt","points":0,"fouls":0},{"jersey_number":16,"name":"Franklin Murray","points":11,"fouls":1},{"jersey_number":18,"name":"Levi Siliwale","points":10,"fouls":3},{"jersey_number":25,"name":"Dash Fotheringham","points":8,"fouls":1}],"player_points_total":39,"points_match_score":true},{"team":"Sandringham U12 Boys 6","players":[{"jersey_number":4,"name":"Koa Norris","points":6,"fouls":3},{"jersey_number":7,"name":"Windsor Freeman","points":7,"fouls":0},{"jersey_number":9,"name":"Harvey Kenner","points":5,"fouls":0},{"jersey_number":11,"name":"Jimmy Warner","points":4,"fouls":0},{"jersey_number":13,"name":"Hugo White","points":11,"fouls":1},{"jersey_number":15,"name":"Jasper Zhang","points":0,"fouls":1},{"jersey_number":50,"name":"Dommy Carson","points":5,"fouls":2},{"jersey_number":81,"name":"Noah Boom","points":2,"fouls":3}],"player_points_total":40,"points_match_score":true}]}]},{"round":2,"round_url":"https://www.playhq.com/basketball-victoria/org/victorian-junior-basketball-league/2027/12-boys-grading-1-pool-10a/c28dc7a5/R2","completed_game_count":0,"completed_games":[]},{"round":3,"round_url":"https://www.playhq.com/basketball-victoria/org/victorian-junior-basketball-league/2027/12-boys-grading-1-pool-10a/c28dc7a5/R3","completed_game_count":0,"completed_games":[]}]},{"grade":"12 Boys Grading 1 - Pool 10B","url":"https://www.playhq.com/basketball-victoria/org/victorian-junior-basketball-league/2027/12-boys-grading-1-pool-10b/79bf9755","rounds":[{"round":1,"round_url":"https://www.playhq.com/basketball-victoria/org/victorian-junior-basketball-league/2027/12-boys-grading-1-pool-10b/79bf9755/R1","completed_game_count":2,"completed_games":[{"game_id":"6db601f0","url":"https://www.playhq.com/basketball-victoria/org/victorian-junior-basketball-league/2027/12-boys-grading-1-pool-10b/game-centre/6db601f0","round":1,"status":"FINAL","title":"Wyndham U12 Boys 5 v Westgate U12 Boys 4, 2027, R1 - Game Centre | PlayHQ","fixture_summary":"Wyndham U12 Boys 5 27 FINAL Westgate U12 Boys 4 29 Westgate U12 Boys 4 won by 2 Points 06:50 PM, Fri, 20 Nov 26 Altona Sports Centre / Court 9","teams":[{"name":"Wyndham U12 Boys 5","score":27,"period_scores":{"Q1":11,"Q2":4,"Q3":6,"Q4":6}},{"name":"Westgate U12 Boys 4","score":29,"period_scores":{"Q1":7,"Q2":7,"Q3":8,"Q4":7}}],"player_statistics":[{"team":"Wyndham U12 Boys 5","players":[{"jersey_number":15,"name":"Gus Hollingsworth","points":4,"fouls":0},{"jersey_number":28,"name":"Leo Sagato","points":0,"fouls":0},{"jersey_number":31,"name":"Flynn Duniam","points":2,"fouls":1},{"jersey_number":65,"name":"Sean Li","points":3,"fouls":1},{"jersey_number":74,"name":"Ariki Hines","points":2,"fouls":0},{"jersey_number":80,"name":"James Pino","points":1,"fouls":5},{"jersey_number":82,"name":"Darcy Crampin","points":8,"fouls":2},{"jersey_number":88,"name":"Mehtaab Pannu","points":7,"fouls":1}],"player_points_total":27,"points_match_score":true},{"team":"Westgate U12 Boys 4","players":[{"jersey_number":10,"name":"Monty Pook","points":2,"fouls":5},{"jersey_number":11,"name":"Axel Goring","points":2,"fouls":0},{"jersey_number":59,"name":"Joshua Bourdon","points":3,"fouls":3},{"jersey_number":65,"name":"Teo Presti","points":2,"fouls":1},{"jersey_number":68,"name":"Ted Brown","points":3,"fouls":2},{"jersey_number":70,"name":"Sonny Cadd","points":4,"fouls":3},{"jersey_number":71,"name":"Alex McQueen","points":6,"fouls":0},{"jersey_number":72,"name":"Kyle Wong","points":2,"fouls":1},{"jersey_number":75,"name":"Reed McInnes","points":2,"fouls":0},{"jersey_number":76,"name":"Edwin Ralph","points":3,"fouls":1}],"player_points_total":29,"points_match_score":true}]},{"game_id":"658088fd","url":"https://www.playhq.com/basketball-victoria/org/victorian-junior-basketball-league/2027/12-boys-grading-1-pool-10b/game-centre/658088fd","round":1,"status":"FINAL","title":"Coburg U12 Boys 3 v Altona U12 Boys 5, 2027, R1 - Game Centre | PlayHQ","fixture_summary":"Coburg U12 Boys 3 25 FINAL Altona U12 Boys 5 15 Coburg U12 Boys 3 won by 10 Points 07:40 PM, Fri, 20 Nov 26 RecWest Braybrook / Court 2","teams":[{"name":"Coburg U12 Boys 3","score":25,"period_scores":{"Q1":1,"Q2":10,"Q3":4,"Q4":10}},{"name":"Altona U12 Boys 5","score":15,"period_scores":{"Q1":6,"Q2":1,"Q3":2,"Q4":6}}],"player_statistics":[{"team":"Coburg U12 Boys 3","players":[{"jersey_number":7,"name":"Ari Lancaster","points":0,"fouls":1},{"jersey_number":11,"name":"Alec Terenyi","points":0,"fouls":0},{"jersey_number":18,"name":"John Pisani","points":4,"fouls":1},{"jersey_number":19,"name":"Edward Radywonik","points":6,"fouls":1},{"jersey_number":20,"name":"Thomas Gunawardane","points":2,"fouls":0},{"jersey_number":27,"name":"Valentine Duffy-Visser","points":1,"fouls":0},{"jersey_number":34,"name":"Archer Gledhill","points":2,"fouls":3},{"jersey_number":78,"name":"Adam Ibrahim","points":10,"fouls":1},{"jersey_number":85,"name":"Hugo Smith","points":0,"fouls":4}],"player_points_total":25,"points_match_score":true},{"team":"Altona U12 Boys 5","players":[{"jersey_number":5,"name":"Douglas Forrester","points":2,"fouls":2},{"jersey_number":15,"name":"Charlie Galea","points":2,"fouls":0},{"jersey_number":21,"name":"Andre Markus Garcia","points":0,"fouls":0},{"jersey_number":25,"name":"Max Wilson","points":4,"fouls":2},{"jersey_number":86,"name":"Alexander Bilbao","points":2,"fouls":2},{"jersey_number":88,"name":"Roy Hudson","points":0,"fouls":4},{"jersey_number":90,"name":"Ethan Hopkins","points":3,"fouls":1},{"jersey_number":97,"name":"Zachary Garland","points":2,"fouls":0}],"player_points_total":15,"points_match_score":true}]}]},{"round":2,"round_url":"https://www.playhq.com/basketball-victoria/org/victorian-junior-basketball-league/2027/12-boys-grading-1-pool-10b/79bf9755/R2","completed_game_count":0,"completed_games":[]},{"round":3,"round_url":"https://www.playhq.com/basketball-victoria/org/victorian-junior-basketball-league/2027/12-boys-grading-1-pool-10b/79bf9755/R3","completed_game_count":0,"completed_games":[]}]},{"grade":"12 Boys Grading 1 - Pool 10C","url":"https://www.playhq.com/basketball-victoria/org/victorian-junior-basketball-league/2027/12-boys-grading-1-pool-10c/af9fe5eb","rounds":[{"round":1,"round_url":"https://www.playhq.com/basketball-victoria/org/victorian-junior-basketball-league/2027/12-boys-grading-1-pool-10c/af9fe5eb/R1","completed_game_count":2,"completed_games":[{"game_id":"3ed47da6","url":"https://www.playhq.com/basketball-victoria/org/victorian-junior-basketball-league/2027/12-boys-grading-1-pool-10c/game-centre/3ed47da6","round":1,"status":"FINAL","title":"Bulleen U12 Boys 6 v Eltham U12 Boys 7, 2027, R1 - Game Centre | PlayHQ","fixture_summary":"Bulleen U12 Boys 6 17 FINAL Eltham U12 Boys 7 33 Eltham U12 Boys 7 won by 16 Points 06:40 PM, Fri, 20 Nov 26 Donvale Christian College / Court 1","teams":[{"name":"Bulleen U12 Boys 6","score":17,"period_scores":{"Q1":4,"Q2":8,"Q3":4,"Q4":1}},{"name":"Eltham U12 Boys 7","score":33,"period_scores":{"Q1":5,"Q2":8,"Q3":6,"Q4":14}}],"player_statistics":[{"team":"Bulleen U12 Boys 6","players":[{"jersey_number":4,"name":"Noah Pavlickovski","points":1,"fouls":2},{"jersey_number":5,"name":"Micah Gazeas","points":1,"fouls":1},{"jersey_number":22,"name":"Marcel De Angelis","points":2,"fouls":0},{"jersey_number":25,"name":"Zi-Yang Gao","points":2,"fouls":0},{"jersey_number":30,"name":"Max Wang","points":2,"fouls":2},{"jersey_number":31,"name":"Matthew Zheng","points":4,"fouls":2},{"jersey_number":34,"name":"Harvey Enad","points":2,"fouls":3},{"jersey_number":50,"name":"Wil GU","points":0,"fouls":1},{"jersey_number":0,"name":"Private player","points":3,"fouls":2}],"player_points_total":17,"points_match_score":true},{"team":"Eltham U12 Boys 7","players":[{"jersey_number":3,"name":"Harry Bowman","points":2,"fouls":0},{"jersey_number":5,"name":"Xavier Singh","points":7,"fouls":1},{"jersey_number":6,"name":"Ashton Giles","points":2,"fouls":2},{"jersey_number":7,"name":"zihong ye","points":2,"fouls":2},{"jersey_number":9,"name":"Jett Vallay","points":5,"fouls":0},{"jersey_number":10,"name":"Daniel Yu","points":0,"fouls":0},{"jersey_number":15,"name":"Carter Andrews","points":2,"fouls":0},{"jersey_number":17,"name":"Noah Doyle","points":0,"fouls":3},{"jersey_number":40,"name":"Ryan Mccabe","points":8,"fouls":0},{"jersey_number":45,"name":"Jaiden Kincade","points":5,"fouls":0}],"player_points_total":33,"points_match_score":true}]},{"game_id":"6c17ce2a","url":"https://www.playhq.com/basketball-victoria/org/victorian-junior-basketball-league/2027/12-boys-grading-1-pool-10c/game-centre/6c17ce2a","round":1,"status":"FINAL","title":"Collingwood U12 Boys 2 v Darebin U12 Boys 3, 2027, R1 - Game Centre | PlayHQ","fixture_summary":"Collingwood U12 Boys 2 30 FINAL Darebin U12 Boys 3 33 Darebin U12 Boys 3 won by 3 Points 07:30 PM, Fri, 20 Nov 26 Kew High School / Court 1","teams":[{"name":"Collingwood U12 Boys 2","score":30,"period_scores":{"Q1":10,"Q2":6,"Q3":6,"Q4":8}},{"name":"Darebin U12 Boys 3","score":33,"period_scores":{"Q1":4,"Q2":11,"Q3":4,"Q4":14}}],"player_statistics":[{"team":"Collingwood U12 Boys 2","players":[{"jersey_number":8,"name":"Ayden Pearson","points":0,"fouls":1},{"jersey_number":26,"name":"Eli Cameron","points":2,"fouls":3},{"jersey_number":36,"name":"Lenny Leembruggen","points":0,"fouls":0},{"jersey_number":37,"name":"Rio Barker","points":0,"fouls":3},{"jersey_number":42,"name":"Thomas Hall","points":8,"fouls":4},{"jersey_number":48,"name":"Oshi Dyer","points":6,"fouls":3},{"jersey_number":52,"name":"D’Julio Barker-TaaNga","points":0,"fouls":0},{"jersey_number":52,"name":"Max Gale","points":0,"fouls":2},{"jersey_number":62,"name":"Arlo McKenzie","points":14,"fouls":3}],"player_points_total":30,"points_match_score":true},{"team":"Darebin U12 Boys 3","players":[{"jersey_number":7,"name":"Henry Byrne","points":2,"fouls":1},{"jersey_number":12,"name":"Callum Hosking","points":3,"fouls":2},{"jersey_number":16,"name":"Daniel Strappazzon","points":10,"fouls":3},{"jersey_number":23,"name":"Dante Byrne","points":2,"fouls":0},{"jersey_number":28,"name":"Allen Huang","points":2,"fouls":1},{"jersey_number":30,"name":"Bodhi Stabb","points":2,"fouls":0},{"jersey_number":52,"name":"Hudson Milne","points":10,"fouls":0},{"jersey_number":55,"name":"Hudson Quitoriano","points":2,"fouls":1},{"jersey_number":77,"name":"Henry Kelton","points":0,"fouls":1}],"player_points_total":33,"points_match_score":true}]}]},{"round":2,"round_url":"https://www.playhq.com/basketball-victoria/org/victorian-junior-basketball-league/2027/12-boys-grading-1-pool-10c/af9fe5eb/R2","completed_game_count":0,"completed_games":[]},{"round":3,"round_url":"https://www.playhq.com/basketball-victoria/org/victorian-junior-basketball-league/2027/12-boys-grading-1-pool-10c/af9fe5eb/R3","completed_game_count":0,"completed_games":[]}]},{"grade":"12 Boys Grading 1 - Pool 10D","url":"https://www.playhq.com/basketball-victoria/org/victorian-junior-basketball-league/2027/12-boys-grading-1-pool-10d/f0b75281","rounds":[{"round":1,"round_url":"https://www.playhq.com/basketball-victoria/org/victorian-junior-basketball-league/2027/12-boys-grading-1-pool-10d/f0b75281/R1","completed_game_count":2,"completed_games":[{"game_id":"4f648922","url":"https://www.playhq.com/basketball-victoria/org/victorian-junior-basketball-league/2027/12-boys-grading-1-pool-10d/game-centre/4f648922","round":1,"status":"FINAL","title":"Eltham U12 Boys 6 v Ringwood U12 Boys 5, 2027, R1 - Game Centre | PlayHQ","fixture_summary":"Eltham U12 Boys 6 20 FINAL Ringwood U12 Boys 5 64 Ringwood U12 Boys 5 won by 44 Points 06:40 PM, Fri, 20 Nov 26 Mullum Mullum Stadium / Court 5","teams":[{"name":"Eltham U12 Boys 6","score":20,"period_scores":{"Q1":2,"Q2":3,"Q3":8,"Q4":7}},{"name":"Ringwood U12 Boys 5","score":64,"period_scores":{"Q1":11,"Q2":19,"Q3":16,"Q4":18}}],"player_statistics":[{"team":"Eltham U12 Boys 6","players":[{"jersey_number":6,"name":"Mason Burnett","points":3,"fouls":3},{"jersey_number":10,"name":"Cooper Thorley","points":0,"fouls":0},{"jersey_number":11,"name":"Aiden Rashvand","points":5,"fouls":2},{"jersey_number":12,"name":"Hugh James","points":2,"fouls":1},{"jersey_number":13,"name":"Caleb Davis","points":4,"fouls":1},{"jersey_number":16,"name":"Tobin Munton","points":0,"fouls":3},{"jersey_number":17,"name":"Eamon Moffitt","points":2,"fouls":2},{"jersey_number":28,"name":"Oscar Howie","points":2,"fouls":1},{"jersey_number":30,"name":"Pace Stokes","points":2,"fouls":2}],"player_points_total":20,"points_match_score":true},{"team":"Ringwood U12 Boys 5","players":[{"jersey_number":13,"name":"Ashton Migliardi","points":7,"fouls":0},{"jersey_number":16,"name":"Spencer Johnson","points":6,"fouls":2},{"jersey_number":17,"name":"Logan Annells","points":8,"fouls":1},{"jersey_number":20,"name":"Gabriel Zhao","points":9,"fouls":0},{"jersey_number":21,"name":"Jagger Stevens","points":5,"fouls":1},{"jersey_number":22,"name":"Arlo Lambe","points":11,"fouls":0},{"jersey_number":36,"name":"Jayden Cosgriff","points":4,"fouls":2},{"jersey_number":53,"name":"Harvey van Duuren","points":7,"fouls":0},{"jersey_number":67,"name":"William Coy","points":7,"fouls":2}],"player_points_total":64,"points_match_score":true}]},{"game_id":"2b428632","url":"https://www.playhq.com/basketball-victoria/org/victorian-junior-basketball-league/2027/12-boys-grading-1-pool-10d/game-centre/2b428632","round":1,"status":"FINAL","title":"Kilsyth U12 Boys 6 v Nunawading U12 Boys 7, 2027, R1 - Game Centre | PlayHQ","fixture_summary":"Kilsyth U12 Boys 6 41 FINAL Nunawading U12 Boys 7 36 Kilsyth U12 Boys 6 won by 5 Points 07:40 PM, Fri, 20 Nov 26 State Basketball Centre / Court 17","teams":[{"name":"Kilsyth U12 Boys 6","score":41,"period_scores":{"Q1":11,"Q2":8,"Q3":8,"Q4":14}},{"name":"Nunawading U12 Boys 7","score":36,"period_scores":{"Q1":11,"Q2":11,"Q3":2,"Q4":12}}],"player_statistics":[{"team":"Kilsyth U12 Boys 6","players":[{"jersey_number":18,"name":"Arlo Bogaert","points":2,"fouls":0},{"jersey_number":41,"name":"Boston Stride","points":9,"fouls":2},{"jersey_number":43,"name":"Bodhi King","points":12,"fouls":0},{"jersey_number":59,"name":"Ethan De iulio","points":2,"fouls":3},{"jersey_number":60,"name":"Ashton Munn","points":4,"fouls":3},{"jersey_number":61,"name":"Harvey Franks","points":4,"fouls":1},{"jersey_number":63,"name":"Jesse Rose","points":2,"fouls":0},{"jersey_number":64,"name":"Mason Sinclair","points":2,"fouls":3},{"jersey_number":65,"name":"Dane Walters","points":4,"fouls":2}],"player_points_total":41,"points_match_score":true},{"team":"Nunawading U12 Boys 7","players":[{"jersey_number":0,"name":"Harvey Phu","points":0,"fouls":3},{"jersey_number":4,"name":"Ruichen Zhu","points":4,"fouls":2},{"jersey_number":6,"name":"nicholas zhang","points":4,"fouls":0},{"jersey_number":7,"name":"Alexander Dehaini","points":0,"fouls":1},{"jersey_number":9,"name":"Nicolas Mascaro","points":7,"fouls":2},{"jersey_number":12,"name":"Louis Miodek","points":18,"fouls":4},{"jersey_number":13,"name":"Sepanta Pilvar","points":1,"fouls":1},{"jersey_number":14,"name":"Jeremy Fu","points":2,"fouls":2}],"player_points_total":36,"points_match_score":true}]}]},{"round":2,"round_url":"https://www.playhq.com/basketball-victoria/org/victorian-junior-basketball-league/2027/12-boys-grading-1-pool-10d/f0b75281/R2","completed_game_count":0,"completed_games":[]},{"round":3,"round_url":"https://www.playhq.com/basketball-victoria/org/victorian-junior-basketball-league/2027/12-boys-grading-1-pool-10d/f0b75281/R3","completed_game_count":0,"completed_games":[]}]}]}</script>
+  <script>
+    const report = JSON.parse(document.getElementById("report-data").textContent);
+    const games = report.grades.flatMap((grade) => {
+      const match = grade.grade.match(/\bPool\s+(\d+)([A-Z])?\b/i);
+      return grade.rounds.flatMap((round) =>
+        round.completed_games.map((game) => ({
+          ...game,
+          grade: grade.grade,
+          division: match ? match[1] : "Other",
+          pool: match ? (match[2] || "") : ""
+        }))
+      );
+    });
+
+    const divisionFilter = document.getElementById("division-filter");
+    const poolFilter = document.getElementById("pool-filter");
+    const teamSearch = document.getElementById("team-search");
+    const playerSearch = document.getElementById("player-search");
+    const gameList = document.getElementById("game-list");
+    const resultCount = document.getElementById("result-count");
+    const leaderList = document.getElementById("leader-list");
+    const scorerCount = document.getElementById("scorer-count");
+    const gamesTab = document.getElementById("games-tab");
+    const scorersTab = document.getElementById("scorers-tab");
+    const gamesPanel = document.getElementById("games-panel");
+    const scorersPanel = document.getElementById("scorers-panel");
+
+    function addOption(select, value, label) {
+      const option = document.createElement("option");
+      option.value = value;
+      option.textContent = label;
+      select.append(option);
+    }
+
+    const divisions = [...new Set(games.map((game) => game.division))]
+      .sort((a, b) => Number(a) - Number(b));
+    for (const division of divisions) {
+      addOption(divisionFilter, division, `Division ${division}`);
+    }
+
+    function updatePoolOptions() {
+      const current = poolFilter.value;
+      const division = divisionFilter.value;
+      const pools = [...new Set(games
+        .filter((game) => !division || game.division === division)
+        .map((game) => game.pool))]
+        .filter(Boolean)
+        .sort();
+
+      poolFilter.replaceChildren();
+      addOption(poolFilter, "", "All pools");
+      for (const pool of pools) {
+        addOption(poolFilter, pool, `Pool ${pool}`);
+      }
+      if (pools.includes(current)) {
+        poolFilter.value = current;
+      }
+    }
+
+    function escapeHtml(value) {
+      return String(value).replace(/[&<>"']/g, (character) => ({
+        "&": "&amp;",
+        "<": "&lt;",
+        ">": "&gt;",
+        '"': "&quot;",
+        "'": "&#39;"
+      })[character]);
+    }
+
+    function filteredTeams(game, teamTerm, playerTerm) {
+      return game.player_statistics.map((stats) => ({
+        ...stats,
+        players: stats.players.filter((player) =>
+          !playerTerm || player.name.toLocaleLowerCase().includes(playerTerm)
+        )
+      })).filter((stats) =>
+        (!teamTerm || stats.team.toLocaleLowerCase().includes(teamTerm))
+        && stats.players.length > 0
+      );
+    }
+
+    function renderTeamStats(stats) {
+      const rows = stats.players.map((player) => `
+        <tr>
+          <td class="number">${player.jersey_number ?? "–"}</td>
+          <td>${escapeHtml(player.name)}</td>
+          <td class="number">${player.points ?? "–"}</td>
+          <td class="number">${player.fouls ?? "–"}</td>
+        </tr>`).join("");
+      const teamStats = stats.team_stats;
+      const teamStatsRow = teamStats && (teamStats.points || teamStats.fouls)
+        ? `<tr><td class="number">–</td><td>Team stats</td><td class="number">${teamStats.points ?? 0}</td><td class="number">${teamStats.fouls ?? 0}</td></tr>`
+        : "";
+
+      return `
+        <section class="team-stats">
+          <h3>${escapeHtml(stats.team)}</h3>
+          <table>
+            <thead>
+              <tr><th class="number">#</th><th>Player</th><th class="number">Pts</th><th class="number">F</th></tr>
+            </thead>
+            <tbody>${rows}${teamStatsRow}</tbody>
+          </table>
+        </section>`;
+    }
+
+    function formatFixtureSummary(summary) {
+      const start = summary.search(
+        /\b\d{1,2}:\d{2}\s*[AP]M,\s*(?:Mon|Tue|Wed|Thu|Fri|Sat|Sun),?\s+\d{1,2}\s+[A-Za-z]{3}\s+\d{2,4}/i
+      );
+      return start >= 0 ? summary.slice(start).trim() : summary;
+    }
+
+    function renderGame(game, teams) {
+      const renderScoreTeam = (team) => `
+        <div class="score-team">
+          <div class="team-name">${escapeHtml(team.name)}</div>
+          <div class="team-score">${team.score}</div>
+        </div>`;
+      const periodNames = Object.keys(game.teams[0].period_scores);
+      const periodRows = game.teams.map((team) => `
+        <tr>
+          <td>${escapeHtml(team.name)}</td>
+          ${periodNames.map((period) => `<td class="number">${team.period_scores[period] ?? "–"}</td>`).join("")}
+          <td class="number"><strong>${team.score}</strong></td>
+        </tr>`).join("");
+      const periodHeaders = periodNames.map((period) => `<th class="number">${escapeHtml(period)}</th>`).join("");
+      const teamDetails = teams.map(renderTeamStats).join("");
+      const dateAndVenue = escapeHtml(formatFixtureSummary(game.fixture_summary));
+
+      return `
+        <article class="game">
+          <div class="game-top">
+            <span><span class="grade">${escapeHtml(game.grade)}</span> · Round ${game.round}</span>
+            <span class="final">${escapeHtml(game.status)}</span>
+          </div>
+          <div class="game-overview">
+            <section class="team-stats">
+              <h3>Final score</h3>
+              <div class="scoreboard">
+                ${renderScoreTeam(game.teams[0])}
+                <span class="versus">vs</span>
+                ${renderScoreTeam(game.teams[1])}
+              </div>
+            </section>
+            <section class="team-stats">
+              <h3>Quarter-by-quarter scores</h3>
+              <table>
+                <thead><tr><th>Team</th>${periodHeaders}<th class="number">Total</th></tr></thead>
+                <tbody>${periodRows}</tbody>
+              </table>
+            </section>
+          </div>
+          <div class="game-meta">
+            <span>${dateAndVenue}</span>
+            <a href="${escapeHtml(game.url)}" target="_blank" rel="noopener noreferrer">PlayHQ game details ↗</a>
+          </div>
+          <details>
+            <summary>Player statistics</summary>
+            <div class="details-content">
+              ${teamDetails}
+            </div>
+          </details>
+        </article>`;
+    }
+
+    function renderTopScorers(division, pool, teamTerm, playerTerm) {
+      const totals = new Map();
+      for (const game of games) {
+        if (division && game.division !== division) continue;
+        if (pool && game.pool !== pool) continue;
+
+        for (const team of game.player_statistics) {
+          for (const player of team.players) {
+            const key = `${game.division}\u0000${team.team}\u0000${player.name}`;
+            if (!totals.has(key)) {
+              totals.set(key, {
+                division: game.division,
+                team: team.team,
+                name: player.name,
+                points: 0
+              });
+            }
+            totals.get(key).points += player.points ?? 0;
+          }
+        }
+      }
+
+      const byDivision = new Map();
+      for (const scorer of totals.values()) {
+        if (!byDivision.has(scorer.division)) byDivision.set(scorer.division, []);
+        byDivision.get(scorer.division).push(scorer);
+      }
+
+      const groups = [];
+      for (const [divisionNumber, scorers] of byDivision) {
+        const filteredScorers = scorers.filter((scorer) =>
+          (!teamTerm || scorer.team.toLocaleLowerCase().includes(teamTerm))
+          && (!playerTerm || scorer.name.toLocaleLowerCase().includes(playerTerm))
+        );
+        filteredScorers.sort((first, second) =>
+          second.points - first.points
+          || first.name.localeCompare(second.name)
+          || first.team.localeCompare(second.team)
+        );
+        if (filteredScorers.length) {
+          groups.push({division: divisionNumber, scorers: filteredScorers});
+        }
+      }
+
+      const playerTotal = groups.reduce((total, group) => total + group.scorers.length, 0);
+      scorerCount.textContent = `${playerTotal} player${playerTotal === 1 ? "" : "s"} across ${groups.length} division${groups.length === 1 ? "" : "s"}`;
+      leaderList.innerHTML = groups.length
+        ? groups.map((group) => `
+          <section class="leader-group">
+            <h2>Division ${escapeHtml(group.division)}${pool ? ` · Pool ${escapeHtml(pool)}` : ""}</h2>
+            <table class="leader-table">
+              <thead><tr><th>#</th><th>Player</th><th>Team</th><th>Total points</th></tr></thead>
+              <tbody>${group.scorers.map((scorer, index) => `
+                <tr>
+                  <td>${index + 1}</td>
+                  <td>${escapeHtml(scorer.name)}</td>
+                  <td>${escapeHtml(scorer.team)}</td>
+                  <td>${scorer.points}</td>
+                </tr>`).join("")}</tbody>
+            </table>
+          </section>`).join("")
+        : '<div class="empty">No top scorers match those filters.</div>';
+    }
+
+    function render() {
+      const division = divisionFilter.value;
+      const pool = poolFilter.value;
+      const teamTerm = teamSearch.value.trim().toLocaleLowerCase();
+      const playerTerm = playerSearch.value.trim().toLocaleLowerCase();
+      const matchingGames = [];
+
+      for (const game of games) {
+        if (division && game.division !== division) continue;
+        if (pool && game.pool !== pool) continue;
+        const teams = filteredTeams(game, teamTerm, playerTerm);
+        if (teams.length) matchingGames.push({game, teams});
+      }
+
+      const playersShown = matchingGames.reduce(
+        (total, item) => total + item.teams.reduce((count, team) => count + team.players.length, 0),
+        0
+      );
+      resultCount.textContent = `${matchingGames.length} game${matchingGames.length === 1 ? "" : "s"} · ${playersShown} player row${playersShown === 1 ? "" : "s"}`;
+      gameList.innerHTML = matchingGames.length
+        ? matchingGames.map(({game, teams}) => renderGame(game, teams)).join("")
+        : '<div class="empty">No games match those filters.</div>';
+      renderTopScorers(division, pool, teamTerm, playerTerm);
+    }
+
+    function activateTab(tab) {
+      const showGames = tab === "games";
+      gamesTab.setAttribute("aria-selected", String(showGames));
+      gamesTab.tabIndex = showGames ? 0 : -1;
+      scorersTab.setAttribute("aria-selected", String(!showGames));
+      scorersTab.tabIndex = showGames ? -1 : 0;
+      gamesPanel.hidden = !showGames;
+      scorersPanel.hidden = showGames;
+    }
+
+    divisionFilter.addEventListener("change", () => {
+      updatePoolOptions();
+      render();
+    });
+    poolFilter.addEventListener("change", render);
+    teamSearch.addEventListener("input", render);
+    playerSearch.addEventListener("input", render);
+    gamesTab.addEventListener("click", () => activateTab("games"));
+    scorersTab.addEventListener("click", () => activateTab("scorers"));
+
+    updatePoolOptions();
+    render();
+  </script>
+</body>
+</html>

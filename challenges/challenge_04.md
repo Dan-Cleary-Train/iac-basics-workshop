@@ -223,7 +223,7 @@ action to deploy the ARM template:
   with:
     resourceGroupName: ${{ env.ResourceGroupName }}
     subscription: ${{ secrets.AZURE_SUBSCRIPTION }}
-    template: './challenges/challenge_03/storage.json'
+    template: './challenges/templates/challenge_03/storage.json'
     parameters: storageAccountName=${{ env.StorageAccountName }}
 ```
 
@@ -263,7 +263,7 @@ jobs:
       - uses: azure/arm-deploy@v1
         with:
           resourceGroupName: ${{ env.ResourceGroupName }}
-          template: './challenges/challenge_03/storage.json'
+          template: './challenges/templates/challenge_03/storage.json'
           parameters: storageAccountName=${{ env.StorageAccountName }}
 ```
 

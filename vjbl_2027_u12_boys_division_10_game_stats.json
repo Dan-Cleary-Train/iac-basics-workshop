@@ -1,0 +1,1302 @@
+{
+  "competition_url": "https://www.playhq.com/basketball-victoria/org/victorian-junior-basketball-league/2027/e5908800",
+  "scraped_at": "2026-11-20T13:41:23.190762+00:00",
+  "grades": [
+    {
+      "grade": "12 Boys Grading 1 - Pool 10A",
+      "url": "https://www.playhq.com/basketball-victoria/org/victorian-junior-basketball-league/2027/12-boys-grading-1-pool-10a/c28dc7a5",
+      "rounds": [
+        {
+          "round": 1,
+          "round_url": "https://www.playhq.com/basketball-victoria/org/victorian-junior-basketball-league/2027/12-boys-grading-1-pool-10a/c28dc7a5/R1",
+          "completed_game_count": 2,
+          "completed_games": [
+            {
+              "game_id": "69122d31",
+              "url": "https://www.playhq.com/basketball-victoria/org/victorian-junior-basketball-league/2027/12-boys-grading-1-pool-10a/game-centre/69122d31",
+              "round": 1,
+              "status": "FINAL",
+              "title": "Dandenong U12 Boys 8 v Southern Peninsula U12 Boys 3, 2027, R1 - Game Centre | PlayHQ",
+              "fixture_summary": "Dandenong U12 Boys 8 24 FINAL Southern Peninsula U12 Boys 3 31 Southern Peninsula U12 Boys 3 won by 7 Points 06:40 PM, Fri, 20 Nov 26 Somerville Recreation and Community Centre / Court 2",
+              "teams": [
+                {
+                  "name": "Dandenong U12 Boys 8",
+                  "score": 24,
+                  "period_scores": {
+                    "Q1": 6,
+                    "Q2": 3,
+                    "Q3": 9,
+                    "Q4": 6
+                  }
+                },
+                {
+                  "name": "Southern Peninsula U12 Boys 3",
+                  "score": 31,
+                  "period_scores": {
+                    "Q1": 5,
+                    "Q2": 11,
+                    "Q3": 7,
+                    "Q4": 8
+                  }
+                }
+              ],
+              "player_statistics": [
+                {
+                  "team": "Dandenong U12 Boys 8",
+                  "players": [
+                    {
+                      "jersey_number": 13,
+                      "name": "Benjamin Joynt",
+                      "points": 0,
+                      "fouls": 0
+                    },
+                    {
+                      "jersey_number": 25,
+                      "name": "Joon Bing Teoh",
+                      "points": 4,
+                      "fouls": 2
+                    },
+                    {
+                      "jersey_number": 29,
+                      "name": "Yunqi Zhang",
+                      "points": 2,
+                      "fouls": 1
+                    },
+                    {
+                      "jersey_number": 48,
+                      "name": "Levi McQualter",
+                      "points": 7,
+                      "fouls": 4
+                    },
+                    {
+                      "jersey_number": 52,
+                      "name": "Lachlan Lin",
+                      "points": 0,
+                      "fouls": 3
+                    },
+                    {
+                      "jersey_number": 57,
+                      "name": "Ari Hallaby",
+                      "points": 7,
+                      "fouls": 2
+                    },
+                    {
+                      "jersey_number": 63,
+                      "name": "Kaiden Tut",
+                      "points": 2,
+                      "fouls": 4
+                    },
+                    {
+                      "jersey_number": 87,
+                      "name": "Shawn Kim",
+                      "points": 2,
+                      "fouls": 0
+                    }
+                  ],
+                  "player_points_total": 24,
+                  "points_match_score": true
+                },
+                {
+                  "team": "Southern Peninsula U12 Boys 3",
+                  "players": [
+                    {
+                      "jersey_number": 8,
+                      "name": "Maxwell Fraser",
+                      "points": 0,
+                      "fouls": 0
+                    },
+                    {
+                      "jersey_number": 23,
+                      "name": "Archie Hester",
+                      "points": 10,
+                      "fouls": 4
+                    },
+                    {
+                      "jersey_number": 29,
+                      "name": "William Taylor",
+                      "points": 6,
+                      "fouls": 1
+                    },
+                    {
+                      "jersey_number": 38,
+                      "name": "Roy Sahely",
+                      "points": 1,
+                      "fouls": 1
+                    },
+                    {
+                      "jersey_number": 54,
+                      "name": "Taj Gillespie",
+                      "points": 0,
+                      "fouls": 2
+                    },
+                    {
+                      "jersey_number": 64,
+                      "name": "Theo Downie",
+                      "points": 6,
+                      "fouls": 1
+                    },
+                    {
+                      "jersey_number": 68,
+                      "name": "Leo McCubbin",
+                      "points": 8,
+                      "fouls": 4
+                    },
+                    {
+                      "jersey_number": 83,
+                      "name": "Ned Gili",
+                      "points": 0,
+                      "fouls": 1
+                    }
+                  ],
+                  "player_points_total": 31,
+                  "points_match_score": true
+                }
+              ]
+            },
+            {
+              "game_id": "f55f6d83",
+              "url": "https://www.playhq.com/basketball-victoria/org/victorian-junior-basketball-league/2027/12-boys-grading-1-pool-10a/game-centre/f55f6d83",
+              "round": 1,
+              "status": "FINAL",
+              "title": "Chelsea U12 Boys 2 v Sandringham U12 Boys 6, 2027, R1 - Game Centre | PlayHQ",
+              "fixture_summary": "Chelsea U12 Boys 2 39 FINAL Sandringham U12 Boys 6 40 Sandringham U12 Boys 6 won by 1 Point 07:40 PM, Fri, 20 Nov 26 Bentleigh Secondary College / Court 3",
+              "teams": [
+                {
+                  "name": "Chelsea U12 Boys 2",
+                  "score": 39,
+                  "period_scores": {
+                    "Q1": 12,
+                    "Q2": 10,
+                    "Q3": 6,
+                    "Q4": 11
+                  }
+                },
+                {
+                  "name": "Sandringham U12 Boys 6",
+                  "score": 40,
+                  "period_scores": {
+                    "Q1": 10,
+                    "Q2": 11,
+                    "Q3": 10,
+                    "Q4": 9
+                  }
+                }
+              ],
+              "player_statistics": [
+                {
+                  "team": "Chelsea U12 Boys 2",
+                  "players": [
+                    {
+                      "jersey_number": 2,
+                      "name": "Arlie Gillespie",
+                      "points": 2,
+                      "fouls": 3
+                    },
+                    {
+                      "jersey_number": 6,
+                      "name": "Oscar Wilson",
+                      "points": 8,
+                      "fouls": 3
+                    },
+                    {
+                      "jersey_number": 10,
+                      "name": "Alexander Constable",
+                      "points": 0,
+                      "fouls": 1
+                    },
+                    {
+                      "jersey_number": 13,
+                      "name": "Xander Pitt",
+                      "points": 0,
+                      "fouls": 0
+                    },
+                    {
+                      "jersey_number": 16,
+                      "name": "Franklin Murray",
+                      "points": 11,
+                      "fouls": 1
+                    },
+                    {
+                      "jersey_number": 18,
+                      "name": "Levi Siliwale",
+                      "points": 10,
+                      "fouls": 3
+                    },
+                    {
+                      "jersey_number": 25,
+                      "name": "Dash Fotheringham",
+                      "points": 8,
+                      "fouls": 1
+                    }
+                  ],
+                  "player_points_total": 39,
+                  "points_match_score": true
+                },
+                {
+                  "team": "Sandringham U12 Boys 6",
+                  "players": [
+                    {
+                      "jersey_number": 4,
+                      "name": "Koa Norris",
+                      "points": 6,
+                      "fouls": 3
+                    },
+                    {
+                      "jersey_number": 7,
+                      "name": "Windsor Freeman",
+                      "points": 7,
+                      "fouls": 0
+                    },
+                    {
+                      "jersey_number": 9,
+                      "name": "Harvey Kenner",
+                      "points": 5,
+                      "fouls": 0
+                    },
+                    {
+                      "jersey_number": 11,
+                      "name": "Jimmy Warner",
+                      "points": 4,
+                      "fouls": 0
+                    },
+                    {
+                      "jersey_number": 13,
+                      "name": "Hugo White",
+                      "points": 11,
+                      "fouls": 1
+                    },
+                    {
+                      "jersey_number": 15,
+                      "name": "Jasper Zhang",
+                      "points": 0,
+                      "fouls": 1
+                    },
+                    {
+                      "jersey_number": 50,
+                      "name": "Dommy Carson",
+                      "points": 5,
+                      "fouls": 2
+                    },
+                    {
+                      "jersey_number": 81,
+                      "name": "Noah Boom",
+                      "points": 2,
+                      "fouls": 3
+                    }
+                  ],
+                  "player_points_total": 40,
+                  "points_match_score": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "round_url": "https://www.playhq.com/basketball-victoria/org/victorian-junior-basketball-league/2027/12-boys-grading-1-pool-10a/c28dc7a5/R2",
+          "completed_game_count": 0,
+          "completed_games": []
+        },
+        {
+          "round": 3,
+          "round_url": "https://www.playhq.com/basketball-victoria/org/victorian-junior-basketball-league/2027/12-boys-grading-1-pool-10a/c28dc7a5/R3",
+          "completed_game_count": 0,
+          "completed_games": []
+        }
+      ]
+    },
+    {
+      "grade": "12 Boys Grading 1 - Pool 10B",
+      "url": "https://www.playhq.com/basketball-victoria/org/victorian-junior-basketball-league/2027/12-boys-grading-1-pool-10b/79bf9755",
+      "rounds": [
+        {
+          "round": 1,
+          "round_url": "https://www.playhq.com/basketball-victoria/org/victorian-junior-basketball-league/2027/12-boys-grading-1-pool-10b/79bf9755/R1",
+          "completed_game_count": 2,
+          "completed_games": [
+            {
+              "game_id": "6db601f0",
+              "url": "https://www.playhq.com/basketball-victoria/org/victorian-junior-basketball-league/2027/12-boys-grading-1-pool-10b/game-centre/6db601f0",
+              "round": 1,
+              "status": "FINAL",
+              "title": "Wyndham U12 Boys 5 v Westgate U12 Boys 4, 2027, R1 - Game Centre | PlayHQ",
+              "fixture_summary": "Wyndham U12 Boys 5 27 FINAL Westgate U12 Boys 4 29 Westgate U12 Boys 4 won by 2 Points 06:50 PM, Fri, 20 Nov 26 Altona Sports Centre / Court 9",
+              "teams": [
+                {
+                  "name": "Wyndham U12 Boys 5",
+                  "score": 27,
+                  "period_scores": {
+                    "Q1": 11,
+                    "Q2": 4,
+                    "Q3": 6,
+                    "Q4": 6
+                  }
+                },
+                {
+                  "name": "Westgate U12 Boys 4",
+                  "score": 29,
+                  "period_scores": {
+                    "Q1": 7,
+                    "Q2": 7,
+                    "Q3": 8,
+                    "Q4": 7
+                  }
+                }
+              ],
+              "player_statistics": [
+                {
+                  "team": "Wyndham U12 Boys 5",
+                  "players": [
+                    {
+                      "jersey_number": 15,
+                      "name": "Gus Hollingsworth",
+                      "points": 4,
+                      "fouls": 0
+                    },
+                    {
+                      "jersey_number": 28,
+                      "name": "Leo Sagato",
+                      "points": 0,
+                      "fouls": 0
+                    },
+                    {
+                      "jersey_number": 31,
+                      "name": "Flynn Duniam",
+                      "points": 2,
+                      "fouls": 1
+                    },
+                    {
+                      "jersey_number": 65,
+                      "name": "Sean Li",
+                      "points": 3,
+                      "fouls": 1
+                    },
+                    {
+                      "jersey_number": 74,
+                      "name": "Ariki Hines",
+                      "points": 2,
+                      "fouls": 0
+                    },
+                    {
+                      "jersey_number": 80,
+                      "name": "James Pino",
+                      "points": 1,
+                      "fouls": 5
+                    },
+                    {
+                      "jersey_number": 82,
+                      "name": "Darcy Crampin",
+                      "points": 8,
+                      "fouls": 2
+                    },
+                    {
+                      "jersey_number": 88,
+                      "name": "Mehtaab Pannu",
+                      "points": 7,
+                      "fouls": 1
+                    }
+                  ],
+                  "player_points_total": 27,
+                  "points_match_score": true
+                },
+                {
+                  "team": "Westgate U12 Boys 4",
+                  "players": [
+                    {
+                      "jersey_number": 10,
+                      "name": "Monty Pook",
+                      "points": 2,
+                      "fouls": 5
+                    },
+                    {
+                      "jersey_number": 11,
+                      "name": "Axel Goring",
+                      "points": 2,
+                      "fouls": 0
+                    },
+                    {
+                      "jersey_number": 59,
+                      "name": "Joshua Bourdon",
+                      "points": 3,
+                      "fouls": 3
+                    },
+                    {
+                      "jersey_number": 65,
+                      "name": "Teo Presti",
+                      "points": 2,
+                      "fouls": 1
+                    },
+                    {
+                      "jersey_number": 68,
+                      "name": "Ted Brown",
+                      "points": 3,
+                      "fouls": 2
+                    },
+                    {
+                      "jersey_number": 70,
+                      "name": "Sonny Cadd",
+                      "points": 4,
+                      "fouls": 3
+                    },
+                    {
+                      "jersey_number": 71,
+                      "name": "Alex McQueen",
+                      "points": 6,
+                      "fouls": 0
+                    },
+                    {
+                      "jersey_number": 72,
+                      "name": "Kyle Wong",
+                      "points": 2,
+                      "fouls": 1
+                    },
+                    {
+                      "jersey_number": 75,
+                      "name": "Reed McInnes",
+                      "points": 2,
+                      "fouls": 0
+                    },
+                    {
+                      "jersey_number": 76,
+                      "name": "Edwin Ralph",
+                      "points": 3,
+                      "fouls": 1
+                    }
+                  ],
+                  "player_points_total": 29,
+                  "points_match_score": true
+                }
+              ]
+            },
+            {
+              "game_id": "658088fd",
+              "url": "https://www.playhq.com/basketball-victoria/org/victorian-junior-basketball-league/2027/12-boys-grading-1-pool-10b/game-centre/658088fd",
+              "round": 1,
+              "status": "FINAL",
+              "title": "Coburg U12 Boys 3 v Altona U12 Boys 5, 2027, R1 - Game Centre | PlayHQ",
+              "fixture_summary": "Coburg U12 Boys 3 25 FINAL Altona U12 Boys 5 15 Coburg U12 Boys 3 won by 10 Points 07:40 PM, Fri, 20 Nov 26 RecWest Braybrook / Court 2",
+              "teams": [
+                {
+                  "name": "Coburg U12 Boys 3",
+                  "score": 25,
+                  "period_scores": {
+                    "Q1": 1,
+                    "Q2": 10,
+                    "Q3": 4,
+                    "Q4": 10
+                  }
+                },
+                {
+                  "name": "Altona U12 Boys 5",
+                  "score": 15,
+                  "period_scores": {
+                    "Q1": 6,
+                    "Q2": 1,
+                    "Q3": 2,
+                    "Q4": 6
+                  }
+                }
+              ],
+              "player_statistics": [
+                {
+                  "team": "Coburg U12 Boys 3",
+                  "players": [
+                    {
+                      "jersey_number": 7,
+                      "name": "Ari Lancaster",
+                      "points": 0,
+                      "fouls": 1
+                    },
+                    {
+                      "jersey_number": 11,
+                      "name": "Alec Terenyi",
+                      "points": 0,
+                      "fouls": 0
+                    },
+                    {
+                      "jersey_number": 18,
+                      "name": "John Pisani",
+                      "points": 4,
+                      "fouls": 1
+                    },
+                    {
+                      "jersey_number": 19,
+                      "name": "Edward Radywonik",
+                      "points": 6,
+                      "fouls": 1
+                    },
+                    {
+                      "jersey_number": 20,
+                      "name": "Thomas Gunawardane",
+                      "points": 2,
+                      "fouls": 0
+                    },
+                    {
+                      "jersey_number": 27,
+                      "name": "Valentine Duffy-Visser",
+                      "points": 1,
+                      "fouls": 0
+                    },
+                    {
+                      "jersey_number": 34,
+                      "name": "Archer Gledhill",
+                      "points": 2,
+                      "fouls": 3
+                    },
+                    {
+                      "jersey_number": 78,
+                      "name": "Adam Ibrahim",
+                      "points": 10,
+                      "fouls": 1
+                    },
+                    {
+                      "jersey_number": 85,
+                      "name": "Hugo Smith",
+                      "points": 0,
+                      "fouls": 4
+                    }
+                  ],
+                  "player_points_total": 25,
+                  "points_match_score": true
+                },
+                {
+                  "team": "Altona U12 Boys 5",
+                  "players": [
+                    {
+                      "jersey_number": 5,
+                      "name": "Douglas Forrester",
+                      "points": 2,
+                      "fouls": 2
+                    },
+                    {
+                      "jersey_number": 15,
+                      "name": "Charlie Galea",
+                      "points": 2,
+                      "fouls": 0
+                    },
+                    {
+                      "jersey_number": 21,
+                      "name": "Andre Markus Garcia",
+                      "points": 0,
+                      "fouls": 0
+                    },
+                    {
+                      "jersey_number": 25,
+                      "name": "Max Wilson",
+                      "points": 4,
+                      "fouls": 2
+                    },
+                    {
+                      "jersey_number": 86,
+                      "name": "Alexander Bilbao",
+                      "points": 2,
+                      "fouls": 2
+                    },
+                    {
+                      "jersey_number": 88,
+                      "name": "Roy Hudson",
+                      "points": 0,
+                      "fouls": 4
+                    },
+                    {
+                      "jersey_number": 90,
+                      "name": "Ethan Hopkins",
+                      "points": 3,
+                      "fouls": 1
+                    },
+                    {
+                      "jersey_number": 97,
+                      "name": "Zachary Garland",
+                      "points": 2,
+                      "fouls": 0
+                    }
+                  ],
+                  "player_points_total": 15,
+                  "points_match_score": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "round_url": "https://www.playhq.com/basketball-victoria/org/victorian-junior-basketball-league/2027/12-boys-grading-1-pool-10b/79bf9755/R2",
+          "completed_game_count": 0,
+          "completed_games": []
+        },
+        {
+          "round": 3,
+          "round_url": "https://www.playhq.com/basketball-victoria/org/victorian-junior-basketball-league/2027/12-boys-grading-1-pool-10b/79bf9755/R3",
+          "completed_game_count": 0,
+          "completed_games": []
+        }
+      ]
+    },
+    {
+      "grade": "12 Boys Grading 1 - Pool 10C",
+      "url": "https://www.playhq.com/basketball-victoria/org/victorian-junior-basketball-league/2027/12-boys-grading-1-pool-10c/af9fe5eb",
+      "rounds": [
+        {
+          "round": 1,
+          "round_url": "https://www.playhq.com/basketball-victoria/org/victorian-junior-basketball-league/2027/12-boys-grading-1-pool-10c/af9fe5eb/R1",
+          "completed_game_count": 2,
+          "completed_games": [
+            {
+              "game_id": "3ed47da6",
+              "url": "https://www.playhq.com/basketball-victoria/org/victorian-junior-basketball-league/2027/12-boys-grading-1-pool-10c/game-centre/3ed47da6",
+              "round": 1,
+              "status": "FINAL",
+              "title": "Bulleen U12 Boys 6 v Eltham U12 Boys 7, 2027, R1 - Game Centre | PlayHQ",
+              "fixture_summary": "Bulleen U12 Boys 6 17 FINAL Eltham U12 Boys 7 33 Eltham U12 Boys 7 won by 16 Points 06:40 PM, Fri, 20 Nov 26 Donvale Christian College / Court 1",
+              "teams": [
+                {
+                  "name": "Bulleen U12 Boys 6",
+                  "score": 17,
+                  "period_scores": {
+                    "Q1": 4,
+                    "Q2": 8,
+                    "Q3": 4,
+                    "Q4": 1
+                  }
+                },
+                {
+                  "name": "Eltham U12 Boys 7",
+                  "score": 33,
+                  "period_scores": {
+                    "Q1": 5,
+                    "Q2": 8,
+                    "Q3": 6,
+                    "Q4": 14
+                  }
+                }
+              ],
+              "player_statistics": [
+                {
+                  "team": "Bulleen U12 Boys 6",
+                  "players": [
+                    {
+                      "jersey_number": 4,
+                      "name": "Noah Pavlickovski",
+                      "points": 1,
+                      "fouls": 2
+                    },
+                    {
+                      "jersey_number": 5,
+                      "name": "Micah Gazeas",
+                      "points": 1,
+                      "fouls": 1
+                    },
+                    {
+                      "jersey_number": 22,
+                      "name": "Marcel De Angelis",
+                      "points": 2,
+                      "fouls": 0
+                    },
+                    {
+                      "jersey_number": 25,
+                      "name": "Zi-Yang Gao",
+                      "points": 2,
+                      "fouls": 0
+                    },
+                    {
+                      "jersey_number": 30,
+                      "name": "Max Wang",
+                      "points": 2,
+                      "fouls": 2
+                    },
+                    {
+                      "jersey_number": 31,
+                      "name": "Matthew Zheng",
+                      "points": 4,
+                      "fouls": 2
+                    },
+                    {
+                      "jersey_number": 34,
+                      "name": "Harvey Enad",
+                      "points": 2,
+                      "fouls": 3
+                    },
+                    {
+                      "jersey_number": 50,
+                      "name": "Wil GU",
+                      "points": 0,
+                      "fouls": 1
+                    },
+                    {
+                      "jersey_number": 0,
+                      "name": "Private player",
+                      "points": 3,
+                      "fouls": 2
+                    }
+                  ],
+                  "player_points_total": 17,
+                  "points_match_score": true
+                },
+                {
+                  "team": "Eltham U12 Boys 7",
+                  "players": [
+                    {
+                      "jersey_number": 3,
+                      "name": "Harry Bowman",
+                      "points": 2,
+                      "fouls": 0
+                    },
+                    {
+                      "jersey_number": 5,
+                      "name": "Xavier Singh",
+                      "points": 7,
+                      "fouls": 1
+                    },
+                    {
+                      "jersey_number": 6,
+                      "name": "Ashton Giles",
+                      "points": 2,
+                      "fouls": 2
+                    },
+                    {
+                      "jersey_number": 7,
+                      "name": "zihong ye",
+                      "points": 2,
+                      "fouls": 2
+                    },
+                    {
+                      "jersey_number": 9,
+                      "name": "Jett Vallay",
+                      "points": 5,
+                      "fouls": 0
+                    },
+                    {
+                      "jersey_number": 10,
+                      "name": "Daniel Yu",
+                      "points": 0,
+                      "fouls": 0
+                    },
+                    {
+                      "jersey_number": 15,
+                      "name": "Carter Andrews",
+                      "points": 2,
+                      "fouls": 0
+                    },
+                    {
+                      "jersey_number": 17,
+                      "name": "Noah Doyle",
+                      "points": 0,
+                      "fouls": 3
+                    },
+                    {
+                      "jersey_number": 40,
+                      "name": "Ryan Mccabe",
+                      "points": 8,
+                      "fouls": 0
+                    },
+                    {
+                      "jersey_number": 45,
+                      "name": "Jaiden Kincade",
+                      "points": 5,
+                      "fouls": 0
+                    }
+                  ],
+                  "player_points_total": 33,
+                  "points_match_score": true
+                }
+              ]
+            },
+            {
+              "game_id": "6c17ce2a",
+              "url": "https://www.playhq.com/basketball-victoria/org/victorian-junior-basketball-league/2027/12-boys-grading-1-pool-10c/game-centre/6c17ce2a",
+              "round": 1,
+              "status": "FINAL",
+              "title": "Collingwood U12 Boys 2 v Darebin U12 Boys 3, 2027, R1 - Game Centre | PlayHQ",
+              "fixture_summary": "Collingwood U12 Boys 2 30 FINAL Darebin U12 Boys 3 33 Darebin U12 Boys 3 won by 3 Points 07:30 PM, Fri, 20 Nov 26 Kew High School / Court 1",
+              "teams": [
+                {
+                  "name": "Collingwood U12 Boys 2",
+                  "score": 30,
+                  "period_scores": {
+                    "Q1": 10,
+                    "Q2": 6,
+                    "Q3": 6,
+                    "Q4": 8
+                  }
+                },
+                {
+                  "name": "Darebin U12 Boys 3",
+                  "score": 33,
+                  "period_scores": {
+                    "Q1": 4,
+                    "Q2": 11,
+                    "Q3": 4,
+                    "Q4": 14
+                  }
+                }
+              ],
+              "player_statistics": [
+                {
+                  "team": "Collingwood U12 Boys 2",
+                  "players": [
+                    {
+                      "jersey_number": 8,
+                      "name": "Ayden Pearson",
+                      "points": 0,
+                      "fouls": 1
+                    },
+                    {
+                      "jersey_number": 26,
+                      "name": "Eli Cameron",
+                      "points": 2,
+                      "fouls": 3
+                    },
+                    {
+                      "jersey_number": 36,
+                      "name": "Lenny Leembruggen",
+                      "points": 0,
+                      "fouls": 0
+                    },
+                    {
+                      "jersey_number": 37,
+                      "name": "Rio Barker",
+                      "points": 0,
+                      "fouls": 3
+                    },
+                    {
+                      "jersey_number": 42,
+                      "name": "Thomas Hall",
+                      "points": 8,
+                      "fouls": 4
+                    },
+                    {
+                      "jersey_number": 48,
+                      "name": "Oshi Dyer",
+                      "points": 6,
+                      "fouls": 3
+                    },
+                    {
+                      "jersey_number": 52,
+                      "name": "D’Julio Barker-TaaNga",
+                      "points": 0,
+                      "fouls": 0
+                    },
+                    {
+                      "jersey_number": 52,
+                      "name": "Max Gale",
+                      "points": 0,
+                      "fouls": 2
+                    },
+                    {
+                      "jersey_number": 62,
+                      "name": "Arlo McKenzie",
+                      "points": 14,
+                      "fouls": 3
+                    }
+                  ],
+                  "player_points_total": 30,
+                  "points_match_score": true
+                },
+                {
+                  "team": "Darebin U12 Boys 3",
+                  "players": [
+                    {
+                      "jersey_number": 7,
+                      "name": "Henry Byrne",
+                      "points": 2,
+                      "fouls": 1
+                    },
+                    {
+                      "jersey_number": 12,
+                      "name": "Callum Hosking",
+                      "points": 3,
+                      "fouls": 2
+                    },
+                    {
+                      "jersey_number": 16,
+                      "name": "Daniel Strappazzon",
+                      "points": 10,
+                      "fouls": 3
+                    },
+                    {
+                      "jersey_number": 23,
+                      "name": "Dante Byrne",
+                      "points": 2,
+                      "fouls": 0
+                    },
+                    {
+                      "jersey_number": 28,
+                      "name": "Allen Huang",
+                      "points": 2,
+                      "fouls": 1
+                    },
+                    {
+                      "jersey_number": 30,
+                      "name": "Bodhi Stabb",
+                      "points": 2,
+                      "fouls": 0
+                    },
+                    {
+                      "jersey_number": 52,
+                      "name": "Hudson Milne",
+                      "points": 10,
+                      "fouls": 0
+                    },
+                    {
+                      "jersey_number": 55,
+                      "name": "Hudson Quitoriano",
+                      "points": 2,
+                      "fouls": 1
+                    },
+                    {
+                      "jersey_number": 77,
+                      "name": "Henry Kelton",
+                      "points": 0,
+                      "fouls": 1
+                    }
+                  ],
+                  "player_points_total": 33,
+                  "points_match_score": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "round_url": "https://www.playhq.com/basketball-victoria/org/victorian-junior-basketball-league/2027/12-boys-grading-1-pool-10c/af9fe5eb/R2",
+          "completed_game_count": 0,
+          "completed_games": []
+        },
+        {
+          "round": 3,
+          "round_url": "https://www.playhq.com/basketball-victoria/org/victorian-junior-basketball-league/2027/12-boys-grading-1-pool-10c/af9fe5eb/R3",
+          "completed_game_count": 0,
+          "completed_games": []
+        }
+      ]
+    },
+    {
+      "grade": "12 Boys Grading 1 - Pool 10D",
+      "url": "https://www.playhq.com/basketball-victoria/org/victorian-junior-basketball-league/2027/12-boys-grading-1-pool-10d/f0b75281",
+      "rounds": [
+        {
+          "round": 1,
+          "round_url": "https://www.playhq.com/basketball-victoria/org/victorian-junior-basketball-league/2027/12-boys-grading-1-pool-10d/f0b75281/R1",
+          "completed_game_count": 2,
+          "completed_games": [
+            {
+              "game_id": "4f648922",
+              "url": "https://www.playhq.com/basketball-victoria/org/victorian-junior-basketball-league/2027/12-boys-grading-1-pool-10d/game-centre/4f648922",
+              "round": 1,
+              "status": "FINAL",
+              "title": "Eltham U12 Boys 6 v Ringwood U12 Boys 5, 2027, R1 - Game Centre | PlayHQ",
+              "fixture_summary": "Eltham U12 Boys 6 20 FINAL Ringwood U12 Boys 5 64 Ringwood U12 Boys 5 won by 44 Points 06:40 PM, Fri, 20 Nov 26 Mullum Mullum Stadium / Court 5",
+              "teams": [
+                {
+                  "name": "Eltham U12 Boys 6",
+                  "score": 20,
+                  "period_scores": {
+                    "Q1": 2,
+                    "Q2": 3,
+                    "Q3": 8,
+                    "Q4": 7
+                  }
+                },
+                {
+                  "name": "Ringwood U12 Boys 5",
+                  "score": 64,
+                  "period_scores": {
+                    "Q1": 11,
+                    "Q2": 19,
+                    "Q3": 16,
+                    "Q4": 18
+                  }
+                }
+              ],
+              "player_statistics": [
+                {
+                  "team": "Eltham U12 Boys 6",
+                  "players": [
+                    {
+                      "jersey_number": 6,
+                      "name": "Mason Burnett",
+                      "points": 3,
+                      "fouls": 3
+                    },
+                    {
+                      "jersey_number": 10,
+                      "name": "Cooper Thorley",
+                      "points": 0,
+                      "fouls": 0
+                    },
+                    {
+                      "jersey_number": 11,
+                      "name": "Aiden Rashvand",
+                      "points": 5,
+                      "fouls": 2
+                    },
+                    {
+                      "jersey_number": 12,
+                      "name": "Hugh James",
+                      "points": 2,
+                      "fouls": 1
+                    },
+                    {
+                      "jersey_number": 13,
+                      "name": "Caleb Davis",
+                      "points": 4,
+                      "fouls": 1
+                    },
+                    {
+                      "jersey_number": 16,
+                      "name": "Tobin Munton",
+                      "points": 0,
+                      "fouls": 3
+                    },
+                    {
+                      "jersey_number": 17,
+                      "name": "Eamon Moffitt",
+                      "points": 2,
+                      "fouls": 2
+                    },
+                    {
+                      "jersey_number": 28,
+                      "name": "Oscar Howie",
+                      "points": 2,
+                      "fouls": 1
+                    },
+                    {
+                      "jersey_number": 30,
+                      "name": "Pace Stokes",
+                      "points": 2,
+                      "fouls": 2
+                    }
+                  ],
+                  "player_points_total": 20,
+                  "points_match_score": true
+                },
+                {
+                  "team": "Ringwood U12 Boys 5",
+                  "players": [
+                    {
+                      "jersey_number": 13,
+                      "name": "Ashton Migliardi",
+                      "points": 7,
+                      "fouls": 0
+                    },
+                    {
+                      "jersey_number": 16,
+                      "name": "Spencer Johnson",
+                      "points": 6,
+                      "fouls": 2
+                    },
+                    {
+                      "jersey_number": 17,
+                      "name": "Logan Annells",
+                      "points": 8,
+                      "fouls": 1
+                    },
+                    {
+                      "jersey_number": 20,
+                      "name": "Gabriel Zhao",
+                      "points": 9,
+                      "fouls": 0
+                    },
+                    {
+                      "jersey_number": 21,
+                      "name": "Jagger Stevens",
+                      "points": 5,
+                      "fouls": 1
+                    },
+                    {
+                      "jersey_number": 22,
+                      "name": "Arlo Lambe",
+                      "points": 11,
+                      "fouls": 0
+                    },
+                    {
+                      "jersey_number": 36,
+                      "name": "Jayden Cosgriff",
+                      "points": 4,
+                      "fouls": 2
+                    },
+                    {
+                      "jersey_number": 53,
+                      "name": "Harvey van Duuren",
+                      "points": 7,
+                      "fouls": 0
+                    },
+                    {
+                      "jersey_number": 67,
+                      "name": "William Coy",
+                      "points": 7,
+                      "fouls": 2
+                    }
+                  ],
+                  "player_points_total": 64,
+                  "points_match_score": true
+                }
+              ]
+            },
+            {
+              "game_id": "2b428632",
+              "url": "https://www.playhq.com/basketball-victoria/org/victorian-junior-basketball-league/2027/12-boys-grading-1-pool-10d/game-centre/2b428632",
+              "round": 1,
+              "status": "FINAL",
+              "title": "Kilsyth U12 Boys 6 v Nunawading U12 Boys 7, 2027, R1 - Game Centre | PlayHQ",
+              "fixture_summary": "Kilsyth U12 Boys 6 41 FINAL Nunawading U12 Boys 7 36 Kilsyth U12 Boys 6 won by 5 Points 07:40 PM, Fri, 20 Nov 26 State Basketball Centre / Court 17",
+              "teams": [
+                {
+                  "name": "Kilsyth U12 Boys 6",
+                  "score": 41,
+                  "period_scores": {
+                    "Q1": 11,
+                    "Q2": 8,
+                    "Q3": 8,
+                    "Q4": 14
+                  }
+                },
+                {
+                  "name": "Nunawading U12 Boys 7",
+                  "score": 36,
+                  "period_scores": {
+                    "Q1": 11,
+                    "Q2": 11,
+                    "Q3": 2,
+                    "Q4": 12
+                  }
+                }
+              ],
+              "player_statistics": [
+                {
+                  "team": "Kilsyth U12 Boys 6",
+                  "players": [
+                    {
+                      "jersey_number": 18,
+                      "name": "Arlo Bogaert",
+                      "points": 2,
+                      "fouls": 0
+                    },
+                    {
+                      "jersey_number": 41,
+                      "name": "Boston Stride",
+                      "points": 9,
+                      "fouls": 2
+                    },
+                    {
+                      "jersey_number": 43,
+                      "name": "Bodhi King",
+                      "points": 12,
+                      "fouls": 0
+                    },
+                    {
+                      "jersey_number": 59,
+                      "name": "Ethan De iulio",
+                      "points": 2,
+                      "fouls": 3
+                    },
+                    {
+                      "jersey_number": 60,
+                      "name": "Ashton Munn",
+                      "points": 4,
+                      "fouls": 3
+                    },
+                    {
+                      "jersey_number": 61,
+                      "name": "Harvey Franks",
+                      "points": 4,
+                      "fouls": 1
+                    },
+                    {
+                      "jersey_number": 63,
+                      "name": "Jesse Rose",
+                      "points": 2,
+                      "fouls": 0
+                    },
+                    {
+                      "jersey_number": 64,
+                      "name": "Mason Sinclair",
+                      "points": 2,
+                      "fouls": 3
+                    },
+                    {
+                      "jersey_number": 65,
+                      "name": "Dane Walters",
+                      "points": 4,
+                      "fouls": 2
+                    }
+                  ],
+                  "player_points_total": 41,
+                  "points_match_score": true
+                },
+                {
+                  "team": "Nunawading U12 Boys 7",
+                  "players": [
+                    {
+                      "jersey_number": 0,
+                      "name": "Harvey Phu",
+                      "points": 0,
+                      "fouls": 3
+                    },
+                    {
+                      "jersey_number": 4,
+                      "name": "Ruichen Zhu",
+                      "points": 4,
+                      "fouls": 2
+                    },
+                    {
+                      "jersey_number": 6,
+                      "name": "nicholas zhang",
+                      "points": 4,
+                      "fouls": 0
+                    },
+                    {
+                      "jersey_number": 7,
+                      "name": "Alexander Dehaini",
+                      "points": 0,
+                      "fouls": 1
+                    },
+                    {
+                      "jersey_number": 9,
+                      "name": "Nicolas Mascaro",
+                      "points": 7,
+                      "fouls": 2
+                    },
+                    {
+                      "jersey_number": 12,
+                      "name": "Louis Miodek",
+                      "points": 18,
+                      "fouls": 4
+                    },
+                    {
+                      "jersey_number": 13,
+                      "name": "Sepanta Pilvar",
+                      "points": 1,
+                      "fouls": 1
+                    },
+                    {
+                      "jersey_number": 14,
+                      "name": "Jeremy Fu",
+                      "points": 2,
+                      "fouls": 2
+                    }
+                  ],
+                  "player_points_total": 36,
+                  "points_match_score": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "round": 2,
+          "round_url": "https://www.playhq.com/basketball-victoria/org/victorian-junior-basketball-league/2027/12-boys-grading-1-pool-10d/f0b75281/R2",
+          "completed_game_count": 0,
+          "completed_games": []
+        },
+        {
+          "round": 3,
+          "round_url": "https://www.playhq.com/basketball-victoria/org/victorian-junior-basketball-league/2027/12-boys-grading-1-pool-10d/f0b75281/R3",
+          "completed_game_count": 0,
+          "completed_games": []
+        }
+      ]
+    }
+  ]
+}
