@@ -1,0 +1,6328 @@
+{
+  "seasons": [
+    {
+      "year": 2023,
+      "season": "2023",
+      "teams": [
+        {
+          "team": "Dandenong U12 Boys 1",
+          "division": "VC",
+          "competition": "VC Championship",
+          "division_rank": 1,
+          "overall_rank": 1
+        },
+        {
+          "team": "Kilsyth U12 Boys 1",
+          "division": "VC",
+          "competition": "VC Championship",
+          "division_rank": 2,
+          "overall_rank": 2
+        },
+        {
+          "team": "Frankston U12 Boys 1",
+          "division": "VC",
+          "competition": "VC Championship",
+          "division_rank": 3,
+          "overall_rank": 3
+        },
+        {
+          "team": "Casey U12 Boys 1",
+          "division": "VC",
+          "competition": "VC Championship",
+          "division_rank": 4,
+          "overall_rank": 4
+        },
+        {
+          "team": "Sandringham U12 Boys 1",
+          "division": "VC",
+          "competition": "VC Championship",
+          "division_rank": 5,
+          "overall_rank": 5
+        },
+        {
+          "team": "Diamond Valley U12 Boys 1",
+          "division": "VC",
+          "competition": "VC Championship",
+          "division_rank": 6,
+          "overall_rank": 6
+        },
+        {
+          "team": "Broadmeadows U12 Boys 1",
+          "division": "VC",
+          "competition": "VC Championship",
+          "division_rank": 7,
+          "overall_rank": 7
+        },
+        {
+          "team": "Coburg U12 Boys 1",
+          "division": "VC",
+          "competition": "VC Championship",
+          "division_rank": 8,
+          "overall_rank": 8
+        },
+        {
+          "team": "Nunawading U12 Boys 1",
+          "division": "VC",
+          "competition": "VC Championship",
+          "division_rank": 9,
+          "overall_rank": 9
+        },
+        {
+          "team": "Hawthorn U12 Boys 1",
+          "division": "VC",
+          "competition": "VC Championship",
+          "division_rank": 10,
+          "overall_rank": 10
+        },
+        {
+          "team": "Geelong United U12 Boys 1",
+          "division": "VC Reserve",
+          "competition": "VC Reserve",
+          "division_rank": 1,
+          "overall_rank": 11
+        },
+        {
+          "team": "Waverley U12 Boys 1",
+          "division": "VC Reserve",
+          "competition": "VC Reserve",
+          "division_rank": 2,
+          "overall_rank": 12
+        },
+        {
+          "team": "McKinnon U12 Boys 1",
+          "division": "VC Reserve",
+          "competition": "VC Reserve",
+          "division_rank": 3,
+          "overall_rank": 13
+        },
+        {
+          "team": "Bulleen U12 Boys 1",
+          "division": "VC Reserve",
+          "competition": "VC Reserve",
+          "division_rank": 4,
+          "overall_rank": 14
+        },
+        {
+          "team": "Keilor U12 Boys 1",
+          "division": "VC Reserve",
+          "competition": "VC Reserve",
+          "division_rank": 5,
+          "overall_rank": 15
+        },
+        {
+          "team": "Eltham U12 Boys 1",
+          "division": "VC Reserve",
+          "competition": "VC Reserve",
+          "division_rank": 6,
+          "overall_rank": 16
+        },
+        {
+          "team": "Knox U12 Boys 1",
+          "division": "VC Reserve",
+          "competition": "VC Reserve",
+          "division_rank": 7,
+          "overall_rank": 17
+        },
+        {
+          "team": "Westgate U12 Boys 1",
+          "division": "VC Reserve",
+          "competition": "VC Reserve",
+          "division_rank": 8,
+          "overall_rank": 18
+        },
+        {
+          "team": "Dandenong U12 Boys 2",
+          "division": "VC Reserve",
+          "competition": "VC Reserve",
+          "division_rank": 9,
+          "overall_rank": 19
+        },
+        {
+          "team": "Frankston U12 Boys 2",
+          "division": "VC Reserve",
+          "competition": "VC Reserve",
+          "division_rank": 10,
+          "overall_rank": 20
+        },
+        {
+          "team": "Melbourne U12 Boys 1",
+          "division": "VJL1",
+          "competition": "VJL1 P2",
+          "division_rank": 1,
+          "overall_rank": 21
+        },
+        {
+          "team": "Pakenham U12 Boys 1",
+          "division": "VJL1",
+          "competition": "VJL1 P1",
+          "division_rank": 2,
+          "overall_rank": 22
+        },
+        {
+          "team": "Wyndham U12 Boys 1",
+          "division": "VJL1",
+          "competition": "VJL1 P2",
+          "division_rank": 3,
+          "overall_rank": 23
+        },
+        {
+          "team": "Southern Peninsula U12 Boys 1",
+          "division": "VJL1",
+          "competition": "VJL1 P1",
+          "division_rank": 4,
+          "overall_rank": 24
+        },
+        {
+          "team": "Kilsyth U12 Boys 2",
+          "division": "VJL1",
+          "competition": "VJL1 P1",
+          "division_rank": 5,
+          "overall_rank": 25
+        },
+        {
+          "team": "Camberwell U12 Boys 1",
+          "division": "VJL1",
+          "competition": "VJL1 P1",
+          "division_rank": 6,
+          "overall_rank": 26
+        },
+        {
+          "team": "Whittlesea U12 Boys 1",
+          "division": "VJL1",
+          "competition": "VJL1 P2",
+          "division_rank": 7,
+          "overall_rank": 27
+        },
+        {
+          "team": "Eltham U12 Boys 2",
+          "division": "VJL1",
+          "competition": "VJL1 P2",
+          "division_rank": 8,
+          "overall_rank": 28
+        },
+        {
+          "team": "Sandringham U12 Boys 2",
+          "division": "VJL1",
+          "competition": "VJL1 P1",
+          "division_rank": 9,
+          "overall_rank": 29
+        },
+        {
+          "team": "Altona U12 Boys 1",
+          "division": "VJL1",
+          "competition": "VJL1 P2",
+          "division_rank": 10,
+          "overall_rank": 30
+        },
+        {
+          "team": "Keilor U12 Boys 2",
+          "division": "VJL1",
+          "competition": "VJL1 P2",
+          "division_rank": 11,
+          "overall_rank": 31
+        },
+        {
+          "team": "Frankston U12 Boys 3",
+          "division": "VJL1",
+          "competition": "VJL1 P1",
+          "division_rank": 12,
+          "overall_rank": 32
+        },
+        {
+          "team": "Mornington U12 Boys 1",
+          "division": "VJL1",
+          "competition": "VJL1 P1",
+          "division_rank": 13,
+          "overall_rank": 33
+        },
+        {
+          "team": "Surfcoast U12 Boys 1",
+          "division": "VJL1",
+          "competition": "VJL1 P2",
+          "division_rank": 14,
+          "overall_rank": 34
+        },
+        {
+          "team": "Ringwood U12 Boys 1",
+          "division": "VJL1",
+          "competition": "VJL1 P1",
+          "division_rank": 15,
+          "overall_rank": 35
+        },
+        {
+          "team": "Craigieburn U12 Boys 1",
+          "division": "VJL1",
+          "competition": "VJL1 P2",
+          "division_rank": 16,
+          "overall_rank": 36
+        },
+        {
+          "team": "Wallan U12 Boys 1",
+          "division": "VJL1",
+          "competition": "VJL1 P2",
+          "division_rank": 17,
+          "overall_rank": 37
+        },
+        {
+          "team": "Blackburn U12 Boys 1",
+          "division": "VJL1",
+          "competition": "VJL1 P1",
+          "division_rank": 18,
+          "overall_rank": 38
+        },
+        {
+          "team": "Casey U12 Boys 2",
+          "division": "VJL1",
+          "competition": "VJL1 P1",
+          "division_rank": 19,
+          "overall_rank": 39
+        },
+        {
+          "team": "Melton U12 Boys 1",
+          "division": "VJL1",
+          "competition": "VJL1 P2",
+          "division_rank": 20,
+          "overall_rank": 40
+        },
+        {
+          "team": "Bellarine U12 Boys 1",
+          "division": "VJL2",
+          "competition": "VJL2 P1",
+          "division_rank": 1,
+          "overall_rank": 41
+        },
+        {
+          "team": "Chelsea U12 Boys 1",
+          "division": "VJL2",
+          "competition": "VJL2 P2",
+          "division_rank": 2,
+          "overall_rank": 42
+        },
+        {
+          "team": "Keilor U12 Boys 3",
+          "division": "VJL2",
+          "competition": "VJL2 P1",
+          "division_rank": 3,
+          "overall_rank": 43
+        },
+        {
+          "team": "Kilsyth U12 Boys 3",
+          "division": "VJL2",
+          "competition": "VJL2 P2",
+          "division_rank": 4,
+          "overall_rank": 44
+        },
+        {
+          "team": "Bacchus Marsh U12 Boys 1",
+          "division": "VJL2",
+          "competition": "VJL2 P1",
+          "division_rank": 5,
+          "overall_rank": 45
+        },
+        {
+          "team": "Frankston U12 Boys 4",
+          "division": "VJL2",
+          "competition": "VJL2 P2",
+          "division_rank": 6,
+          "overall_rank": 46
+        },
+        {
+          "team": "Nunawading U12 Boys 2",
+          "division": "VJL2",
+          "competition": "VJL2 P2",
+          "division_rank": 7,
+          "overall_rank": 47
+        },
+        {
+          "team": "Ringwood U12 Boys 2",
+          "division": "VJL2",
+          "competition": "VJL2 P2",
+          "division_rank": 8,
+          "overall_rank": 48
+        },
+        {
+          "team": "Geelong United U12 Boys 2",
+          "division": "VJL2",
+          "competition": "VJL2 P1",
+          "division_rank": 9,
+          "overall_rank": 49
+        },
+        {
+          "team": "Camberwell U12 Boys 2",
+          "division": "VJL2",
+          "competition": "VJL2 P2",
+          "division_rank": 10,
+          "overall_rank": 50
+        },
+        {
+          "team": "Eltham U12 Boys 3",
+          "division": "VJL2",
+          "competition": "VJL2 P1",
+          "division_rank": 11,
+          "overall_rank": 51
+        },
+        {
+          "team": "Bulleen U12 Boys 2",
+          "division": "VJL2",
+          "competition": "VJL2 P1",
+          "division_rank": 12,
+          "overall_rank": 52
+        },
+        {
+          "team": "Diamond Valley U12 Boys 2",
+          "division": "VJL2",
+          "competition": "VJL2 P1",
+          "division_rank": 13,
+          "overall_rank": 53
+        },
+        {
+          "team": "Kilsyth U12 Boys 4",
+          "division": "VJL2",
+          "competition": "VJL2 P2",
+          "division_rank": 14,
+          "overall_rank": 54
+        },
+        {
+          "team": "Sunbury U12 Boys 1",
+          "division": "VJL2",
+          "competition": "VJL2 P1",
+          "division_rank": 15,
+          "overall_rank": 55
+        },
+        {
+          "team": "Casey U12 Boys 3",
+          "division": "VJL2",
+          "competition": "VJL2 P2",
+          "division_rank": 16,
+          "overall_rank": 56
+        },
+        {
+          "team": "Western Port U12 Boys 1",
+          "division": "VJL2",
+          "competition": "VJL2 P2",
+          "division_rank": 17,
+          "overall_rank": 57
+        },
+        {
+          "team": "Hawthorn U12 Boys 2",
+          "division": "VJL2",
+          "competition": "VJL2 P1",
+          "division_rank": 18,
+          "overall_rank": 58
+        },
+        {
+          "team": "Wyndham U12 Boys 2",
+          "division": "VJL2",
+          "competition": "VJL2 P1",
+          "division_rank": 19,
+          "overall_rank": 59
+        },
+        {
+          "team": "McKinnon U12 Boys 2",
+          "division": "VJL2",
+          "competition": "VJL2 P2",
+          "division_rank": 20,
+          "overall_rank": 60
+        },
+        {
+          "team": "Diamond Valley U12 Boys 3",
+          "division": "VJL3",
+          "competition": "VJL3 P2",
+          "division_rank": 1,
+          "overall_rank": 61
+        },
+        {
+          "team": "Collingwood U12 Boys 1",
+          "division": "VJL3",
+          "competition": "VJL3 P2",
+          "division_rank": 2,
+          "overall_rank": 62
+        },
+        {
+          "team": "Dandenong U12 Boys 3",
+          "division": "VJL3",
+          "competition": "VJL3 P1",
+          "division_rank": 3,
+          "overall_rank": 63
+        },
+        {
+          "team": "Keilor U12 Boys 4",
+          "division": "VJL3",
+          "competition": "VJL3 P2",
+          "division_rank": 4,
+          "overall_rank": 64
+        },
+        {
+          "team": "Nunawading U12 Boys 3",
+          "division": "VJL3",
+          "competition": "VJL3 P1",
+          "division_rank": 5,
+          "overall_rank": 65
+        },
+        {
+          "team": "Waverley U12 Boys 2",
+          "division": "VJL3",
+          "competition": "VJL3 P1",
+          "division_rank": 6,
+          "overall_rank": 66
+        },
+        {
+          "team": "Sandringham U12 Boys 3",
+          "division": "VJL3",
+          "competition": "VJL3 P1",
+          "division_rank": 7,
+          "overall_rank": 67
+        },
+        {
+          "team": "Eltham U12 Boys 4",
+          "division": "VJL3",
+          "competition": "VJL3 P1",
+          "division_rank": 8,
+          "overall_rank": 68
+        },
+        {
+          "team": "Broadmeadows U12 Boys 3",
+          "division": "VJL3",
+          "competition": "VJL3 P2",
+          "division_rank": 9,
+          "overall_rank": 69
+        },
+        {
+          "team": "Macedon Ranges U12 Boys 1",
+          "division": "VJL3",
+          "competition": "VJL3 P2",
+          "division_rank": 10,
+          "overall_rank": 70
+        },
+        {
+          "team": "Knox U12 Boys 2",
+          "division": "VJL3",
+          "competition": "VJL3 P1",
+          "division_rank": 11,
+          "overall_rank": 71
+        },
+        {
+          "team": "Knox U12 Boys 3",
+          "division": "VJL3",
+          "competition": "VJL3 P1",
+          "division_rank": 12,
+          "overall_rank": 72
+        },
+        {
+          "team": "Westgate U12 Boys 2",
+          "division": "VJL3",
+          "competition": "VJL3 P2",
+          "division_rank": 13,
+          "overall_rank": 73
+        },
+        {
+          "team": "Wyndham U12 Boys 3",
+          "division": "VJL3",
+          "competition": "VJL3 P2",
+          "division_rank": 14,
+          "overall_rank": 74
+        },
+        {
+          "team": "Sandringham U12 Boys 4",
+          "division": "VJL3",
+          "competition": "VJL3 P1",
+          "division_rank": 15,
+          "overall_rank": 75
+        },
+        {
+          "team": "Kyneton U12 Boys 1",
+          "division": "VJL3",
+          "competition": "VJL3 P2",
+          "division_rank": 16,
+          "overall_rank": 76
+        },
+        {
+          "team": "Eltham U12 Boys 5",
+          "division": "VJL3",
+          "competition": "VJL3 P1",
+          "division_rank": 17,
+          "overall_rank": 77
+        },
+        {
+          "team": "Broadmeadows U12 Boys 2",
+          "division": "VJL3",
+          "competition": "VJL3 P2",
+          "division_rank": 18,
+          "overall_rank": 78
+        },
+        {
+          "team": "Frankston U12 Boys 5",
+          "division": "VJL3",
+          "competition": "VJL3 P1",
+          "division_rank": 19,
+          "overall_rank": 79
+        },
+        {
+          "team": "Craigieburn U12 Boys 2",
+          "division": "VJL3",
+          "competition": "VJL3 P2",
+          "division_rank": 20,
+          "overall_rank": 80
+        },
+        {
+          "team": "Melton U12 Boys 2",
+          "division": "VJL4",
+          "competition": "VJL4 P2",
+          "division_rank": 1,
+          "overall_rank": 81
+        },
+        {
+          "team": "Blackburn U12 Boys 2",
+          "division": "VJL4",
+          "competition": "VJL4 P1",
+          "division_rank": 2,
+          "overall_rank": 82
+        },
+        {
+          "team": "Altona U12 Boys 2",
+          "division": "VJL4",
+          "competition": "VJL4 P2",
+          "division_rank": 3,
+          "overall_rank": 83
+        },
+        {
+          "team": "Diamond Valley U12 Boys 4",
+          "division": "VJL4",
+          "competition": "VJL4 P2",
+          "division_rank": 4,
+          "overall_rank": 84
+        },
+        {
+          "team": "Warrandyte U12 Boys 1",
+          "division": "VJL4",
+          "competition": "VJL4 P1",
+          "division_rank": 5,
+          "overall_rank": 85
+        },
+        {
+          "team": "Geelong United U12 Boys 3",
+          "division": "VJL4",
+          "competition": "VJL4 P2",
+          "division_rank": 6,
+          "overall_rank": 86
+        },
+        {
+          "team": "Ringwood U12 Boys 3",
+          "division": "VJL4",
+          "competition": "VJL4 P1",
+          "division_rank": 7,
+          "overall_rank": 87
+        },
+        {
+          "team": "Casey U12 Boys 4",
+          "division": "VJL4",
+          "competition": "VJL4 P1",
+          "division_rank": 8,
+          "overall_rank": 88
+        },
+        {
+          "team": "Bellarine U12 Boys 2",
+          "division": "VJL4",
+          "competition": "VJL4 P2",
+          "division_rank": 9,
+          "overall_rank": 89
+        },
+        {
+          "team": "Camberwell U12 Boys 3",
+          "division": "VJL4",
+          "competition": "VJL4 P1",
+          "division_rank": 10,
+          "overall_rank": 90
+        },
+        {
+          "team": "Darebin U12 Boys 1",
+          "division": "VJL4",
+          "competition": "VJL4 P2",
+          "division_rank": 11,
+          "overall_rank": 91
+        },
+        {
+          "team": "Mornington U12 Boys 2",
+          "division": "VJL4",
+          "competition": "VJL4 P1",
+          "division_rank": 12,
+          "overall_rank": 92
+        },
+        {
+          "team": "Keilor U12 Boys 5",
+          "division": "VJL4",
+          "competition": "VJL4 P2",
+          "division_rank": 13,
+          "overall_rank": 93
+        },
+        {
+          "team": "Dandenong U12 Boys 4",
+          "division": "VJL4",
+          "competition": "VJL4 P1",
+          "division_rank": 14,
+          "overall_rank": 94
+        },
+        {
+          "team": "Melbourne U12 Boys 2",
+          "division": "VJL4",
+          "competition": "VJL4 P1",
+          "division_rank": 15,
+          "overall_rank": 95
+        },
+        {
+          "team": "Camberwell U12 Boys 4",
+          "division": "VJL4",
+          "competition": "VJL4 P1",
+          "division_rank": 16,
+          "overall_rank": 96
+        },
+        {
+          "team": "Coburg U12 Boys 2",
+          "division": "VJL4",
+          "competition": "VJL4 P2",
+          "division_rank": 17,
+          "overall_rank": 97
+        },
+        {
+          "team": "Melbourne U12 Boys 4",
+          "division": "VJL4",
+          "competition": "VJL4 P2",
+          "division_rank": 18,
+          "overall_rank": 98
+        },
+        {
+          "team": "Sherbrooke U12 Boys 1",
+          "division": "VJL4",
+          "competition": "VJL4 P1",
+          "division_rank": 19,
+          "overall_rank": 99
+        },
+        {
+          "team": "Sunbury U12 Boys 2",
+          "division": "VJL4",
+          "competition": "VJL4 P2",
+          "division_rank": 20,
+          "overall_rank": 100
+        },
+        {
+          "team": "Whittlesea U12 Boys 2",
+          "division": "VJL5",
+          "competition": "VJL5 P2",
+          "division_rank": 1,
+          "overall_rank": 101
+        },
+        {
+          "team": "Bacchus Marsh U12 Boys 2",
+          "division": "VJL5",
+          "competition": "VJL5 P2",
+          "division_rank": 2,
+          "overall_rank": 102
+        },
+        {
+          "team": "Mornington U12 Boys 3",
+          "division": "VJL5",
+          "competition": "VJL5 P1",
+          "division_rank": 3,
+          "overall_rank": 103
+        },
+        {
+          "team": "Chelsea U12 Boys 2",
+          "division": "VJL5",
+          "competition": "VJL5 P1",
+          "division_rank": 4,
+          "overall_rank": 104
+        },
+        {
+          "team": "Bulleen U12 Boys 3",
+          "division": "VJL5",
+          "competition": "VJL5 P1",
+          "division_rank": 5,
+          "overall_rank": 105
+        },
+        {
+          "team": "Wallan U12 Boys 2",
+          "division": "VJL5",
+          "competition": "VJL5 P2",
+          "division_rank": 6,
+          "overall_rank": 106
+        },
+        {
+          "team": "Sandringham U12 Boys 5",
+          "division": "VJL5",
+          "competition": "VJL5 P1",
+          "division_rank": 7,
+          "overall_rank": 107
+        },
+        {
+          "team": "Westgate U12 Boys 3",
+          "division": "VJL5",
+          "competition": "VJL5 P2",
+          "division_rank": 8,
+          "overall_rank": 108
+        },
+        {
+          "team": "Altona U12 Boys 3",
+          "division": "VJL5",
+          "competition": "VJL5 P2",
+          "division_rank": 9,
+          "overall_rank": 109
+        },
+        {
+          "team": "Wyndham U12 Boys 4",
+          "division": "VJL5",
+          "competition": "VJL5 P2",
+          "division_rank": 10,
+          "overall_rank": 110
+        },
+        {
+          "team": "Pakenham U12 Boys 2",
+          "division": "VJL5",
+          "competition": "VJL5 P1",
+          "division_rank": 11,
+          "overall_rank": 111
+        },
+        {
+          "team": "McKinnon U12 Boys 4",
+          "division": "VJL5",
+          "competition": "VJL5 P1",
+          "division_rank": 12,
+          "overall_rank": 112
+        },
+        {
+          "team": "Hawthorn U12 Boys 3",
+          "division": "VJL5",
+          "competition": "VJL5 P1",
+          "division_rank": 13,
+          "overall_rank": 113
+        },
+        {
+          "team": "McKinnon U12 Boys 3",
+          "division": "VJL5",
+          "competition": "VJL5 P1",
+          "division_rank": 14,
+          "overall_rank": 114
+        },
+        {
+          "team": "Melbourne U12 Boys 3",
+          "division": "VJL5",
+          "competition": "VJL5 P2",
+          "division_rank": 15,
+          "overall_rank": 115
+        },
+        {
+          "team": "Diamond Valley U12 Boys 5",
+          "division": "VJL5",
+          "competition": "VJL5 P2",
+          "division_rank": 16,
+          "overall_rank": 116
+        },
+        {
+          "team": "Broadmeadows U12 Boys 4",
+          "division": "VJL5",
+          "competition": "VJL5 P2",
+          "division_rank": 17,
+          "overall_rank": 117
+        },
+        {
+          "team": "Waverley U12 Boys 3",
+          "division": "VJL5",
+          "competition": "VJL5 P1",
+          "division_rank": 18,
+          "overall_rank": 118
+        },
+        {
+          "team": "Keysborough U12 Boys 1",
+          "division": "VJL5",
+          "competition": "VJL5 P1",
+          "division_rank": 19,
+          "overall_rank": 119
+        },
+        {
+          "team": "Coburg U12 Boys 3",
+          "division": "VJL5",
+          "competition": "VJL5 P2",
+          "division_rank": 20,
+          "overall_rank": 120
+        },
+        {
+          "team": "Knox U12 Boys 4",
+          "division": "VJL6",
+          "competition": "VJL6 P1",
+          "division_rank": 1,
+          "overall_rank": 121
+        },
+        {
+          "team": "Knox U12 Boys 5",
+          "division": "VJL6",
+          "competition": "VJL6 P2",
+          "division_rank": 2,
+          "overall_rank": 122
+        },
+        {
+          "team": "Nunawading U12 Boys 4",
+          "division": "VJL6",
+          "competition": "VJL6 P1",
+          "division_rank": 3,
+          "overall_rank": 123
+        },
+        {
+          "team": "Casey U12 Boys 5",
+          "division": "VJL6",
+          "competition": "VJL6 P2",
+          "division_rank": 4,
+          "overall_rank": 124
+        },
+        {
+          "team": "Southern Peninsula U12 Boys 2",
+          "division": "VJL6",
+          "competition": "VJL6 P2",
+          "division_rank": 5,
+          "overall_rank": 125
+        },
+        {
+          "team": "Frankston U12 Boys 6",
+          "division": "VJL6",
+          "competition": "VJL6 P2",
+          "division_rank": 6,
+          "overall_rank": 126
+        },
+        {
+          "team": "Eltham U12 Boys 6",
+          "division": "VJL6",
+          "competition": "VJL6 P1",
+          "division_rank": 7,
+          "overall_rank": 127
+        },
+        {
+          "team": "Camberwell U12 Boys 5",
+          "division": "VJL6",
+          "competition": "VJL6 P1",
+          "division_rank": 8,
+          "overall_rank": 128
+        },
+        {
+          "team": "Doncaster U12 Boys 1",
+          "division": "VJL6",
+          "competition": "VJL6 P1",
+          "division_rank": 9,
+          "overall_rank": 129
+        },
+        {
+          "team": "Hawthorn U12 Boys 4",
+          "division": "VJL6",
+          "competition": "VJL6 P1",
+          "division_rank": 10,
+          "overall_rank": 130
+        },
+        {
+          "team": "Sandringham U12 Boys 6",
+          "division": "VJL6",
+          "competition": "VJL6 P2",
+          "division_rank": 11,
+          "overall_rank": 131
+        },
+        {
+          "team": "Pakenham U12 Boys 3",
+          "division": "VJL6",
+          "competition": "VJL6 P2",
+          "division_rank": 12,
+          "overall_rank": 132
+        },
+        {
+          "team": "McKinnon U12 Boys 5",
+          "division": "VJL6",
+          "competition": "VJL6 P2",
+          "division_rank": 13,
+          "overall_rank": 133
+        },
+        {
+          "team": "Nunawading U12 Boys 5",
+          "division": "VJL6",
+          "competition": "VJL6 P1",
+          "division_rank": 14,
+          "overall_rank": 134
+        },
+        {
+          "team": "Ringwood U12 Boys 4",
+          "division": "VJL6",
+          "competition": "VJL6 P1",
+          "division_rank": 15,
+          "overall_rank": 135
+        },
+        {
+          "team": "Blackburn U12 Boys 3",
+          "division": "VJL6",
+          "competition": "VJL6 P1",
+          "division_rank": 16,
+          "overall_rank": 136
+        },
+        {
+          "team": "Kilsyth U12 Boys 5",
+          "division": "VJL6",
+          "competition": "VJL6 P2",
+          "division_rank": 17,
+          "overall_rank": 137
+        },
+        {
+          "team": "Dandenong U12 Boys 5",
+          "division": "VJL6",
+          "competition": "VJL6 P2",
+          "division_rank": 18,
+          "overall_rank": 138
+        },
+        {
+          "team": "Mornington U12 Boys 4",
+          "division": "VJL6",
+          "competition": "VJL6 P2",
+          "division_rank": 19,
+          "overall_rank": 139
+        },
+        {
+          "team": "Blackburn U12 Boys 4",
+          "division": "VJL6",
+          "competition": "VJL6 P1",
+          "division_rank": 20,
+          "overall_rank": 140
+        },
+        {
+          "team": "Whittlesea U12 Boys 3",
+          "division": "VJL7",
+          "competition": "VJL7 P1",
+          "division_rank": 1,
+          "overall_rank": 141
+        },
+        {
+          "team": "Ringwood U12 Boys 5",
+          "division": "VJL7",
+          "competition": "VJL7 P2",
+          "division_rank": 2,
+          "overall_rank": 142
+        },
+        {
+          "team": "Altona U12 Boys 4",
+          "division": "VJL7",
+          "competition": "VJL7 P1",
+          "division_rank": 3,
+          "overall_rank": 143
+        },
+        {
+          "team": "Southern Peninsula U12 Boys 3",
+          "division": "VJL7",
+          "competition": "VJL7 P2",
+          "division_rank": 4,
+          "overall_rank": 144
+        },
+        {
+          "team": "Craigieburn U12 Boys 3",
+          "division": "VJL7",
+          "competition": "VJL7 P1",
+          "division_rank": 5,
+          "overall_rank": 145
+        },
+        {
+          "team": "Wyndham U12 Boys 6",
+          "division": "VJL7",
+          "competition": "VJL7 P1",
+          "division_rank": 6,
+          "overall_rank": 146
+        },
+        {
+          "team": "Casey U12 Boys 7",
+          "division": "VJL7",
+          "competition": "VJL7 P2",
+          "division_rank": 7,
+          "overall_rank": 147
+        },
+        {
+          "team": "Melbourne U12 Boys 6",
+          "division": "VJL7",
+          "competition": "VJL7 P2",
+          "division_rank": 8,
+          "overall_rank": 148
+        },
+        {
+          "team": "Western Port U12 Boys 3",
+          "division": "VJL7",
+          "competition": "VJL7 P2",
+          "division_rank": 9,
+          "overall_rank": 149
+        },
+        {
+          "team": "Bellarine U12 Boys 3",
+          "division": "VJL7",
+          "competition": "VJL7 P1",
+          "division_rank": 10,
+          "overall_rank": 150
+        },
+        {
+          "team": "Bulleen U12 Boys 4",
+          "division": "VJL7",
+          "competition": "VJL7 P2",
+          "division_rank": 11,
+          "overall_rank": 151
+        },
+        {
+          "team": "Wyndham U12 Boys 5",
+          "division": "VJL7",
+          "competition": "VJL7 P1",
+          "division_rank": 12,
+          "overall_rank": 152
+        },
+        {
+          "team": "Frankston U12 Boys 8",
+          "division": "VJL7",
+          "competition": "VJL7 P2",
+          "division_rank": 13,
+          "overall_rank": 153
+        },
+        {
+          "team": "Casey U12 Boys 6",
+          "division": "VJL7",
+          "competition": "VJL7 P2",
+          "division_rank": 14,
+          "overall_rank": 154
+        },
+        {
+          "team": "Bacchus Marsh U12 Boys 3",
+          "division": "VJL7",
+          "competition": "VJL7 P1",
+          "division_rank": 15,
+          "overall_rank": 155
+        },
+        {
+          "team": "Geelong United U12 Boys 4",
+          "division": "VJL7",
+          "competition": "VJL7 P1",
+          "division_rank": 16,
+          "overall_rank": 156
+        },
+        {
+          "team": "Southern Peninsula U12 Boys 4",
+          "division": "VJL7",
+          "competition": "VJL7 P2",
+          "division_rank": 17,
+          "overall_rank": 157
+        },
+        {
+          "team": "Bellarine U12 Boys 4",
+          "division": "VJL7",
+          "competition": "VJL7 P1",
+          "division_rank": 18,
+          "overall_rank": 158
+        },
+        {
+          "team": "Coburg U12 Boys 4",
+          "division": "VJL7",
+          "competition": "VJL7 P1",
+          "division_rank": 19,
+          "overall_rank": 159
+        },
+        {
+          "team": "McKinnon U12 Boys 7",
+          "division": "VJL7",
+          "competition": "VJL7 P2",
+          "division_rank": 20,
+          "overall_rank": 160
+        },
+        {
+          "team": "Western Port U12 Boys 2",
+          "division": "VJL8",
+          "competition": "VJL8 P1",
+          "division_rank": 1,
+          "overall_rank": 161
+        },
+        {
+          "team": "Eltham U12 Boys 8",
+          "division": "VJL8",
+          "competition": "VJL8 P2",
+          "division_rank": 2,
+          "overall_rank": 162
+        },
+        {
+          "team": "Diamond Valley U12 Boys 6",
+          "division": "VJL8",
+          "competition": "VJL8 P3",
+          "division_rank": 3,
+          "overall_rank": 163
+        },
+        {
+          "team": "Camberwell U12 Boys 6",
+          "division": "VJL8",
+          "competition": "VJL8 P2",
+          "division_rank": 4,
+          "overall_rank": 164
+        },
+        {
+          "team": "Melbourne U12 Boys 7",
+          "division": "VJL8",
+          "competition": "VJL8 P3",
+          "division_rank": 5,
+          "overall_rank": 165
+        },
+        {
+          "team": "Altona U12 Boys 5",
+          "division": "VJL8",
+          "competition": "VJL8 P3",
+          "division_rank": 6,
+          "overall_rank": 166
+        },
+        {
+          "team": "Westgate U12 Boys 4",
+          "division": "VJL8",
+          "competition": "VJL8 P3",
+          "division_rank": 7,
+          "overall_rank": 167
+        },
+        {
+          "team": "Camberwell U12 Boys 7",
+          "division": "VJL8",
+          "competition": "VJL8 P2",
+          "division_rank": 8,
+          "overall_rank": 168
+        },
+        {
+          "team": "Keilor U12 Boys 6",
+          "division": "VJL8",
+          "competition": "VJL8 P3",
+          "division_rank": 9,
+          "overall_rank": 169
+        },
+        {
+          "team": "Southern Peninsula U12 Boys 6",
+          "division": "VJL8",
+          "competition": "VJL8 P1",
+          "division_rank": 10,
+          "overall_rank": 170
+        },
+        {
+          "team": "Waverley U12 Boys 4",
+          "division": "VJL8",
+          "competition": "VJL8 P1",
+          "division_rank": 11,
+          "overall_rank": 171
+        },
+        {
+          "team": "Nunawading U12 Boys 6",
+          "division": "VJL8",
+          "competition": "VJL8 P2",
+          "division_rank": 12,
+          "overall_rank": 172
+        },
+        {
+          "team": "Frankston U12 Boys 7",
+          "division": "VJL8",
+          "competition": "VJL8 P1",
+          "division_rank": 13,
+          "overall_rank": 173
+        },
+        {
+          "team": "Nunawading U12 Boys 7",
+          "division": "VJL8",
+          "competition": "VJL8 P2",
+          "division_rank": 14,
+          "overall_rank": 174
+        },
+        {
+          "team": "Chelsea U12 Boys 3",
+          "division": "VJL8",
+          "competition": "VJL8 P1",
+          "division_rank": 15,
+          "overall_rank": 175
+        },
+        {
+          "team": "Warrandyte U12 Boys 2",
+          "division": "VJL8",
+          "competition": "VJL8 P2",
+          "division_rank": 16,
+          "overall_rank": 176
+        },
+        {
+          "team": "McKinnon U12 Boys 6",
+          "division": "VJL8",
+          "competition": "VJL8 P1",
+          "division_rank": 17,
+          "overall_rank": 177
+        },
+        {
+          "team": "Melbourne U12 Boys 5",
+          "division": "VJL8",
+          "competition": "VJL8 P3",
+          "division_rank": 18,
+          "overall_rank": 178
+        },
+        {
+          "team": "Hawthorn U12 Boys 5",
+          "division": "VJL8",
+          "competition": "VJL8 P3",
+          "division_rank": 19,
+          "overall_rank": 179
+        },
+        {
+          "team": "Knox U12 Boys 6",
+          "division": "VJL8",
+          "competition": "VJL8 P2",
+          "division_rank": 20,
+          "overall_rank": 180
+        },
+        {
+          "team": "Casey U12 Boys 8",
+          "division": "VJL8",
+          "competition": "VJL8 P1",
+          "division_rank": 21,
+          "overall_rank": 181
+        },
+        {
+          "team": "Collingwood U12 Boys 2",
+          "division": "VJL8",
+          "competition": "VJL8 P3",
+          "division_rank": 22,
+          "overall_rank": 182
+        },
+        {
+          "team": "Dandenong U12 Boys 6",
+          "division": "VJL8",
+          "competition": "VJL8 P1",
+          "division_rank": 23,
+          "overall_rank": 183
+        },
+        {
+          "team": "Southern Peninsula U12 Boys 5",
+          "division": "VJL8",
+          "competition": "VJL8 P1",
+          "division_rank": 24,
+          "overall_rank": 184
+        },
+        {
+          "team": "Dandenong U12 Boys 7",
+          "division": "VJL8",
+          "competition": "VJL8 P1",
+          "division_rank": 25,
+          "overall_rank": 185
+        },
+        {
+          "team": "Eltham U12 Boys 7",
+          "division": "VJL8",
+          "competition": "VJL8 P2",
+          "division_rank": 26,
+          "overall_rank": 186
+        },
+        {
+          "team": "Ringwood U12 Boys 6",
+          "division": "VJL8",
+          "competition": "VJL8 P2",
+          "division_rank": 27,
+          "overall_rank": 187
+        },
+        {
+          "team": "Bulleen U12 Boys 5",
+          "division": "VJL8",
+          "competition": "VJL8 P2",
+          "division_rank": 28,
+          "overall_rank": 188
+        },
+        {
+          "team": "Whittlesea U12 Boys 4",
+          "division": "VJL8",
+          "competition": "VJL8 P3",
+          "division_rank": 29,
+          "overall_rank": 189
+        },
+        {
+          "team": "McKinnon U12 Boys 8",
+          "division": "VJL8",
+          "competition": "VJL8 P1",
+          "division_rank": 30,
+          "overall_rank": 190
+        },
+        {
+          "team": "Camberwell U12 Boys 8",
+          "division": "VJL8",
+          "competition": "VJL8 P2",
+          "division_rank": 31,
+          "overall_rank": 191
+        },
+        {
+          "team": "Melton U12 Boys 3",
+          "division": "VJL8",
+          "competition": "VJL8 P3",
+          "division_rank": 32,
+          "overall_rank": 192
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "season": "2024",
+      "teams": [
+        {
+          "team": "Frankston U12 Boys 1",
+          "division": "VC",
+          "competition": "VC Championship",
+          "division_rank": 1,
+          "overall_rank": 1
+        },
+        {
+          "team": "Kilsyth U12 Boys 1",
+          "division": "VC",
+          "competition": "VC Championship",
+          "division_rank": 2,
+          "overall_rank": 2
+        },
+        {
+          "team": "Geelong United U12 Boys 1",
+          "division": "VC",
+          "competition": "VC Championship",
+          "division_rank": 3,
+          "overall_rank": 3
+        },
+        {
+          "team": "Eltham U12 Boys 1",
+          "division": "VC",
+          "competition": "VC Championship",
+          "division_rank": 4,
+          "overall_rank": 4
+        },
+        {
+          "team": "Sandringham U12 Boys 1",
+          "division": "VC",
+          "competition": "VC Championship",
+          "division_rank": 5,
+          "overall_rank": 5
+        },
+        {
+          "team": "Dandenong U12 Boys 1",
+          "division": "VC",
+          "competition": "VC Championship",
+          "division_rank": 6,
+          "overall_rank": 6
+        },
+        {
+          "team": "Gippsland United U12 Boys 1",
+          "division": "VC",
+          "competition": "VC Championship",
+          "division_rank": 7,
+          "overall_rank": 7
+        },
+        {
+          "team": "Blackburn U12 Boys 1",
+          "division": "VC",
+          "competition": "VC Championship",
+          "division_rank": 8,
+          "overall_rank": 8
+        },
+        {
+          "team": "Camberwell U12 Boys 1",
+          "division": "VC",
+          "competition": "VC Championship",
+          "division_rank": 9,
+          "overall_rank": 9
+        },
+        {
+          "team": "Casey U12 Boys 1",
+          "division": "VC",
+          "competition": "VC Championship",
+          "division_rank": 10,
+          "overall_rank": 10
+        },
+        {
+          "team": "Knox U12 Boys 1",
+          "division": "VC Reserve",
+          "competition": "VC Reserve",
+          "division_rank": 1,
+          "overall_rank": 11
+        },
+        {
+          "team": "Bulleen U12 Boys 1",
+          "division": "VC Reserve",
+          "competition": "VC Reserve",
+          "division_rank": 2,
+          "overall_rank": 12
+        },
+        {
+          "team": "Wyndham U12 Boys 1",
+          "division": "VC Reserve",
+          "competition": "VC Reserve",
+          "division_rank": 3,
+          "overall_rank": 13
+        },
+        {
+          "team": "Diamond Valley U12 Boys 1",
+          "division": "VC Reserve",
+          "competition": "VC Reserve",
+          "division_rank": 4,
+          "overall_rank": 14
+        },
+        {
+          "team": "Nunawading U12 Boys 1",
+          "division": "VC Reserve",
+          "competition": "VC Reserve",
+          "division_rank": 5,
+          "overall_rank": 15
+        },
+        {
+          "team": "Hawthorn U12 Boys 1",
+          "division": "VC Reserve",
+          "competition": "VC Reserve",
+          "division_rank": 6,
+          "overall_rank": 16
+        },
+        {
+          "team": "Altona U12 Boys 1",
+          "division": "VC Reserve",
+          "competition": "VC Reserve",
+          "division_rank": 7,
+          "overall_rank": 17
+        },
+        {
+          "team": "Westgate U12 Boys 1",
+          "division": "VC Reserve",
+          "competition": "VC Reserve",
+          "division_rank": 8,
+          "overall_rank": 18
+        },
+        {
+          "team": "Mornington U12 Boys 1",
+          "division": "VC Reserve",
+          "competition": "VC Reserve",
+          "division_rank": 9,
+          "overall_rank": 19
+        },
+        {
+          "team": "Broadmeadows U12 Boys 1",
+          "division": "VC Reserve",
+          "competition": "VC Reserve",
+          "division_rank": 10,
+          "overall_rank": 20
+        },
+        {
+          "team": "Melton U12 Boys 1",
+          "division": "VJL1",
+          "competition": "VJL1 P2",
+          "division_rank": 1,
+          "overall_rank": 21
+        },
+        {
+          "team": "Kilsyth U12 Boys 2",
+          "division": "VJL1",
+          "competition": "VJL1 P1",
+          "division_rank": 2,
+          "overall_rank": 22
+        },
+        {
+          "team": "Waverley U12 Boys 1",
+          "division": "VJL1",
+          "competition": "VJL1 P1",
+          "division_rank": 3,
+          "overall_rank": 23
+        },
+        {
+          "team": "Dandenong U12 Boys 2",
+          "division": "VJL1",
+          "competition": "VJL1 P1",
+          "division_rank": 4,
+          "overall_rank": 24
+        },
+        {
+          "team": "Southern Peninsula U12 Boys 1",
+          "division": "VJL1",
+          "competition": "VJL1 P1",
+          "division_rank": 5,
+          "overall_rank": 25
+        },
+        {
+          "team": "Keilor U12 Boys 1",
+          "division": "VJL1",
+          "competition": "VJL1 P2",
+          "division_rank": 6,
+          "overall_rank": 26
+        },
+        {
+          "team": "Casey U12 Boys 2",
+          "division": "VJL1",
+          "competition": "VJL1 P1",
+          "division_rank": 7,
+          "overall_rank": 27
+        },
+        {
+          "team": "Melbourne U12 Boys 1",
+          "division": "VJL1",
+          "competition": "VJL1 P2",
+          "division_rank": 8,
+          "overall_rank": 28
+        },
+        {
+          "team": "Eltham U12 Boys 2",
+          "division": "VJL1",
+          "competition": "VJL1 P2",
+          "division_rank": 9,
+          "overall_rank": 29
+        },
+        {
+          "team": "Bacchus Marsh U12 Boys 1",
+          "division": "VJL1",
+          "competition": "VJL1 P2",
+          "division_rank": 10,
+          "overall_rank": 30
+        },
+        {
+          "team": "Pakenham U12 Boys 1",
+          "division": "VJL1",
+          "competition": "VJL1 P1",
+          "division_rank": 11,
+          "overall_rank": 31
+        },
+        {
+          "team": "Frankston U12 Boys 2",
+          "division": "VJL1",
+          "competition": "VJL1 P1",
+          "division_rank": 12,
+          "overall_rank": 32
+        },
+        {
+          "team": "Whittlesea U12 Boys 1",
+          "division": "VJL1",
+          "competition": "VJL1 P2",
+          "division_rank": 13,
+          "overall_rank": 33
+        },
+        {
+          "team": "Diamond Valley U12 Boys 2",
+          "division": "VJL1",
+          "competition": "VJL1 P2",
+          "division_rank": 14,
+          "overall_rank": 34
+        },
+        {
+          "team": "Ringwood U12 Boys 1",
+          "division": "VJL1",
+          "competition": "VJL1 P2",
+          "division_rank": 15,
+          "overall_rank": 35
+        },
+        {
+          "team": "McKinnon U12 Boys 1",
+          "division": "VJL1",
+          "competition": "VJL1 P1",
+          "division_rank": 16,
+          "overall_rank": 36
+        },
+        {
+          "team": "Sunbury U12 Boys 1",
+          "division": "VJL1",
+          "competition": "VJL1 P2",
+          "division_rank": 17,
+          "overall_rank": 37
+        },
+        {
+          "team": "Coburg U12 Boys 1",
+          "division": "VJL1",
+          "competition": "VJL1 P2",
+          "division_rank": 18,
+          "overall_rank": 38
+        },
+        {
+          "team": "Sandringham U12 Boys 3",
+          "division": "VJL1",
+          "competition": "VJL1 P1",
+          "division_rank": 19,
+          "overall_rank": 39
+        },
+        {
+          "team": "Frankston U12 Boys 4",
+          "division": "VJL1",
+          "competition": "VJL1 P1",
+          "division_rank": 20,
+          "overall_rank": 40
+        },
+        {
+          "team": "Knox U12 Boys 2",
+          "division": "VJL2",
+          "competition": "VJL2 P1",
+          "division_rank": 1,
+          "overall_rank": 41
+        },
+        {
+          "team": "Bulleen U12 Boys 2",
+          "division": "VJL2",
+          "competition": "VJL2 P2",
+          "division_rank": 2,
+          "overall_rank": 42
+        },
+        {
+          "team": "Sandringham U12 Boys 2",
+          "division": "VJL2",
+          "competition": "VJL2 P1",
+          "division_rank": 3,
+          "overall_rank": 43
+        },
+        {
+          "team": "Surfcoast U12 Boys 1",
+          "division": "VJL2",
+          "competition": "VJL2 P2",
+          "division_rank": 4,
+          "overall_rank": 44
+        },
+        {
+          "team": "Kilsyth U12 Boys 3",
+          "division": "VJL2",
+          "competition": "VJL2 P1",
+          "division_rank": 5,
+          "overall_rank": 45
+        },
+        {
+          "team": "Craigieburn U12 Boys 1",
+          "division": "VJL2",
+          "competition": "VJL2 P2",
+          "division_rank": 6,
+          "overall_rank": 46
+        },
+        {
+          "team": "Keilor U12 Boys 2",
+          "division": "VJL2",
+          "competition": "VJL2 P2",
+          "division_rank": 7,
+          "overall_rank": 47
+        },
+        {
+          "team": "Wallan U12 Boys 1",
+          "division": "VJL2",
+          "competition": "VJL2 P2",
+          "division_rank": 8,
+          "overall_rank": 48
+        },
+        {
+          "team": "Wyndham U12 Boys 2",
+          "division": "VJL2",
+          "competition": "VJL2 P2",
+          "division_rank": 9,
+          "overall_rank": 49
+        },
+        {
+          "team": "Chelsea U12 Boys 1",
+          "division": "VJL2",
+          "competition": "VJL2 P1",
+          "division_rank": 10,
+          "overall_rank": 50
+        },
+        {
+          "team": "Frankston U12 Boys 3",
+          "division": "VJL2",
+          "competition": "VJL2 P1",
+          "division_rank": 11,
+          "overall_rank": 51
+        },
+        {
+          "team": "Waverley U12 Boys 2",
+          "division": "VJL2",
+          "competition": "VJL2 P1",
+          "division_rank": 12,
+          "overall_rank": 52
+        },
+        {
+          "team": "Hawthorn U12 Boys 2",
+          "division": "VJL2",
+          "competition": "VJL2 P2",
+          "division_rank": 13,
+          "overall_rank": 53
+        },
+        {
+          "team": "Knox U12 Boys 3",
+          "division": "VJL2",
+          "competition": "VJL2 P1",
+          "division_rank": 14,
+          "overall_rank": 54
+        },
+        {
+          "team": "Camberwell U12 Boys 2",
+          "division": "VJL2",
+          "competition": "VJL2 P1",
+          "division_rank": 15,
+          "overall_rank": 55
+        },
+        {
+          "team": "Nunawading U12 Boys 2",
+          "division": "VJL2",
+          "competition": "VJL2 P1",
+          "division_rank": 16,
+          "overall_rank": 56
+        },
+        {
+          "team": "Casey U12 Boys 3",
+          "division": "VJL2",
+          "competition": "VJL2 P1",
+          "division_rank": 17,
+          "overall_rank": 57
+        },
+        {
+          "team": "Diamond Valley U12 Boys 3",
+          "division": "VJL2",
+          "competition": "VJL2 P2",
+          "division_rank": 18,
+          "overall_rank": 58
+        },
+        {
+          "team": "Warrandyte U12 Boys 1",
+          "division": "VJL2",
+          "competition": "VJL2 P2",
+          "division_rank": 19,
+          "overall_rank": 59
+        },
+        {
+          "team": "Bellarine U12 Boys 1",
+          "division": "VJL2",
+          "competition": "VJL2 P2",
+          "division_rank": 20,
+          "overall_rank": 60
+        },
+        {
+          "team": "Pakenham U12 Boys 2",
+          "division": "VJL3",
+          "competition": "VJL3 P1",
+          "division_rank": 1,
+          "overall_rank": 61
+        },
+        {
+          "team": "Altona U12 Boys 2",
+          "division": "VJL3",
+          "competition": "VJL3 P2",
+          "division_rank": 2,
+          "overall_rank": 62
+        },
+        {
+          "team": "McKinnon U12 Boys 2",
+          "division": "VJL3",
+          "competition": "VJL3 P1",
+          "division_rank": 3,
+          "overall_rank": 63
+        },
+        {
+          "team": "Broadmeadows U12 Boys 2",
+          "division": "VJL3",
+          "competition": "VJL3 P2",
+          "division_rank": 4,
+          "overall_rank": 64
+        },
+        {
+          "team": "Diamond Valley U12 Boys 4",
+          "division": "VJL3",
+          "competition": "VJL3 P2",
+          "division_rank": 5,
+          "overall_rank": 65
+        },
+        {
+          "team": "Bulleen U12 Boys 3",
+          "division": "VJL3",
+          "competition": "VJL3 P2",
+          "division_rank": 6,
+          "overall_rank": 66
+        },
+        {
+          "team": "Dandenong U12 Boys 3",
+          "division": "VJL3",
+          "competition": "VJL3 P1",
+          "division_rank": 7,
+          "overall_rank": 67
+        },
+        {
+          "team": "Gippsland United U12 Boys 2",
+          "division": "VJL3",
+          "competition": "VJL3 P1",
+          "division_rank": 8,
+          "overall_rank": 68
+        },
+        {
+          "team": "Mornington U12 Boys 2",
+          "division": "VJL3",
+          "competition": "VJL3 P1",
+          "division_rank": 9,
+          "overall_rank": 69
+        },
+        {
+          "team": "Eltham U12 Boys 3",
+          "division": "VJL3",
+          "competition": "VJL3 P2",
+          "division_rank": 10,
+          "overall_rank": 70
+        },
+        {
+          "team": "Nunawading U12 Boys 3",
+          "division": "VJL3",
+          "competition": "VJL3 P1",
+          "division_rank": 11,
+          "overall_rank": 71
+        },
+        {
+          "team": "Ringwood U12 Boys 2",
+          "division": "VJL3",
+          "competition": "VJL3 P2",
+          "division_rank": 12,
+          "overall_rank": 72
+        },
+        {
+          "team": "Geelong United U12 Boys 2",
+          "division": "VJL3",
+          "competition": "VJL3 P2",
+          "division_rank": 13,
+          "overall_rank": 73
+        },
+        {
+          "team": "Doncaster U12 Boys 1",
+          "division": "VJL3",
+          "competition": "VJL3 P2",
+          "division_rank": 14,
+          "overall_rank": 74
+        },
+        {
+          "team": "Casey U12 Boys 4",
+          "division": "VJL3",
+          "competition": "VJL3 P1",
+          "division_rank": 15,
+          "overall_rank": 75
+        },
+        {
+          "team": "Keilor U12 Boys 4",
+          "division": "VJL3",
+          "competition": "VJL3 P2",
+          "division_rank": 16,
+          "overall_rank": 76
+        },
+        {
+          "team": "Sandringham U12 Boys 4",
+          "division": "VJL3",
+          "competition": "VJL3 P1",
+          "division_rank": 17,
+          "overall_rank": 77
+        },
+        {
+          "team": "Kilsyth U12 Boys 4",
+          "division": "VJL3",
+          "competition": "VJL3 P1",
+          "division_rank": 18,
+          "overall_rank": 78
+        },
+        {
+          "team": "Eltham U12 Boys 4",
+          "division": "VJL3",
+          "competition": "VJL3 P2",
+          "division_rank": 19,
+          "overall_rank": 79
+        },
+        {
+          "team": "Western Port U12 Boys 1",
+          "division": "VJL3",
+          "competition": "VJL3 P1",
+          "division_rank": 20,
+          "overall_rank": 80
+        },
+        {
+          "team": "Geelong United U12 Boys 3",
+          "division": "VJL4",
+          "competition": "VJL4 P2",
+          "division_rank": 1,
+          "overall_rank": 81
+        },
+        {
+          "team": "Knox U12 Boys 4",
+          "division": "VJL4",
+          "competition": "VJL4 P1",
+          "division_rank": 2,
+          "overall_rank": 82
+        },
+        {
+          "team": "Nunawading U12 Boys 4",
+          "division": "VJL4",
+          "competition": "VJL4 P1",
+          "division_rank": 3,
+          "overall_rank": 83
+        },
+        {
+          "team": "Sandringham U12 Boys 5",
+          "division": "VJL4",
+          "competition": "VJL4 P1",
+          "division_rank": 4,
+          "overall_rank": 84
+        },
+        {
+          "team": "Darebin U12 Boys 1",
+          "division": "VJL4",
+          "competition": "VJL4 P2",
+          "division_rank": 5,
+          "overall_rank": 85
+        },
+        {
+          "team": "Collingwood U12 Boys 1",
+          "division": "VJL4",
+          "competition": "VJL4 P2",
+          "division_rank": 6,
+          "overall_rank": 86
+        },
+        {
+          "team": "Keilor U12 Boys 3",
+          "division": "VJL4",
+          "competition": "VJL4 P2",
+          "division_rank": 7,
+          "overall_rank": 87
+        },
+        {
+          "team": "Kilsyth U12 Boys 5",
+          "division": "VJL4",
+          "competition": "VJL4 P1",
+          "division_rank": 8,
+          "overall_rank": 88
+        },
+        {
+          "team": "Melbourne U12 Boys 2",
+          "division": "VJL4",
+          "competition": "VJL4 P2",
+          "division_rank": 9,
+          "overall_rank": 89
+        },
+        {
+          "team": "Camberwell U12 Boys 4",
+          "division": "VJL4",
+          "competition": "VJL4 P1",
+          "division_rank": 10,
+          "overall_rank": 90
+        },
+        {
+          "team": "Waverley U12 Boys 3",
+          "division": "VJL4",
+          "competition": "VJL4 P1",
+          "division_rank": 11,
+          "overall_rank": 91
+        },
+        {
+          "team": "Camberwell U12 Boys 3",
+          "division": "VJL4",
+          "competition": "VJL4 P1",
+          "division_rank": 12,
+          "overall_rank": 92
+        },
+        {
+          "team": "Craigieburn U12 Boys 2",
+          "division": "VJL4",
+          "competition": "VJL4 P2",
+          "division_rank": 13,
+          "overall_rank": 93
+        },
+        {
+          "team": "Hawthorn U12 Boys 3",
+          "division": "VJL4",
+          "competition": "VJL4 P2",
+          "division_rank": 14,
+          "overall_rank": 94
+        },
+        {
+          "team": "Southern Peninsula U12 Boys 2",
+          "division": "VJL4",
+          "competition": "VJL4 P1",
+          "division_rank": 15,
+          "overall_rank": 95
+        },
+        {
+          "team": "Westgate U12 Boys 2",
+          "division": "VJL4",
+          "competition": "VJL4 P2",
+          "division_rank": 16,
+          "overall_rank": 96
+        },
+        {
+          "team": "Frankston U12 Boys 5",
+          "division": "VJL4",
+          "competition": "VJL4 P1",
+          "division_rank": 17,
+          "overall_rank": 97
+        },
+        {
+          "team": "Kyneton U12 Boys 1",
+          "division": "VJL4",
+          "competition": "VJL4 P2",
+          "division_rank": 18,
+          "overall_rank": 98
+        },
+        {
+          "team": "McKinnon U12 Boys 4",
+          "division": "VJL4",
+          "competition": "VJL4 P1",
+          "division_rank": 19,
+          "overall_rank": 99
+        },
+        {
+          "team": "Altona U12 Boys 3",
+          "division": "VJL4",
+          "competition": "VJL4 P2",
+          "division_rank": 20,
+          "overall_rank": 100
+        },
+        {
+          "team": "Eltham U12 Boys 5",
+          "division": "VJL5",
+          "competition": "VJL5 P1",
+          "division_rank": 1,
+          "overall_rank": 101
+        },
+        {
+          "team": "Diamond Valley U12 Boys 5",
+          "division": "VJL5",
+          "competition": "VJL5 P2",
+          "division_rank": 2,
+          "overall_rank": 102
+        },
+        {
+          "team": "Melbourne U12 Boys 4",
+          "division": "VJL5",
+          "competition": "VJL5 P2",
+          "division_rank": 3,
+          "overall_rank": 103
+        },
+        {
+          "team": "Western Port U12 Boys 2",
+          "division": "VJL5",
+          "competition": "VJL5 P1",
+          "division_rank": 4,
+          "overall_rank": 104
+        },
+        {
+          "team": "Melbourne U12 Boys 3",
+          "division": "VJL5",
+          "competition": "VJL5 P1",
+          "division_rank": 5,
+          "overall_rank": 105
+        },
+        {
+          "team": "Mornington U12 Boys 3",
+          "division": "VJL5",
+          "competition": "VJL5 P1",
+          "division_rank": 6,
+          "overall_rank": 106
+        },
+        {
+          "team": "Macedon Ranges U12 Boys 1",
+          "division": "VJL5",
+          "competition": "VJL5 P2",
+          "division_rank": 7,
+          "overall_rank": 107
+        },
+        {
+          "team": "Bacchus Marsh U12 Boys 2",
+          "division": "VJL5",
+          "competition": "VJL5 P2",
+          "division_rank": 8,
+          "overall_rank": 108
+        },
+        {
+          "team": "Casey U12 Boys 5",
+          "division": "VJL5",
+          "competition": "VJL5 P1",
+          "division_rank": 9,
+          "overall_rank": 109
+        },
+        {
+          "team": "Coburg U12 Boys 2",
+          "division": "VJL5",
+          "competition": "VJL5 P2",
+          "division_rank": 10,
+          "overall_rank": 110
+        },
+        {
+          "team": "Dandenong U12 Boys 5",
+          "division": "VJL5",
+          "competition": "VJL5 P1",
+          "division_rank": 11,
+          "overall_rank": 111
+        },
+        {
+          "team": "Sunbury U12 Boys 2",
+          "division": "VJL5",
+          "competition": "VJL5 P2",
+          "division_rank": 12,
+          "overall_rank": 112
+        },
+        {
+          "team": "Sherbrooke U12 Boys 1",
+          "division": "VJL5",
+          "competition": "VJL5 P1",
+          "division_rank": 13,
+          "overall_rank": 113
+        },
+        {
+          "team": "Wyndham U12 Boys 3",
+          "division": "VJL5",
+          "competition": "VJL5 P2",
+          "division_rank": 14,
+          "overall_rank": 114
+        },
+        {
+          "team": "Frankston U12 Boys 6",
+          "division": "VJL5",
+          "competition": "VJL5 P1",
+          "division_rank": 15,
+          "overall_rank": 115
+        },
+        {
+          "team": "Altona U12 Boys 4",
+          "division": "VJL5",
+          "competition": "VJL5 P2",
+          "division_rank": 16,
+          "overall_rank": 116
+        },
+        {
+          "team": "Surfcoast U12 Boys 2",
+          "division": "VJL5",
+          "competition": "VJL5 P2",
+          "division_rank": 17,
+          "overall_rank": 117
+        },
+        {
+          "team": "Melton U12 Boys 2",
+          "division": "VJL5",
+          "competition": "VJL5 P2",
+          "division_rank": 18,
+          "overall_rank": 118
+        },
+        {
+          "team": "Dandenong U12 Boys 4",
+          "division": "VJL5",
+          "competition": "VJL5 P1",
+          "division_rank": 19,
+          "overall_rank": 119
+        },
+        {
+          "team": "Bulleen U12 Boys 4",
+          "division": "VJL5",
+          "competition": "VJL5 P1",
+          "division_rank": 20,
+          "overall_rank": 120
+        },
+        {
+          "team": "Whittlesea U12 Boys 2",
+          "division": "VJL6",
+          "competition": "VJL6 P2",
+          "division_rank": 1,
+          "overall_rank": 121
+        },
+        {
+          "team": "Hawthorn U12 Boys 4",
+          "division": "VJL6",
+          "competition": "VJL6 P2",
+          "division_rank": 2,
+          "overall_rank": 122
+        },
+        {
+          "team": "Pakenham U12 Boys 3",
+          "division": "VJL6",
+          "competition": "VJL6 P1",
+          "division_rank": 3,
+          "overall_rank": 123
+        },
+        {
+          "team": "Keilor U12 Boys 5",
+          "division": "VJL6",
+          "competition": "VJL6 P2",
+          "division_rank": 4,
+          "overall_rank": 124
+        },
+        {
+          "team": "Waverley U12 Boys 4",
+          "division": "VJL6",
+          "competition": "VJL6 P1",
+          "division_rank": 5,
+          "overall_rank": 125
+        },
+        {
+          "team": "Altona U12 Boys 5",
+          "division": "VJL6",
+          "competition": "VJL6 P2",
+          "division_rank": 6,
+          "overall_rank": 126
+        },
+        {
+          "team": "Broadmeadows U12 Boys 3",
+          "division": "VJL6",
+          "competition": "VJL6 P2",
+          "division_rank": 7,
+          "overall_rank": 127
+        },
+        {
+          "team": "McKinnon U12 Boys 3",
+          "division": "VJL6",
+          "competition": "VJL6 P1",
+          "division_rank": 8,
+          "overall_rank": 128
+        },
+        {
+          "team": "Blackburn U12 Boys 2",
+          "division": "VJL6",
+          "competition": "VJL6 P1",
+          "division_rank": 9,
+          "overall_rank": 129
+        },
+        {
+          "team": "Camberwell U12 Boys 5",
+          "division": "VJL6",
+          "competition": "VJL6 P1",
+          "division_rank": 10,
+          "overall_rank": 130
+        },
+        {
+          "team": "Dandenong U12 Boys 6",
+          "division": "VJL6",
+          "competition": "VJL6 P1",
+          "division_rank": 11,
+          "overall_rank": 131
+        },
+        {
+          "team": "Keysborough U12 Boys 1",
+          "division": "VJL6",
+          "competition": "VJL6 P1",
+          "division_rank": 12,
+          "overall_rank": 132
+        },
+        {
+          "team": "Chelsea U12 Boys 3",
+          "division": "VJL6",
+          "competition": "VJL6 P1",
+          "division_rank": 13,
+          "overall_rank": 133
+        },
+        {
+          "team": "Eltham U12 Boys 6",
+          "division": "VJL6",
+          "competition": "VJL6 P2",
+          "division_rank": 14,
+          "overall_rank": 134
+        },
+        {
+          "team": "Chelsea U12 Boys 2",
+          "division": "VJL6",
+          "competition": "VJL6 P1",
+          "division_rank": 15,
+          "overall_rank": 135
+        },
+        {
+          "team": "Wyndham U12 Boys 5",
+          "division": "VJL6",
+          "competition": "VJL6 P2",
+          "division_rank": 16,
+          "overall_rank": 136
+        },
+        {
+          "team": "Westgate U12 Boys 3",
+          "division": "VJL6",
+          "competition": "VJL6 P2",
+          "division_rank": 17,
+          "overall_rank": 137
+        },
+        {
+          "team": "Geelong United U12 Boys 4",
+          "division": "VJL6",
+          "competition": "VJL6 P2",
+          "division_rank": 18,
+          "overall_rank": 138
+        },
+        {
+          "team": "Bellarine U12 Boys 2",
+          "division": "VJL6",
+          "competition": "VJL6 P2",
+          "division_rank": 19,
+          "overall_rank": 139
+        },
+        {
+          "team": "Ringwood U12 Boys 5",
+          "division": "VJL6",
+          "competition": "VJL6 P1",
+          "division_rank": 20,
+          "overall_rank": 140
+        },
+        {
+          "team": "Nunawading U12 Boys 6",
+          "division": "VJL7",
+          "competition": "VJL7 P1",
+          "division_rank": 1,
+          "overall_rank": 141
+        },
+        {
+          "team": "Bulleen U12 Boys 6",
+          "division": "VJL7",
+          "competition": "VJL7 P2",
+          "division_rank": 2,
+          "overall_rank": 142
+        },
+        {
+          "team": "Camberwell U12 Boys 6",
+          "division": "VJL7",
+          "competition": "VJL7 P2",
+          "division_rank": 3,
+          "overall_rank": 143
+        },
+        {
+          "team": "Knox U12 Boys 5",
+          "division": "VJL7",
+          "competition": "VJL7 P1",
+          "division_rank": 4,
+          "overall_rank": 144
+        },
+        {
+          "team": "Wyndham U12 Boys 4",
+          "division": "VJL7",
+          "competition": "VJL7 P2",
+          "division_rank": 5,
+          "overall_rank": 145
+        },
+        {
+          "team": "Western Port U12 Boys 3",
+          "division": "VJL7",
+          "competition": "VJL7 P1",
+          "division_rank": 6,
+          "overall_rank": 146
+        },
+        {
+          "team": "Ringwood U12 Boys 3",
+          "division": "VJL7",
+          "competition": "VJL7 P2",
+          "division_rank": 7,
+          "overall_rank": 147
+        },
+        {
+          "team": "Warrandyte U12 Boys 2",
+          "division": "VJL7",
+          "competition": "VJL7 P2",
+          "division_rank": 8,
+          "overall_rank": 148
+        },
+        {
+          "team": "McKinnon U12 Boys 5",
+          "division": "VJL7",
+          "competition": "VJL7 P1",
+          "division_rank": 9,
+          "overall_rank": 149
+        },
+        {
+          "team": "Southern Peninsula U12 Boys 4",
+          "division": "VJL7",
+          "competition": "VJL7 P1",
+          "division_rank": 10,
+          "overall_rank": 150
+        },
+        {
+          "team": "Casey U12 Boys 6",
+          "division": "VJL7",
+          "competition": "VJL7 P1",
+          "division_rank": 11,
+          "overall_rank": 151
+        },
+        {
+          "team": "Blackburn U12 Boys 3",
+          "division": "VJL7",
+          "competition": "VJL7 P2",
+          "division_rank": 12,
+          "overall_rank": 152
+        },
+        {
+          "team": "Nunawading U12 Boys 5",
+          "division": "VJL7",
+          "competition": "VJL7 P1",
+          "division_rank": 13,
+          "overall_rank": 153
+        },
+        {
+          "team": "Dandenong U12 Boys 7",
+          "division": "VJL7",
+          "competition": "VJL7 P1",
+          "division_rank": 14,
+          "overall_rank": 154
+        },
+        {
+          "team": "Bulleen U12 Boys 5",
+          "division": "VJL7",
+          "competition": "VJL7 P2",
+          "division_rank": 15,
+          "overall_rank": 155
+        },
+        {
+          "team": "Darebin U12 Boys 2",
+          "division": "VJL7",
+          "competition": "VJL7 P2",
+          "division_rank": 16,
+          "overall_rank": 156
+        },
+        {
+          "team": "Sandringham U12 Boys 6",
+          "division": "VJL7",
+          "competition": "VJL7 P1",
+          "division_rank": 17,
+          "overall_rank": 157
+        },
+        {
+          "team": "Coburg U12 Boys 3",
+          "division": "VJL7",
+          "competition": "VJL7 P2",
+          "division_rank": 18,
+          "overall_rank": 158
+        },
+        {
+          "team": "Surfcoast U12 Boys 3",
+          "division": "VJL7",
+          "competition": "VJL7 P2",
+          "division_rank": 19,
+          "overall_rank": 159
+        },
+        {
+          "team": "Mornington U12 Boys 4",
+          "division": "VJL7",
+          "competition": "VJL7 P1",
+          "division_rank": 20,
+          "overall_rank": 160
+        },
+        {
+          "team": "Diamond Valley U12 Boys 6",
+          "division": "VJL8",
+          "competition": "VJL8 P2",
+          "division_rank": 1,
+          "overall_rank": 161
+        },
+        {
+          "team": "Whittlesea U12 Boys 3",
+          "division": "VJL8",
+          "competition": "VJL8 P2",
+          "division_rank": 2,
+          "overall_rank": 162
+        },
+        {
+          "team": "Chelsea U12 Boys 4",
+          "division": "VJL8",
+          "competition": "VJL8 P1",
+          "division_rank": 3,
+          "overall_rank": 163
+        },
+        {
+          "team": "Melbourne U12 Boys 5",
+          "division": "VJL8",
+          "competition": "VJL8 P1",
+          "division_rank": 4,
+          "overall_rank": 164
+        },
+        {
+          "team": "McKinnon U12 Boys 6",
+          "division": "VJL8",
+          "competition": "VJL8 P1",
+          "division_rank": 5,
+          "overall_rank": 165
+        },
+        {
+          "team": "Sandringham U12 Boys 7",
+          "division": "VJL8",
+          "competition": "VJL8 P1",
+          "division_rank": 6,
+          "overall_rank": 166
+        },
+        {
+          "team": "Collingwood U12 Boys 2",
+          "division": "VJL8",
+          "competition": "VJL8 P2",
+          "division_rank": 7,
+          "overall_rank": 167
+        },
+        {
+          "team": "Coburg U12 Boys 4",
+          "division": "VJL8",
+          "competition": "VJL8 P2",
+          "division_rank": 8,
+          "overall_rank": 168
+        },
+        {
+          "team": "Keilor U12 Boys 6",
+          "division": "VJL8",
+          "competition": "VJL8 P2",
+          "division_rank": 9,
+          "overall_rank": 169
+        },
+        {
+          "team": "Ringwood U12 Boys 4",
+          "division": "VJL8",
+          "competition": "VJL8 P1",
+          "division_rank": 10,
+          "overall_rank": 170
+        },
+        {
+          "team": "Knox U12 Boys 6",
+          "division": "VJL8",
+          "competition": "VJL8 P1",
+          "division_rank": 11,
+          "overall_rank": 171
+        },
+        {
+          "team": "Keysborough U12 Boys 2",
+          "division": "VJL8",
+          "competition": "VJL8 P1",
+          "division_rank": 12,
+          "overall_rank": 172
+        },
+        {
+          "team": "Bellarine U12 Boys 3",
+          "division": "VJL8",
+          "competition": "VJL8 P2",
+          "division_rank": 13,
+          "overall_rank": 173
+        },
+        {
+          "team": "Southern Peninsula U12 Boys 3",
+          "division": "VJL8",
+          "competition": "VJL8 P1",
+          "division_rank": 14,
+          "overall_rank": 174
+        },
+        {
+          "team": "Nunawading U12 Boys 7",
+          "division": "VJL8",
+          "competition": "VJL8 P1",
+          "division_rank": 15,
+          "overall_rank": 175
+        },
+        {
+          "team": "Bacchus Marsh U12 Boys 3",
+          "division": "VJL8",
+          "competition": "VJL8 P2",
+          "division_rank": 16,
+          "overall_rank": 176
+        },
+        {
+          "team": "Broadmeadows U12 Boys 4",
+          "division": "VJL8",
+          "competition": "VJL8 P2",
+          "division_rank": 17,
+          "overall_rank": 177
+        },
+        {
+          "team": "Wallan U12 Boys 2",
+          "division": "VJL8",
+          "competition": "VJL8 P2",
+          "division_rank": 18,
+          "overall_rank": 178
+        },
+        {
+          "team": "Melton U12 Boys 3",
+          "division": "VJL8",
+          "competition": "VJL8 P2",
+          "division_rank": 19,
+          "overall_rank": 179
+        },
+        {
+          "team": "Sherbrooke U12 Boys 2",
+          "division": "VJL8",
+          "competition": "VJL8 P1",
+          "division_rank": 20,
+          "overall_rank": 180
+        },
+        {
+          "team": "Melbourne U12 Boys 6",
+          "division": "VJL9",
+          "competition": "VJL9 P2",
+          "division_rank": 1,
+          "overall_rank": 181
+        },
+        {
+          "team": "Waverley U12 Boys 5",
+          "division": "VJL9",
+          "competition": "VJL9 P1",
+          "division_rank": 2,
+          "overall_rank": 182
+        },
+        {
+          "team": "Knox U12 Boys 7",
+          "division": "VJL9",
+          "competition": "VJL9 P1",
+          "division_rank": 3,
+          "overall_rank": 183
+        },
+        {
+          "team": "Craigieburn U12 Boys 3",
+          "division": "VJL9",
+          "competition": "VJL9 P2",
+          "division_rank": 4,
+          "overall_rank": 184
+        },
+        {
+          "team": "Casey U12 Boys 7",
+          "division": "VJL9",
+          "competition": "VJL9 P1",
+          "division_rank": 5,
+          "overall_rank": 185
+        },
+        {
+          "team": "Whittlesea U12 Boys 4",
+          "division": "VJL9",
+          "competition": "VJL9 P2",
+          "division_rank": 6,
+          "overall_rank": 186
+        },
+        {
+          "team": "Hawthorn U12 Boys 5",
+          "division": "VJL9",
+          "competition": "VJL9 P1",
+          "division_rank": 7,
+          "overall_rank": 187
+        },
+        {
+          "team": "Hawthorn U12 Boys 7",
+          "division": "VJL9",
+          "competition": "VJL9 P2",
+          "division_rank": 8,
+          "overall_rank": 188
+        },
+        {
+          "team": "Diamond Valley U12 Boys 7",
+          "division": "VJL9",
+          "competition": "VJL9 P2",
+          "division_rank": 9,
+          "overall_rank": 189
+        },
+        {
+          "team": "Dandenong U12 Boys 8",
+          "division": "VJL9",
+          "competition": "VJL9 P1",
+          "division_rank": 10,
+          "overall_rank": 190
+        },
+        {
+          "team": "Eltham U12 Boys 7",
+          "division": "VJL9",
+          "competition": "VJL9 P2",
+          "division_rank": 11,
+          "overall_rank": 191
+        },
+        {
+          "team": "Craigieburn U12 Boys 4",
+          "division": "VJL9",
+          "competition": "VJL9 P2",
+          "division_rank": 12,
+          "overall_rank": 192
+        },
+        {
+          "team": "Camberwell U12 Boys 7",
+          "division": "VJL9",
+          "competition": "VJL9 P1",
+          "division_rank": 13,
+          "overall_rank": 193
+        },
+        {
+          "team": "Geelong United U12 Boys 5",
+          "division": "VJL9",
+          "competition": "VJL9 P2",
+          "division_rank": 14,
+          "overall_rank": 194
+        },
+        {
+          "team": "Frankston U12 Boys 7",
+          "division": "VJL9",
+          "competition": "VJL9 P1",
+          "division_rank": 15,
+          "overall_rank": 195
+        },
+        {
+          "team": "Waverley U12 Boys 6",
+          "division": "VJL9",
+          "competition": "VJL9 P1",
+          "division_rank": 16,
+          "overall_rank": 196
+        },
+        {
+          "team": "Keysborough U12 Boys 3",
+          "division": "VJL9",
+          "competition": "VJL9 P1",
+          "division_rank": 17,
+          "overall_rank": 197
+        },
+        {
+          "team": "Coburg U12 Boys 5",
+          "division": "VJL9",
+          "competition": "VJL9 P2",
+          "division_rank": 18,
+          "overall_rank": 198
+        },
+        {
+          "team": "Knox U12 Boys 8",
+          "division": "VJL9",
+          "competition": "VJL9 P1",
+          "division_rank": 19,
+          "overall_rank": 199
+        },
+        {
+          "team": "Bellarine U12 Boys 4",
+          "division": "VJL9",
+          "competition": "VJL9 P2",
+          "division_rank": 20,
+          "overall_rank": 200
+        },
+        {
+          "team": "Pakenham U12 Boys 4",
+          "division": "VJL10",
+          "competition": "VJL10 P2",
+          "division_rank": 1,
+          "overall_rank": 201
+        },
+        {
+          "team": "Nunawading U12 Boys 8",
+          "division": "VJL10",
+          "competition": "VJL10 P1",
+          "division_rank": 2,
+          "overall_rank": 202
+        },
+        {
+          "team": "Keilor U12 Boys 7",
+          "division": "VJL10",
+          "competition": "VJL10 P1",
+          "division_rank": 3,
+          "overall_rank": 203
+        },
+        {
+          "team": "Frankston U12 Boys 8",
+          "division": "VJL10",
+          "competition": "VJL10 P2",
+          "division_rank": 4,
+          "overall_rank": 204
+        },
+        {
+          "team": "Hawthorn U12 Boys 6",
+          "division": "VJL10",
+          "competition": "VJL10 P1",
+          "division_rank": 5,
+          "overall_rank": 205
+        },
+        {
+          "team": "Camberwell U12 Boys 8",
+          "division": "VJL10",
+          "competition": "VJL10 P2",
+          "division_rank": 6,
+          "overall_rank": 206
+        },
+        {
+          "team": "Ringwood U12 Boys 6",
+          "division": "VJL10",
+          "competition": "VJL10 P2",
+          "division_rank": 7,
+          "overall_rank": 207
+        },
+        {
+          "team": "Eltham U12 Boys 8",
+          "division": "VJL10",
+          "competition": "VJL10 P1",
+          "division_rank": 8,
+          "overall_rank": 208
+        },
+        {
+          "team": "Blackburn U12 Boys 4",
+          "division": "VJL10",
+          "competition": "VJL10 P1",
+          "division_rank": 9,
+          "overall_rank": 209
+        },
+        {
+          "team": "Frankston U12 Boys 9",
+          "division": "VJL10",
+          "competition": "VJL10 P2",
+          "division_rank": 10,
+          "overall_rank": 210
+        },
+        {
+          "team": "Sunbury U12 Boys 3",
+          "division": "VJL10",
+          "competition": "VJL10 P1",
+          "division_rank": 11,
+          "overall_rank": 211
+        },
+        {
+          "team": "Ringwood U12 Boys 7",
+          "division": "VJL10",
+          "competition": "VJL10 P2",
+          "division_rank": 12,
+          "overall_rank": 212
+        },
+        {
+          "team": "Casey U12 Boys 8",
+          "division": "VJL10",
+          "competition": "VJL10 P2",
+          "division_rank": 13,
+          "overall_rank": 213
+        },
+        {
+          "team": "Bacchus Marsh U12 Boys 4",
+          "division": "VJL10",
+          "competition": "VJL10 P1",
+          "division_rank": 14,
+          "overall_rank": 214
+        },
+        {
+          "team": "Melbourne U12 Boys 7",
+          "division": "VJL10",
+          "competition": "VJL10 P1",
+          "division_rank": 15,
+          "overall_rank": 215
+        },
+        {
+          "team": "Western Port U12 Boys 4",
+          "division": "VJL10",
+          "competition": "VJL10 P2",
+          "division_rank": 16,
+          "overall_rank": 216
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "season": "2025",
+      "teams": [
+        {
+          "team": "Kilsyth U12 Boys 1",
+          "division": "VC",
+          "competition": "VC Championship",
+          "division_rank": 1,
+          "overall_rank": 1
+        },
+        {
+          "team": "Melbourne U12 Boys 1",
+          "division": "VC",
+          "competition": "VC Championship",
+          "division_rank": 2,
+          "overall_rank": 2
+        },
+        {
+          "team": "Nunawading U12 Boys 1",
+          "division": "VC",
+          "competition": "VC Championship",
+          "division_rank": 3,
+          "overall_rank": 3
+        },
+        {
+          "team": "Casey U12 Boys 1",
+          "division": "VC",
+          "competition": "VC Championship",
+          "division_rank": 4,
+          "overall_rank": 4
+        },
+        {
+          "team": "Gippsland United U12 Boys 1",
+          "division": "VC",
+          "competition": "VC Championship",
+          "division_rank": 5,
+          "overall_rank": 5
+        },
+        {
+          "team": "Frankston U12 Boys 1",
+          "division": "VC",
+          "competition": "VC Championship",
+          "division_rank": 6,
+          "overall_rank": 6
+        },
+        {
+          "team": "Dandenong U12 Boys 1",
+          "division": "VC",
+          "competition": "VC Championship",
+          "division_rank": 7,
+          "overall_rank": 7
+        },
+        {
+          "team": "Sandringham U12 Boys 1",
+          "division": "VC",
+          "competition": "VC Championship",
+          "division_rank": 8,
+          "overall_rank": 8
+        },
+        {
+          "team": "Knox U12 Boys 1",
+          "division": "VC",
+          "competition": "VC Championship",
+          "division_rank": 9,
+          "overall_rank": 9
+        },
+        {
+          "team": "Diamond Valley U12 Boys 1",
+          "division": "VC",
+          "competition": "VC Championship",
+          "division_rank": 10,
+          "overall_rank": 10
+        },
+        {
+          "team": "Geelong United U12 Boys 1",
+          "division": "VC Reserve",
+          "competition": "VC Reserve",
+          "division_rank": 1,
+          "overall_rank": 11
+        },
+        {
+          "team": "Hawthorn U12 Boys 1",
+          "division": "VC Reserve",
+          "competition": "VC Reserve",
+          "division_rank": 2,
+          "overall_rank": 12
+        },
+        {
+          "team": "McKinnon U12 Boys 1",
+          "division": "VC Reserve",
+          "competition": "VC Reserve",
+          "division_rank": 3,
+          "overall_rank": 13
+        },
+        {
+          "team": "Kilsyth U12 Boys 2",
+          "division": "VC Reserve",
+          "competition": "VC Reserve",
+          "division_rank": 4,
+          "overall_rank": 14
+        },
+        {
+          "team": "Camberwell U12 Boys 1",
+          "division": "VC Reserve",
+          "competition": "VC Reserve",
+          "division_rank": 5,
+          "overall_rank": 15
+        },
+        {
+          "team": "Keilor U12 Boys 1",
+          "division": "VC Reserve",
+          "competition": "VC Reserve",
+          "division_rank": 6,
+          "overall_rank": 16
+        },
+        {
+          "team": "Eltham U12 Boys 1",
+          "division": "VC Reserve",
+          "competition": "VC Reserve",
+          "division_rank": 7,
+          "overall_rank": 17
+        },
+        {
+          "team": "Frankston U12 Boys 2",
+          "division": "VC Reserve",
+          "competition": "VC Reserve",
+          "division_rank": 8,
+          "overall_rank": 18
+        },
+        {
+          "team": "Wyndham U12 Boys 1",
+          "division": "VC Reserve",
+          "competition": "VC Reserve",
+          "division_rank": 9,
+          "overall_rank": 19
+        },
+        {
+          "team": "Bulleen U12 Boys 1",
+          "division": "VC Reserve",
+          "competition": "VC Reserve",
+          "division_rank": 10,
+          "overall_rank": 20
+        },
+        {
+          "team": "Sunbury U12 Boys 1",
+          "division": "VJL1",
+          "competition": "VJL1 P2",
+          "division_rank": 1,
+          "overall_rank": 21
+        },
+        {
+          "team": "Pakenham U12 Boys 1",
+          "division": "VJL1",
+          "competition": "VJL1 P1",
+          "division_rank": 2,
+          "overall_rank": 22
+        },
+        {
+          "team": "Craigieburn U12 Boys 1",
+          "division": "VJL1",
+          "competition": "VJL1 P2",
+          "division_rank": 3,
+          "overall_rank": 23
+        },
+        {
+          "team": "Dandenong U12 Boys 2",
+          "division": "VJL1",
+          "competition": "VJL1 P1",
+          "division_rank": 4,
+          "overall_rank": 24
+        },
+        {
+          "team": "Mornington U12 Boys 1",
+          "division": "VJL1",
+          "competition": "VJL1 P1",
+          "division_rank": 5,
+          "overall_rank": 25
+        },
+        {
+          "team": "Surfcoast U12 Boys 1",
+          "division": "VJL1",
+          "competition": "VJL1 P2",
+          "division_rank": 6,
+          "overall_rank": 26
+        },
+        {
+          "team": "Sandringham U12 Boys 2",
+          "division": "VJL1",
+          "competition": "VJL1 P1",
+          "division_rank": 7,
+          "overall_rank": 27
+        },
+        {
+          "team": "Altona U12 Boys 1",
+          "division": "VJL1",
+          "competition": "VJL1 P2",
+          "division_rank": 8,
+          "overall_rank": 28
+        },
+        {
+          "team": "Kilsyth U12 Boys 3",
+          "division": "VJL1",
+          "competition": "VJL1 P1",
+          "division_rank": 9,
+          "overall_rank": 29
+        },
+        {
+          "team": "Waverley U12 Boys 1",
+          "division": "VJL1",
+          "competition": "VJL1 P1",
+          "division_rank": 10,
+          "overall_rank": 30
+        },
+        {
+          "team": "Coburg U12 Boys 1",
+          "division": "VJL1",
+          "competition": "VJL1 P2",
+          "division_rank": 11,
+          "overall_rank": 31
+        },
+        {
+          "team": "Westgate U12 Boys 1",
+          "division": "VJL1",
+          "competition": "VJL1 P2",
+          "division_rank": 12,
+          "overall_rank": 32
+        },
+        {
+          "team": "Ringwood U12 Boys 1",
+          "division": "VJL1",
+          "competition": "VJL1 P2",
+          "division_rank": 13,
+          "overall_rank": 33
+        },
+        {
+          "team": "Broadmeadows U12 Boys 1",
+          "division": "VJL1",
+          "competition": "VJL1 P2",
+          "division_rank": 14,
+          "overall_rank": 34
+        },
+        {
+          "team": "Southern Peninsula U12 Boys 1",
+          "division": "VJL1",
+          "competition": "VJL1 P1",
+          "division_rank": 15,
+          "overall_rank": 35
+        },
+        {
+          "team": "Casey U12 Boys 2",
+          "division": "VJL1",
+          "competition": "VJL1 P1",
+          "division_rank": 16,
+          "overall_rank": 36
+        },
+        {
+          "team": "McKinnon U12 Boys 2",
+          "division": "VJL1",
+          "competition": "VJL1 P1",
+          "division_rank": 17,
+          "overall_rank": 37
+        },
+        {
+          "team": "Hawthorn U12 Boys 2",
+          "division": "VJL1",
+          "competition": "VJL1 P2",
+          "division_rank": 18,
+          "overall_rank": 38
+        },
+        {
+          "team": "Gippsland United U12 Boys 2",
+          "division": "VJL1",
+          "competition": "VJL1 P1",
+          "division_rank": 19,
+          "overall_rank": 39
+        },
+        {
+          "team": "Nunawading U12 Boys 2",
+          "division": "VJL1",
+          "competition": "VJL1 P2",
+          "division_rank": 20,
+          "overall_rank": 40
+        },
+        {
+          "team": "Diamond Valley U12 Boys 4",
+          "division": "VJL2",
+          "competition": "VJL2 P2",
+          "division_rank": 1,
+          "overall_rank": 41
+        },
+        {
+          "team": "Knox U12 Boys 2",
+          "division": "VJL2",
+          "competition": "VJL2 P1",
+          "division_rank": 2,
+          "overall_rank": 42
+        },
+        {
+          "team": "Dandenong U12 Boys 3",
+          "division": "VJL2",
+          "competition": "VJL2 P1",
+          "division_rank": 3,
+          "overall_rank": 43
+        },
+        {
+          "team": "Melbourne U12 Boys 2",
+          "division": "VJL2",
+          "competition": "VJL2 P2",
+          "division_rank": 4,
+          "overall_rank": 44
+        },
+        {
+          "team": "Wyndham U12 Boys 2",
+          "division": "VJL2",
+          "competition": "VJL2 P2",
+          "division_rank": 5,
+          "overall_rank": 45
+        },
+        {
+          "team": "Melton U12 Boys 1",
+          "division": "VJL2",
+          "competition": "VJL2 P2",
+          "division_rank": 6,
+          "overall_rank": 46
+        },
+        {
+          "team": "Casey U12 Boys 3",
+          "division": "VJL2",
+          "competition": "VJL2 P1",
+          "division_rank": 7,
+          "overall_rank": 47
+        },
+        {
+          "team": "Nunawading U12 Boys 4",
+          "division": "VJL2",
+          "competition": "VJL2 P1",
+          "division_rank": 8,
+          "overall_rank": 48
+        },
+        {
+          "team": "Bulleen U12 Boys 2",
+          "division": "VJL2",
+          "competition": "VJL2 P2",
+          "division_rank": 9,
+          "overall_rank": 49
+        },
+        {
+          "team": "Nunawading U12 Boys 3",
+          "division": "VJL2",
+          "competition": "VJL2 P1",
+          "division_rank": 10,
+          "overall_rank": 50
+        },
+        {
+          "team": "Frankston U12 Boys 4",
+          "division": "VJL2",
+          "competition": "VJL2 P1",
+          "division_rank": 11,
+          "overall_rank": 51
+        },
+        {
+          "team": "Keilor U12 Boys 2",
+          "division": "VJL2",
+          "competition": "VJL2 P2",
+          "division_rank": 12,
+          "overall_rank": 52
+        },
+        {
+          "team": "Sandringham U12 Boys 3",
+          "division": "VJL2",
+          "competition": "VJL2 P1",
+          "division_rank": 13,
+          "overall_rank": 53
+        },
+        {
+          "team": "Camberwell U12 Boys 2",
+          "division": "VJL2",
+          "competition": "VJL2 P2",
+          "division_rank": 14,
+          "overall_rank": 54
+        },
+        {
+          "team": "Eltham U12 Boys 2",
+          "division": "VJL2",
+          "competition": "VJL2 P2",
+          "division_rank": 15,
+          "overall_rank": 55
+        },
+        {
+          "team": "Blackburn U12 Boys 1",
+          "division": "VJL2",
+          "competition": "VJL2 P1",
+          "division_rank": 16,
+          "overall_rank": 56
+        },
+        {
+          "team": "Altona U12 Boys 2",
+          "division": "VJL2",
+          "competition": "VJL2 P2",
+          "division_rank": 17,
+          "overall_rank": 57
+        },
+        {
+          "team": "McKinnon U12 Boys 3",
+          "division": "VJL2",
+          "competition": "VJL2 P1",
+          "division_rank": 18,
+          "overall_rank": 58
+        },
+        {
+          "team": "Ringwood U12 Boys 2",
+          "division": "VJL2",
+          "competition": "VJL2 P1",
+          "division_rank": 19,
+          "overall_rank": 59
+        },
+        {
+          "team": "Diamond Valley U12 Boys 2",
+          "division": "VJL2",
+          "competition": "VJL2 P2",
+          "division_rank": 20,
+          "overall_rank": 60
+        },
+        {
+          "team": "Dandenong U12 Boys 4",
+          "division": "VJL3",
+          "competition": "VJL3 P1",
+          "division_rank": 1,
+          "overall_rank": 61
+        },
+        {
+          "team": "Whittlesea U12 Boys 1",
+          "division": "VJL3",
+          "competition": "VJL3 P2",
+          "division_rank": 2,
+          "overall_rank": 62
+        },
+        {
+          "team": "Kilsyth U12 Boys 4",
+          "division": "VJL3",
+          "competition": "VJL3 P1",
+          "division_rank": 3,
+          "overall_rank": 63
+        },
+        {
+          "team": "Bulleen U12 Boys 3",
+          "division": "VJL3",
+          "competition": "VJL3 P2",
+          "division_rank": 4,
+          "overall_rank": 64
+        },
+        {
+          "team": "Bacchus Marsh U12 Boys 1",
+          "division": "VJL3",
+          "competition": "VJL3 P2",
+          "division_rank": 5,
+          "overall_rank": 65
+        },
+        {
+          "team": "Western Port U12 Boys 1",
+          "division": "VJL3",
+          "competition": "VJL3 P1",
+          "division_rank": 6,
+          "overall_rank": 66
+        },
+        {
+          "team": "Diamond Valley U12 Boys 3",
+          "division": "VJL3",
+          "competition": "VJL3 P2",
+          "division_rank": 7,
+          "overall_rank": 67
+        },
+        {
+          "team": "Wallan U12 Boys 1",
+          "division": "VJL3",
+          "competition": "VJL3 P2",
+          "division_rank": 8,
+          "overall_rank": 68
+        },
+        {
+          "team": "Geelong United U12 Boys 2",
+          "division": "VJL3",
+          "competition": "VJL3 P2",
+          "division_rank": 9,
+          "overall_rank": 69
+        },
+        {
+          "team": "Sandringham U12 Boys 4",
+          "division": "VJL3",
+          "competition": "VJL3 P1",
+          "division_rank": 10,
+          "overall_rank": 70
+        },
+        {
+          "team": "Broadmeadows U12 Boys 2",
+          "division": "VJL3",
+          "competition": "VJL3 P2",
+          "division_rank": 11,
+          "overall_rank": 71
+        },
+        {
+          "team": "Knox U12 Boys 3",
+          "division": "VJL3",
+          "competition": "VJL3 P1",
+          "division_rank": 12,
+          "overall_rank": 72
+        },
+        {
+          "team": "Casey U12 Boys 4",
+          "division": "VJL3",
+          "competition": "VJL3 P1",
+          "division_rank": 13,
+          "overall_rank": 73
+        },
+        {
+          "team": "Korumburra U12 Boys 1",
+          "division": "VJL3",
+          "competition": "VJL3 P1",
+          "division_rank": 14,
+          "overall_rank": 74
+        },
+        {
+          "team": "Frankston U12 Boys 3",
+          "division": "VJL3",
+          "competition": "VJL3 P1",
+          "division_rank": 15,
+          "overall_rank": 75
+        },
+        {
+          "team": "Pakenham U12 Boys 2",
+          "division": "VJL3",
+          "competition": "VJL3 P1",
+          "division_rank": 16,
+          "overall_rank": 76
+        },
+        {
+          "team": "Keilor U12 Boys 3",
+          "division": "VJL3",
+          "competition": "VJL3 P2",
+          "division_rank": 17,
+          "overall_rank": 77
+        },
+        {
+          "team": "Bellarine U12 Boys 1",
+          "division": "VJL3",
+          "competition": "VJL3 P2",
+          "division_rank": 18,
+          "overall_rank": 78
+        },
+        {
+          "team": "Knox U12 Boys 4",
+          "division": "VJL3",
+          "competition": "VJL3 P1",
+          "division_rank": 19,
+          "overall_rank": 79
+        },
+        {
+          "team": "Eltham U12 Boys 3",
+          "division": "VJL3",
+          "competition": "VJL3 P2",
+          "division_rank": 20,
+          "overall_rank": 80
+        },
+        {
+          "team": "Collingwood U12 Boys 1",
+          "division": "VJL4",
+          "competition": "VJL4 P2",
+          "division_rank": 1,
+          "overall_rank": 81
+        },
+        {
+          "team": "Dandenong U12 Boys 5",
+          "division": "VJL4",
+          "competition": "VJL4 P1",
+          "division_rank": 2,
+          "overall_rank": 82
+        },
+        {
+          "team": "Keilor U12 Boys 4",
+          "division": "VJL4",
+          "competition": "VJL4 P2",
+          "division_rank": 3,
+          "overall_rank": 83
+        },
+        {
+          "team": "Camberwell U12 Boys 4",
+          "division": "VJL4",
+          "competition": "VJL4 P1",
+          "division_rank": 4,
+          "overall_rank": 84
+        },
+        {
+          "team": "Wyndham U12 Boys 3",
+          "division": "VJL4",
+          "competition": "VJL4 P2",
+          "division_rank": 5,
+          "overall_rank": 85
+        },
+        {
+          "team": "Hawthorn U12 Boys 3",
+          "division": "VJL4",
+          "competition": "VJL4 P1",
+          "division_rank": 6,
+          "overall_rank": 86
+        },
+        {
+          "team": "Altona U12 Boys 3",
+          "division": "VJL4",
+          "competition": "VJL4 P2",
+          "division_rank": 7,
+          "overall_rank": 87
+        },
+        {
+          "team": "Camberwell U12 Boys 3",
+          "division": "VJL4",
+          "competition": "VJL4 P1",
+          "division_rank": 8,
+          "overall_rank": 88
+        },
+        {
+          "team": "Sunbury U12 Boys 2",
+          "division": "VJL4",
+          "competition": "VJL4 P2",
+          "division_rank": 9,
+          "overall_rank": 89
+        },
+        {
+          "team": "Coburg U12 Boys 2",
+          "division": "VJL4",
+          "competition": "VJL4 P2",
+          "division_rank": 10,
+          "overall_rank": 90
+        },
+        {
+          "team": "Mornington U12 Boys 2",
+          "division": "VJL4",
+          "competition": "VJL4 P1",
+          "division_rank": 11,
+          "overall_rank": 91
+        },
+        {
+          "team": "Eltham U12 Boys 4",
+          "division": "VJL4",
+          "competition": "VJL4 P2",
+          "division_rank": 12,
+          "overall_rank": 92
+        },
+        {
+          "team": "Hawthorn U12 Boys 4",
+          "division": "VJL4",
+          "competition": "VJL4 P1",
+          "division_rank": 13,
+          "overall_rank": 93
+        },
+        {
+          "team": "Geelong United U12 Boys 3",
+          "division": "VJL4",
+          "competition": "VJL4 P2",
+          "division_rank": 14,
+          "overall_rank": 94
+        },
+        {
+          "team": "Chelsea U12 Boys 1",
+          "division": "VJL4",
+          "competition": "VJL4 P1",
+          "division_rank": 15,
+          "overall_rank": 95
+        },
+        {
+          "team": "Darebin U12 Boys 1",
+          "division": "VJL4",
+          "competition": "VJL4 P1",
+          "division_rank": 16,
+          "overall_rank": 96
+        },
+        {
+          "team": "McKinnon U12 Boys 4",
+          "division": "VJL4",
+          "competition": "VJL4 P1",
+          "division_rank": 17,
+          "overall_rank": 97
+        },
+        {
+          "team": "Waverley U12 Boys 2",
+          "division": "VJL4",
+          "competition": "VJL4 P1",
+          "division_rank": 18,
+          "overall_rank": 98
+        },
+        {
+          "team": "Diamond Valley U12 Boys 5",
+          "division": "VJL4",
+          "competition": "VJL4 P2",
+          "division_rank": 19,
+          "overall_rank": 99
+        },
+        {
+          "team": "Warrandyte U12 Boys 1",
+          "division": "VJL4",
+          "competition": "VJL4 P2",
+          "division_rank": 20,
+          "overall_rank": 100
+        },
+        {
+          "team": "Nunawading U12 Boys 5",
+          "division": "VJL5",
+          "competition": "VJL5 P1",
+          "division_rank": 1,
+          "overall_rank": 101
+        },
+        {
+          "team": "Mornington U12 Boys 3",
+          "division": "VJL5",
+          "competition": "VJL5 P1",
+          "division_rank": 2,
+          "overall_rank": 102
+        },
+        {
+          "team": "Macedon Ranges U12 Boys 1",
+          "division": "VJL5",
+          "competition": "VJL5 P2",
+          "division_rank": 3,
+          "overall_rank": 103
+        },
+        {
+          "team": "Eltham U12 Boys 5",
+          "division": "VJL5",
+          "competition": "VJL5 P2",
+          "division_rank": 4,
+          "overall_rank": 104
+        },
+        {
+          "team": "Bulleen U12 Boys 4",
+          "division": "VJL5",
+          "competition": "VJL5 P2",
+          "division_rank": 5,
+          "overall_rank": 105
+        },
+        {
+          "team": "Diamond Valley U12 Boys 6",
+          "division": "VJL5",
+          "competition": "VJL5 P2",
+          "division_rank": 6,
+          "overall_rank": 106
+        },
+        {
+          "team": "Kilsyth U12 Boys 5",
+          "division": "VJL5",
+          "competition": "VJL5 P1",
+          "division_rank": 7,
+          "overall_rank": 107
+        },
+        {
+          "team": "Whittlesea U12 Boys 2",
+          "division": "VJL5",
+          "competition": "VJL5 P2",
+          "division_rank": 8,
+          "overall_rank": 108
+        },
+        {
+          "team": "Melbourne U12 Boys 3",
+          "division": "VJL5",
+          "competition": "VJL5 P2",
+          "division_rank": 9,
+          "overall_rank": 109
+        },
+        {
+          "team": "Sandringham U12 Boys 5",
+          "division": "VJL5",
+          "competition": "VJL5 P1",
+          "division_rank": 10,
+          "overall_rank": 110
+        },
+        {
+          "team": "Craigieburn U12 Boys 2",
+          "division": "VJL5",
+          "competition": "VJL5 P2",
+          "division_rank": 11,
+          "overall_rank": 111
+        },
+        {
+          "team": "Waverley U12 Boys 3",
+          "division": "VJL5",
+          "competition": "VJL5 P1",
+          "division_rank": 12,
+          "overall_rank": 112
+        },
+        {
+          "team": "McKinnon U12 Boys 5",
+          "division": "VJL5",
+          "competition": "VJL5 P1",
+          "division_rank": 13,
+          "overall_rank": 113
+        },
+        {
+          "team": "Keysborough U12 Boys 1",
+          "division": "VJL5",
+          "competition": "VJL5 P1",
+          "division_rank": 14,
+          "overall_rank": 114
+        },
+        {
+          "team": "Casey U12 Boys 5",
+          "division": "VJL5",
+          "competition": "VJL5 P1",
+          "division_rank": 15,
+          "overall_rank": 115
+        },
+        {
+          "team": "Melbourne U12 Boys 4",
+          "division": "VJL5",
+          "competition": "VJL5 P2",
+          "division_rank": 16,
+          "overall_rank": 116
+        },
+        {
+          "team": "Ringwood U12 Boys 3",
+          "division": "VJL5",
+          "competition": "VJL5 P1",
+          "division_rank": 17,
+          "overall_rank": 117
+        },
+        {
+          "team": "Sherbrooke U12 Boys 1",
+          "division": "VJL5",
+          "competition": "VJL5 P1",
+          "division_rank": 18,
+          "overall_rank": 118
+        },
+        {
+          "team": "Geelong United U12 Boys 4",
+          "division": "VJL5",
+          "competition": "VJL5 P2",
+          "division_rank": 19,
+          "overall_rank": 119
+        },
+        {
+          "team": "Westgate U12 Boys 2",
+          "division": "VJL5",
+          "competition": "VJL5 P2",
+          "division_rank": 20,
+          "overall_rank": 120
+        },
+        {
+          "team": "Dandenong U12 Boys 7",
+          "division": "VJL6",
+          "competition": "VJL6 P1",
+          "division_rank": 1,
+          "overall_rank": 121
+        },
+        {
+          "team": "Hawthorn U12 Boys 5",
+          "division": "VJL6",
+          "competition": "VJL6 P2",
+          "division_rank": 2,
+          "overall_rank": 122
+        },
+        {
+          "team": "Western Port U12 Boys 2",
+          "division": "VJL6",
+          "competition": "VJL6 P1",
+          "division_rank": 3,
+          "overall_rank": 123
+        },
+        {
+          "team": "Pakenham U12 Boys 3",
+          "division": "VJL6",
+          "competition": "VJL6 P1",
+          "division_rank": 4,
+          "overall_rank": 124
+        },
+        {
+          "team": "Ringwood U12 Boys 4",
+          "division": "VJL6",
+          "competition": "VJL6 P2",
+          "division_rank": 5,
+          "overall_rank": 125
+        },
+        {
+          "team": "Melton U12 Boys 2",
+          "division": "VJL6",
+          "competition": "VJL6 P2",
+          "division_rank": 6,
+          "overall_rank": 126
+        },
+        {
+          "team": "Bulleen U12 Boys 5",
+          "division": "VJL6",
+          "competition": "VJL6 P2",
+          "division_rank": 7,
+          "overall_rank": 127
+        },
+        {
+          "team": "Knox U12 Boys 5",
+          "division": "VJL6",
+          "competition": "VJL6 P1",
+          "division_rank": 8,
+          "overall_rank": 128
+        },
+        {
+          "team": "Blackburn U12 Boys 2",
+          "division": "VJL6",
+          "competition": "VJL6 P1",
+          "division_rank": 9,
+          "overall_rank": 129
+        },
+        {
+          "team": "Darebin U12 Boys 2",
+          "division": "VJL6",
+          "competition": "VJL6 P2",
+          "division_rank": 10,
+          "overall_rank": 130
+        },
+        {
+          "team": "Altona U12 Boys 4",
+          "division": "VJL6",
+          "competition": "VJL6 P2",
+          "division_rank": 11,
+          "overall_rank": 131
+        },
+        {
+          "team": "Frankston U12 Boys 6",
+          "division": "VJL6",
+          "competition": "VJL6 P1",
+          "division_rank": 12,
+          "overall_rank": 132
+        },
+        {
+          "team": "Broadmeadows U12 Boys 3",
+          "division": "VJL6",
+          "competition": "VJL6 P2",
+          "division_rank": 13,
+          "overall_rank": 133
+        },
+        {
+          "team": "Bacchus Marsh U12 Boys 2",
+          "division": "VJL6",
+          "competition": "VJL6 P2",
+          "division_rank": 14,
+          "overall_rank": 134
+        },
+        {
+          "team": "Western Port U12 Boys 3",
+          "division": "VJL6",
+          "competition": "VJL6 P1",
+          "division_rank": 15,
+          "overall_rank": 135
+        },
+        {
+          "team": "Waverley U12 Boys 4",
+          "division": "VJL6",
+          "competition": "VJL6 P1",
+          "division_rank": 16,
+          "overall_rank": 136
+        },
+        {
+          "team": "Coburg U12 Boys 4",
+          "division": "VJL6",
+          "competition": "VJL6 P2",
+          "division_rank": 17,
+          "overall_rank": 137
+        },
+        {
+          "team": "Blackburn U12 Boys 3",
+          "division": "VJL6",
+          "competition": "VJL6 P1",
+          "division_rank": 18,
+          "overall_rank": 138
+        },
+        {
+          "team": "Broadmeadows U12 Boys 4",
+          "division": "VJL6",
+          "competition": "VJL6 P2",
+          "division_rank": 19,
+          "overall_rank": 139
+        },
+        {
+          "team": "Frankston U12 Boys 5",
+          "division": "VJL6",
+          "competition": "VJL6 P1",
+          "division_rank": 20,
+          "overall_rank": 140
+        },
+        {
+          "team": "Ringwood U12 Boys 5",
+          "division": "VJL7",
+          "competition": "VJL7 P2",
+          "division_rank": 1,
+          "overall_rank": 141
+        },
+        {
+          "team": "Surfcoast U12 Boys 2",
+          "division": "VJL7",
+          "competition": "VJL7 P2",
+          "division_rank": 2,
+          "overall_rank": 142
+        },
+        {
+          "team": "Knox U12 Boys 6",
+          "division": "VJL7",
+          "competition": "VJL7 P1",
+          "division_rank": 3,
+          "overall_rank": 143
+        },
+        {
+          "team": "Casey U12 Boys 7",
+          "division": "VJL7",
+          "competition": "VJL7 P1",
+          "division_rank": 4,
+          "overall_rank": 144
+        },
+        {
+          "team": "Sandringham U12 Boys 6",
+          "division": "VJL7",
+          "competition": "VJL7 P1",
+          "division_rank": 5,
+          "overall_rank": 145
+        },
+        {
+          "team": "Dandenong U12 Boys 6",
+          "division": "VJL7",
+          "competition": "VJL7 P1",
+          "division_rank": 6,
+          "overall_rank": 146
+        },
+        {
+          "team": "Nunawading U12 Boys 6",
+          "division": "VJL7",
+          "competition": "VJL7 P1",
+          "division_rank": 7,
+          "overall_rank": 147
+        },
+        {
+          "team": "Wyndham U12 Boys 4",
+          "division": "VJL7",
+          "competition": "VJL7 P2",
+          "division_rank": 8,
+          "overall_rank": 148
+        },
+        {
+          "team": "Westgate U12 Boys 3",
+          "division": "VJL7",
+          "competition": "VJL7 P2",
+          "division_rank": 9,
+          "overall_rank": 149
+        },
+        {
+          "team": "Melbourne U12 Boys 6",
+          "division": "VJL7",
+          "competition": "VJL7 P2",
+          "division_rank": 10,
+          "overall_rank": 150
+        },
+        {
+          "team": "Nunawading U12 Boys 7",
+          "division": "VJL7",
+          "competition": "VJL7 P2",
+          "division_rank": 11,
+          "overall_rank": 151
+        },
+        {
+          "team": "Frankston U12 Boys 7",
+          "division": "VJL7",
+          "competition": "VJL7 P1",
+          "division_rank": 12,
+          "overall_rank": 152
+        },
+        {
+          "team": "Camberwell U12 Boys 5",
+          "division": "VJL7",
+          "competition": "VJL7 P2",
+          "division_rank": 13,
+          "overall_rank": 153
+        },
+        {
+          "team": "Casey U12 Boys 6",
+          "division": "VJL7",
+          "competition": "VJL7 P1",
+          "division_rank": 14,
+          "overall_rank": 154
+        },
+        {
+          "team": "Southern Peninsula U12 Boys 3",
+          "division": "VJL7",
+          "competition": "VJL7 P1",
+          "division_rank": 15,
+          "overall_rank": 155
+        },
+        {
+          "team": "Southern Peninsula U12 Boys 2",
+          "division": "VJL7",
+          "competition": "VJL7 P1",
+          "division_rank": 16,
+          "overall_rank": 156
+        },
+        {
+          "team": "Keilor U12 Boys 5",
+          "division": "VJL7",
+          "competition": "VJL7 P2",
+          "division_rank": 17,
+          "overall_rank": 157
+        },
+        {
+          "team": "Eltham U12 Boys 6",
+          "division": "VJL7",
+          "competition": "VJL7 P2",
+          "division_rank": 18,
+          "overall_rank": 158
+        },
+        {
+          "team": "Chelsea U12 Boys 2",
+          "division": "VJL7",
+          "competition": "VJL7 P1",
+          "division_rank": 19,
+          "overall_rank": 159
+        },
+        {
+          "team": "Bellarine U12 Boys 2",
+          "division": "VJL7",
+          "competition": "VJL7 P2",
+          "division_rank": 20,
+          "overall_rank": 160
+        },
+        {
+          "team": "Coburg U12 Boys 3",
+          "division": "VJL8",
+          "competition": "VJL8 P2",
+          "division_rank": 1,
+          "overall_rank": 161
+        },
+        {
+          "team": "Ringwood U12 Boys 7",
+          "division": "VJL8",
+          "competition": "VJL8 P1",
+          "division_rank": 2,
+          "overall_rank": 162
+        },
+        {
+          "team": "Keilor U12 Boys 7",
+          "division": "VJL8",
+          "competition": "VJL8 P2",
+          "division_rank": 3,
+          "overall_rank": 163
+        },
+        {
+          "team": "Eltham U12 Boys 7",
+          "division": "VJL8",
+          "competition": "VJL8 P1",
+          "division_rank": 4,
+          "overall_rank": 164
+        },
+        {
+          "team": "Sherbrooke U12 Boys 2",
+          "division": "VJL8",
+          "competition": "VJL8 P1",
+          "division_rank": 5,
+          "overall_rank": 165
+        },
+        {
+          "team": "Ringwood U12 Boys 6",
+          "division": "VJL8",
+          "competition": "VJL8 P1",
+          "division_rank": 6,
+          "overall_rank": 166
+        },
+        {
+          "team": "Altona U12 Boys 5",
+          "division": "VJL8",
+          "competition": "VJL8 P2",
+          "division_rank": 7,
+          "overall_rank": 167
+        },
+        {
+          "team": "Whittlesea U12 Boys 3",
+          "division": "VJL8",
+          "competition": "VJL8 P2",
+          "division_rank": 8,
+          "overall_rank": 168
+        },
+        {
+          "team": "Melbourne U12 Boys 5",
+          "division": "VJL8",
+          "competition": "VJL8 P1",
+          "division_rank": 9,
+          "overall_rank": 169
+        },
+        {
+          "team": "Wyndham U12 Boys 5",
+          "division": "VJL8",
+          "competition": "VJL8 P2",
+          "division_rank": 10,
+          "overall_rank": 170
+        },
+        {
+          "team": "Knox U12 Boys 7",
+          "division": "VJL8",
+          "competition": "VJL8 P1",
+          "division_rank": 11,
+          "overall_rank": 171
+        },
+        {
+          "team": "Blackburn U12 Boys 4",
+          "division": "VJL8",
+          "competition": "VJL8 P1",
+          "division_rank": 12,
+          "overall_rank": 172
+        },
+        {
+          "team": "Craigieburn U12 Boys 3",
+          "division": "VJL8",
+          "competition": "VJL8 P2",
+          "division_rank": 13,
+          "overall_rank": 173
+        },
+        {
+          "team": "Bellarine U12 Boys 3",
+          "division": "VJL8",
+          "competition": "VJL8 P2",
+          "division_rank": 14,
+          "overall_rank": 174
+        },
+        {
+          "team": "Wallan U12 Boys 2",
+          "division": "VJL8",
+          "competition": "VJL8 P2",
+          "division_rank": 15,
+          "overall_rank": 175
+        },
+        {
+          "team": "Surfcoast U12 Boys 3",
+          "division": "VJL8",
+          "competition": "VJL8 P2",
+          "division_rank": 16,
+          "overall_rank": 176
+        },
+        {
+          "team": "Camberwell U12 Boys 7",
+          "division": "VJL8",
+          "competition": "VJL8 P1",
+          "division_rank": 17,
+          "overall_rank": 177
+        },
+        {
+          "team": "McKinnon U12 Boys 6",
+          "division": "VJL8",
+          "competition": "VJL8 P1",
+          "division_rank": 18,
+          "overall_rank": 178
+        },
+        {
+          "team": "Bacchus Marsh U12 Boys 3",
+          "division": "VJL8",
+          "competition": "VJL8 P2",
+          "division_rank": 19,
+          "overall_rank": 179
+        },
+        {
+          "team": "Chelsea U12 Boys 3",
+          "division": "VJL8",
+          "competition": "VJL8 P1",
+          "division_rank": 20,
+          "overall_rank": 180
+        },
+        {
+          "team": "Eltham U12 Boys 8",
+          "division": "VJL9",
+          "competition": "VJL9 P2",
+          "division_rank": 1,
+          "overall_rank": 181
+        },
+        {
+          "team": "Sandringham U12 Boys 7",
+          "division": "VJL9",
+          "competition": "VJL9 P1",
+          "division_rank": 2,
+          "overall_rank": 182
+        },
+        {
+          "team": "Keysborough U12 Boys 2",
+          "division": "VJL9",
+          "competition": "VJL9 P1",
+          "division_rank": 3,
+          "overall_rank": 183
+        },
+        {
+          "team": "Dandenong U12 Boys 8",
+          "division": "VJL9",
+          "competition": "VJL9 P1",
+          "division_rank": 4,
+          "overall_rank": 184
+        },
+        {
+          "team": "Melton U12 Boys 3",
+          "division": "VJL9",
+          "competition": "VJL9 P2",
+          "division_rank": 5,
+          "overall_rank": 185
+        },
+        {
+          "team": "Bulleen U12 Boys 6",
+          "division": "VJL9",
+          "competition": "VJL9 P2",
+          "division_rank": 6,
+          "overall_rank": 186
+        },
+        {
+          "team": "Westgate U12 Boys 4",
+          "division": "VJL9",
+          "competition": "VJL9 P2",
+          "division_rank": 7,
+          "overall_rank": 187
+        },
+        {
+          "team": "Altona U12 Boys 6",
+          "division": "VJL9",
+          "competition": "VJL9 P2",
+          "division_rank": 8,
+          "overall_rank": 188
+        },
+        {
+          "team": "Whittlesea U12 Boys 4",
+          "division": "VJL9",
+          "competition": "VJL9 P2",
+          "division_rank": 9,
+          "overall_rank": 189
+        },
+        {
+          "team": "Kilsyth U12 Boys 6",
+          "division": "VJL9",
+          "competition": "VJL9 P1",
+          "division_rank": 10,
+          "overall_rank": 190
+        },
+        {
+          "team": "Keilor U12 Boys 6",
+          "division": "VJL9",
+          "competition": "VJL9 P2",
+          "division_rank": 11,
+          "overall_rank": 191
+        },
+        {
+          "team": "Collingwood U12 Boys 2",
+          "division": "VJL9",
+          "competition": "VJL9 P2",
+          "division_rank": 12,
+          "overall_rank": 192
+        },
+        {
+          "team": "Camberwell U12 Boys 6",
+          "division": "VJL9",
+          "competition": "VJL9 P1",
+          "division_rank": 13,
+          "overall_rank": 193
+        },
+        {
+          "team": "Nunawading U12 Boys 8",
+          "division": "VJL9",
+          "competition": "VJL9 P1",
+          "division_rank": 14,
+          "overall_rank": 194
+        },
+        {
+          "team": "Keysborough U12 Boys 3",
+          "division": "VJL9",
+          "competition": "VJL9 P1",
+          "division_rank": 15,
+          "overall_rank": 195
+        },
+        {
+          "team": "Western Port U12 Boys 4",
+          "division": "VJL9",
+          "competition": "VJL9 P1",
+          "division_rank": 16,
+          "overall_rank": 196
+        },
+        {
+          "team": "Doncaster U12 Boys 1",
+          "division": "VJL9",
+          "competition": "VJL9 P2",
+          "division_rank": 17,
+          "overall_rank": 197
+        },
+        {
+          "team": "Casey U12 Boys 8",
+          "division": "VJL9",
+          "competition": "VJL9 P1",
+          "division_rank": 18,
+          "overall_rank": 198
+        },
+        {
+          "team": "Collingwood U12 Boys 3",
+          "division": "VJL9",
+          "competition": "VJL9 P2",
+          "division_rank": 19,
+          "overall_rank": 199
+        },
+        {
+          "team": "Melbourne U12 Boys 7",
+          "division": "VJL10",
+          "competition": "VJL10 P2",
+          "division_rank": 1,
+          "overall_rank": 200
+        },
+        {
+          "team": "Pakenham U12 Boys 4",
+          "division": "VJL10",
+          "competition": "VJL10 P1",
+          "division_rank": 2,
+          "overall_rank": 201
+        },
+        {
+          "team": "Hawthorn U12 Boys 6",
+          "division": "VJL10",
+          "competition": "VJL10 P2",
+          "division_rank": 3,
+          "overall_rank": 202
+        },
+        {
+          "team": "Pakenham U12 Boys 5",
+          "division": "VJL10",
+          "competition": "VJL10 P1",
+          "division_rank": 4,
+          "overall_rank": 203
+        },
+        {
+          "team": "Ringwood U12 Boys 8",
+          "division": "VJL10",
+          "competition": "VJL10 P2",
+          "division_rank": 5,
+          "overall_rank": 204
+        },
+        {
+          "team": "Frankston U12 Boys 9",
+          "division": "VJL10",
+          "competition": "VJL10 P1",
+          "division_rank": 6,
+          "overall_rank": 205
+        },
+        {
+          "team": "Coburg U12 Boys 5",
+          "division": "VJL10",
+          "competition": "VJL10 P3",
+          "division_rank": 7,
+          "overall_rank": 206
+        },
+        {
+          "team": "Keilor U12 Boys 8",
+          "division": "VJL10",
+          "competition": "VJL10 P3",
+          "division_rank": 8,
+          "overall_rank": 207
+        },
+        {
+          "team": "Frankston U12 Boys 8",
+          "division": "VJL10",
+          "competition": "VJL10 P1",
+          "division_rank": 9,
+          "overall_rank": 208
+        },
+        {
+          "team": "Macedon Ranges U12 Boys 2",
+          "division": "VJL10",
+          "competition": "VJL10 P3",
+          "division_rank": 10,
+          "overall_rank": 209
+        },
+        {
+          "team": "Broadmeadows U12 Boys 5",
+          "division": "VJL10",
+          "competition": "VJL10 P3",
+          "division_rank": 11,
+          "overall_rank": 210
+        },
+        {
+          "team": "Craigieburn U12 Boys 4",
+          "division": "VJL10",
+          "competition": "VJL10 P3",
+          "division_rank": 12,
+          "overall_rank": 211
+        },
+        {
+          "team": "Warrandyte U12 Boys 2",
+          "division": "VJL10",
+          "competition": "VJL10 P2",
+          "division_rank": 13,
+          "overall_rank": 212
+        },
+        {
+          "team": "Waverley U12 Boys 5",
+          "division": "VJL10",
+          "competition": "VJL10 P2",
+          "division_rank": 14,
+          "overall_rank": 213
+        },
+        {
+          "team": "Dandenong U12 Boys 9",
+          "division": "VJL10",
+          "competition": "VJL10 P1",
+          "division_rank": 15,
+          "overall_rank": 214
+        },
+        {
+          "team": "Wyndham U12 Boys 6",
+          "division": "VJL10",
+          "competition": "VJL10 P3",
+          "division_rank": 16,
+          "overall_rank": 215
+        },
+        {
+          "team": "Geelong United U12 Boys 5",
+          "division": "VJL10",
+          "competition": "VJL10 P3",
+          "division_rank": 17,
+          "overall_rank": 216
+        },
+        {
+          "team": "Sunbury U12 Boys 3",
+          "division": "VJL10",
+          "competition": "VJL10 P3",
+          "division_rank": 18,
+          "overall_rank": 217
+        },
+        {
+          "team": "Camberwell U12 Boys 8",
+          "division": "VJL10",
+          "competition": "VJL10 P2",
+          "division_rank": 19,
+          "overall_rank": 218
+        },
+        {
+          "team": "Waverley U12 Boys 6",
+          "division": "VJL10",
+          "competition": "VJL10 P2",
+          "division_rank": 20,
+          "overall_rank": 219
+        },
+        {
+          "team": "Knox U12 Boys 10",
+          "division": "VJL10",
+          "competition": "VJL10 P1",
+          "division_rank": 21,
+          "overall_rank": 220
+        },
+        {
+          "team": "Knox U12 Boys 8",
+          "division": "VJL10",
+          "competition": "VJL10 P1",
+          "division_rank": 22,
+          "overall_rank": 221
+        },
+        {
+          "team": "Knox U12 Boys 9",
+          "division": "VJL10",
+          "competition": "VJL10 P1",
+          "division_rank": 23,
+          "overall_rank": 222
+        },
+        {
+          "team": "Bacchus Marsh U12 Boys 4",
+          "division": "VJL10",
+          "competition": "VJL10 P3",
+          "division_rank": 24,
+          "overall_rank": 223
+        },
+        {
+          "team": "Darebin U12 Boys 3",
+          "division": "VJL10",
+          "competition": "VJL10 P2",
+          "division_rank": 25,
+          "overall_rank": 224
+        },
+        {
+          "team": "Casey U12 Boys RDL Navy",
+          "division": "RDL1",
+          "competition": "RDL1",
+          "division_rank": 1,
+          "overall_rank": 225
+        },
+        {
+          "team": "Mornington U12 Boys RDL",
+          "division": "RDL1",
+          "competition": "RDL1",
+          "division_rank": 2,
+          "overall_rank": 226
+        },
+        {
+          "team": "Casey U12 Boys RDL Grey",
+          "division": "RDL1",
+          "competition": "RDL1",
+          "division_rank": 3,
+          "overall_rank": 227
+        },
+        {
+          "team": "McKinnon U12 Boys RDL WHITE",
+          "division": "RDL1",
+          "competition": "RDL1",
+          "division_rank": 4,
+          "overall_rank": 228
+        },
+        {
+          "team": "Waverley U12 Boys RDL",
+          "division": "RDL1",
+          "competition": "RDL1",
+          "division_rank": 5,
+          "overall_rank": 229
+        },
+        {
+          "team": "Knox Raiders U12 Boys RDL Gold",
+          "division": "RDL1",
+          "competition": "RDL1",
+          "division_rank": 6,
+          "overall_rank": 230
+        },
+        {
+          "team": "Nunawading U12 Boys RDL Blue",
+          "division": "RDL1",
+          "competition": "RDL1",
+          "division_rank": 7,
+          "overall_rank": 231
+        },
+        {
+          "team": "McKinnon U12 Boys RDL RED",
+          "division": "RDL2",
+          "competition": "RDL2",
+          "division_rank": 1,
+          "overall_rank": 232
+        },
+        {
+          "team": "Casey U12 Boys RDL Teal",
+          "division": "RDL2",
+          "competition": "RDL2",
+          "division_rank": 2,
+          "overall_rank": 233
+        },
+        {
+          "team": "Nunawading U12 Boys RDL Red",
+          "division": "RDL2",
+          "competition": "RDL2",
+          "division_rank": 3,
+          "overall_rank": 234
+        },
+        {
+          "team": "Dandenong U12 Boys RDL Green",
+          "division": "RDL2",
+          "competition": "RDL2",
+          "division_rank": 4,
+          "overall_rank": 235
+        },
+        {
+          "team": "Knox Raiders U12 Boys RDL Navy",
+          "division": "RDL2",
+          "competition": "RDL2",
+          "division_rank": 5,
+          "overall_rank": 236
+        },
+        {
+          "team": "Knox Raiders U12 Boys RDL Yellow",
+          "division": "RDL2",
+          "competition": "RDL2",
+          "division_rank": 6,
+          "overall_rank": 237
+        },
+        {
+          "team": "Casey U12 Boys RDL White",
+          "division": "RDL2",
+          "competition": "RDL2",
+          "division_rank": 7,
+          "overall_rank": 238
+        },
+        {
+          "team": "Knox Raiders U12 Boys RDL Blue",
+          "division": "RDL2",
+          "competition": "RDL2",
+          "division_rank": 8,
+          "overall_rank": 239
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "season": "2025/26",
+      "teams": [
+        {
+          "team": "Knox U12 Boys 1",
+          "division": "VC",
+          "competition": "VC Championship",
+          "division_rank": 1,
+          "overall_rank": 1
+        },
+        {
+          "team": "Hawthorn U12 Boys 1",
+          "division": "VC",
+          "competition": "VC Championship",
+          "division_rank": 2,
+          "overall_rank": 2
+        },
+        {
+          "team": "Dandenong U12 Boys 1",
+          "division": "VC",
+          "competition": "VC Championship",
+          "division_rank": 3,
+          "overall_rank": 3
+        },
+        {
+          "team": "Waverley U12 Boys 1",
+          "division": "VC",
+          "competition": "VC Championship",
+          "division_rank": 4,
+          "overall_rank": 4
+        },
+        {
+          "team": "Broadmeadows U12 Boys 1",
+          "division": "VC",
+          "competition": "VC Championship",
+          "division_rank": 5,
+          "overall_rank": 5
+        },
+        {
+          "team": "McKinnon U12 Boys 1",
+          "division": "VC",
+          "competition": "VC Championship",
+          "division_rank": 6,
+          "overall_rank": 6
+        },
+        {
+          "team": "Diamond Valley U12 Boys 1",
+          "division": "VC",
+          "competition": "VC Championship",
+          "division_rank": 7,
+          "overall_rank": 7
+        },
+        {
+          "team": "Sandringham U12 Boys 1",
+          "division": "VC",
+          "competition": "VC Championship",
+          "division_rank": 8,
+          "overall_rank": 8
+        },
+        {
+          "team": "Kilsyth U12 Boys 1",
+          "division": "VC",
+          "competition": "VC Championship",
+          "division_rank": 9,
+          "overall_rank": 9
+        },
+        {
+          "team": "Casey U12 Boys 1",
+          "division": "VC",
+          "competition": "VC Championship",
+          "division_rank": 10,
+          "overall_rank": 10
+        },
+        {
+          "team": "Keilor U12 Boys 1",
+          "division": "VC Reserve",
+          "competition": "VC Reserve",
+          "division_rank": 1,
+          "overall_rank": 11
+        },
+        {
+          "team": "Altona U12 Boys 1",
+          "division": "VC Reserve",
+          "competition": "VC Reserve",
+          "division_rank": 2,
+          "overall_rank": 12
+        },
+        {
+          "team": "Geelong United U12 Boys 1",
+          "division": "VC Reserve",
+          "competition": "VC Reserve",
+          "division_rank": 3,
+          "overall_rank": 13
+        },
+        {
+          "team": "Frankston U12 Boys 1",
+          "division": "VC Reserve",
+          "competition": "VC Reserve",
+          "division_rank": 4,
+          "overall_rank": 14
+        },
+        {
+          "team": "Bulleen U12 Boys 1",
+          "division": "VC Reserve",
+          "competition": "VC Reserve",
+          "division_rank": 5,
+          "overall_rank": 15
+        },
+        {
+          "team": "Melbourne U12 Boys 1",
+          "division": "VC Reserve",
+          "competition": "VC Reserve",
+          "division_rank": 6,
+          "overall_rank": 16
+        },
+        {
+          "team": "Gippsland United U12 Boys 1",
+          "division": "VC Reserve",
+          "competition": "VC Reserve",
+          "division_rank": 7,
+          "overall_rank": 17
+        },
+        {
+          "team": "Pakenham U12 Boys 1",
+          "division": "VC Reserve",
+          "competition": "VC Reserve",
+          "division_rank": 8,
+          "overall_rank": 18
+        },
+        {
+          "team": "Kilsyth U12 Boys 2",
+          "division": "VC Reserve",
+          "competition": "VC Reserve",
+          "division_rank": 9,
+          "overall_rank": 19
+        },
+        {
+          "team": "Craigieburn U12 Boys 1",
+          "division": "VC Reserve",
+          "competition": "VC Reserve",
+          "division_rank": 10,
+          "overall_rank": 20
+        },
+        {
+          "team": "Westgate U12 Boys 1",
+          "division": "VJL1",
+          "competition": "VJL1 P2",
+          "division_rank": 1,
+          "overall_rank": 21
+        },
+        {
+          "team": "Nunawading U12 Boys 1",
+          "division": "VJL1",
+          "competition": "VJL1 P1",
+          "division_rank": 2,
+          "overall_rank": 22
+        },
+        {
+          "team": "Mornington U12 Boys 1",
+          "division": "VJL1",
+          "competition": "VJL1 P1",
+          "division_rank": 3,
+          "overall_rank": 23
+        },
+        {
+          "team": "Eltham U12 Boys 1",
+          "division": "VJL1",
+          "competition": "VJL1 P2",
+          "division_rank": 4,
+          "overall_rank": 24
+        },
+        {
+          "team": "Ringwood U12 Boys 1",
+          "division": "VJL1",
+          "competition": "VJL1 P1",
+          "division_rank": 5,
+          "overall_rank": 25
+        },
+        {
+          "team": "Wyndham U12 Boys 1",
+          "division": "VJL1",
+          "competition": "VJL1 P2",
+          "division_rank": 6,
+          "overall_rank": 26
+        },
+        {
+          "team": "Nunawading U12 Boys 2",
+          "division": "VJL1",
+          "competition": "VJL1 P2",
+          "division_rank": 7,
+          "overall_rank": 27
+        },
+        {
+          "team": "Frankston U12 Boys 2",
+          "division": "VJL1",
+          "competition": "VJL1 P1",
+          "division_rank": 8,
+          "overall_rank": 28
+        },
+        {
+          "team": "Casey U12 Boys 2",
+          "division": "VJL1",
+          "competition": "VJL1 P1",
+          "division_rank": 9,
+          "overall_rank": 29
+        },
+        {
+          "team": "Dandenong U12 Boys 2",
+          "division": "VJL1",
+          "competition": "VJL1 P1",
+          "division_rank": 10,
+          "overall_rank": 30
+        },
+        {
+          "team": "Korumburra U12 Boys 1",
+          "division": "VJL1",
+          "competition": "VJL1 P1",
+          "division_rank": 11,
+          "overall_rank": 31
+        },
+        {
+          "team": "Eltham U12 Boys 2",
+          "division": "VJL1",
+          "competition": "VJL1 P2",
+          "division_rank": 12,
+          "overall_rank": 32
+        },
+        {
+          "team": "Camberwell U12 Boys 1",
+          "division": "VJL1",
+          "competition": "VJL1 P2",
+          "division_rank": 13,
+          "overall_rank": 33
+        },
+        {
+          "team": "Bulleen U12 Boys 2",
+          "division": "VJL1",
+          "competition": "VJL1 P2",
+          "division_rank": 14,
+          "overall_rank": 34
+        },
+        {
+          "team": "Bacchus Marsh U12 Boys 1",
+          "division": "VJL1",
+          "competition": "VJL1 P2",
+          "division_rank": 15,
+          "overall_rank": 35
+        },
+        {
+          "team": "Surfcoast U12 Boys 1",
+          "division": "VJL1",
+          "competition": "VJL1 P2",
+          "division_rank": 16,
+          "overall_rank": 36
+        },
+        {
+          "team": "McKinnon U12 Boys 2",
+          "division": "VJL1",
+          "competition": "VJL1 P1",
+          "division_rank": 17,
+          "overall_rank": 37
+        },
+        {
+          "team": "Dandenong U12 Boys 3",
+          "division": "VJL1",
+          "competition": "VJL1 P1",
+          "division_rank": 18,
+          "overall_rank": 38
+        },
+        {
+          "team": "Camberwell U12 Boys 2",
+          "division": "VJL1",
+          "competition": "VJL1 P2",
+          "division_rank": 19,
+          "overall_rank": 39
+        },
+        {
+          "team": "Knox U12 Boys 2",
+          "division": "VJL1",
+          "competition": "VJL1 P1",
+          "division_rank": 20,
+          "overall_rank": 40
+        },
+        {
+          "team": "Sandringham U12 Boys 2",
+          "division": "VJL2",
+          "competition": "VJL2 P1",
+          "division_rank": 1,
+          "overall_rank": 41
+        },
+        {
+          "team": "Frankston U12 Boys 3",
+          "division": "VJL2",
+          "competition": "VJL2 P1",
+          "division_rank": 2,
+          "overall_rank": 42
+        },
+        {
+          "team": "Melbourne U12 Boys 3",
+          "division": "VJL2",
+          "competition": "VJL2 P2",
+          "division_rank": 3,
+          "overall_rank": 43
+        },
+        {
+          "team": "Diamond Valley U12 Boys 2",
+          "division": "VJL2",
+          "competition": "VJL2 P2",
+          "division_rank": 4,
+          "overall_rank": 44
+        },
+        {
+          "team": "Frankston U12 Boys 4",
+          "division": "VJL2",
+          "competition": "VJL2 P1",
+          "division_rank": 5,
+          "overall_rank": 45
+        },
+        {
+          "team": "Hawthorn U12 Boys 2",
+          "division": "VJL2",
+          "competition": "VJL2 P2",
+          "division_rank": 6,
+          "overall_rank": 46
+        },
+        {
+          "team": "Sandringham U12 Boys 3",
+          "division": "VJL2",
+          "competition": "VJL2 P1",
+          "division_rank": 7,
+          "overall_rank": 47
+        },
+        {
+          "team": "Melton U12 Boys 1",
+          "division": "VJL2",
+          "competition": "VJL2 P2",
+          "division_rank": 8,
+          "overall_rank": 48
+        },
+        {
+          "team": "Collingwood U12 Boys 1",
+          "division": "VJL2",
+          "competition": "VJL2 P2",
+          "division_rank": 9,
+          "overall_rank": 49
+        },
+        {
+          "team": "Southern Peninsula U12 Boys 1",
+          "division": "VJL2",
+          "competition": "VJL2 P1",
+          "division_rank": 10,
+          "overall_rank": 50
+        },
+        {
+          "team": "Sunbury U12 Boys 1",
+          "division": "VJL2",
+          "competition": "VJL2 P2",
+          "division_rank": 11,
+          "overall_rank": 51
+        },
+        {
+          "team": "Keilor U12 Boys 2",
+          "division": "VJL2",
+          "competition": "VJL2 P2",
+          "division_rank": 12,
+          "overall_rank": 52
+        },
+        {
+          "team": "Kilsyth U12 Boys 3",
+          "division": "VJL2",
+          "competition": "VJL2 P1",
+          "division_rank": 13,
+          "overall_rank": 53
+        },
+        {
+          "team": "Casey U12 Boys 3",
+          "division": "VJL2",
+          "competition": "VJL2 P1",
+          "division_rank": 14,
+          "overall_rank": 54
+        },
+        {
+          "team": "Nunawading U12 Boys 3",
+          "division": "VJL2",
+          "competition": "VJL2 P1",
+          "division_rank": 15,
+          "overall_rank": 55
+        },
+        {
+          "team": "Whittlesea U12 Boys 1",
+          "division": "VJL2",
+          "competition": "VJL2 P2",
+          "division_rank": 16,
+          "overall_rank": 56
+        },
+        {
+          "team": "Knox U12 Boys 3",
+          "division": "VJL2",
+          "competition": "VJL2 P1",
+          "division_rank": 17,
+          "overall_rank": 57
+        },
+        {
+          "team": "Sandringham U12 Boys 4",
+          "division": "VJL2",
+          "competition": "VJL2 P1",
+          "division_rank": 18,
+          "overall_rank": 58
+        },
+        {
+          "team": "Coburg U12 Boys 1",
+          "division": "VJL2",
+          "competition": "VJL2 P2",
+          "division_rank": 19,
+          "overall_rank": 59
+        },
+        {
+          "team": "Altona U12 Boys 2",
+          "division": "VJL2",
+          "competition": "VJL2 P2",
+          "division_rank": 20,
+          "overall_rank": 60
+        },
+        {
+          "team": "McKinnon U12 Boys 3",
+          "division": "VJL3",
+          "competition": "VJL3 P1",
+          "division_rank": 1,
+          "overall_rank": 61
+        },
+        {
+          "team": "Dandenong U12 Boys 5",
+          "division": "VJL3",
+          "competition": "VJL3 P1",
+          "division_rank": 2,
+          "overall_rank": 62
+        },
+        {
+          "team": "Macedon Ranges U12 Boys 1",
+          "division": "VJL3",
+          "competition": "VJL3 P2",
+          "division_rank": 3,
+          "overall_rank": 63
+        },
+        {
+          "team": "Broadmeadows U12 Boys 2",
+          "division": "VJL3",
+          "competition": "VJL3 P2",
+          "division_rank": 4,
+          "overall_rank": 64
+        },
+        {
+          "team": "Waverley U12 Boys 2",
+          "division": "VJL3",
+          "competition": "VJL3 P1",
+          "division_rank": 5,
+          "overall_rank": 65
+        },
+        {
+          "team": "Eltham U12 Boys 3",
+          "division": "VJL3",
+          "competition": "VJL3 P2",
+          "division_rank": 6,
+          "overall_rank": 66
+        },
+        {
+          "team": "Darebin U12 Boys 1",
+          "division": "VJL3",
+          "competition": "VJL3 P2",
+          "division_rank": 7,
+          "overall_rank": 67
+        },
+        {
+          "team": "Pakenham U12 Boys 2",
+          "division": "VJL3",
+          "competition": "VJL3 P1",
+          "division_rank": 8,
+          "overall_rank": 68
+        },
+        {
+          "team": "Melbourne U12 Boys 2",
+          "division": "VJL3",
+          "competition": "VJL3 P2",
+          "division_rank": 9,
+          "overall_rank": 69
+        },
+        {
+          "team": "Bulleen U12 Boys 3",
+          "division": "VJL3",
+          "competition": "VJL3 P1",
+          "division_rank": 10,
+          "overall_rank": 70
+        },
+        {
+          "team": "Western Port U12 Boys 1",
+          "division": "VJL3",
+          "competition": "VJL3 P1",
+          "division_rank": 11,
+          "overall_rank": 71
+        },
+        {
+          "team": "Diamond Valley U12 Boys 3",
+          "division": "VJL3",
+          "competition": "VJL3 P2",
+          "division_rank": 12,
+          "overall_rank": 72
+        },
+        {
+          "team": "Diamond Valley U12 Boys 4",
+          "division": "VJL3",
+          "competition": "VJL3 P2",
+          "division_rank": 13,
+          "overall_rank": 73
+        },
+        {
+          "team": "Chelsea U12 Boys 1",
+          "division": "VJL3",
+          "competition": "VJL3 P1",
+          "division_rank": 14,
+          "overall_rank": 74
+        },
+        {
+          "team": "Keilor U12 Boys 3",
+          "division": "VJL3",
+          "competition": "VJL3 P2",
+          "division_rank": 15,
+          "overall_rank": 75
+        },
+        {
+          "team": "Blackburn U12 Boys 1",
+          "division": "VJL3",
+          "competition": "VJL3 P1",
+          "division_rank": 16,
+          "overall_rank": 76
+        },
+        {
+          "team": "Bellarine U12 Boys 1",
+          "division": "VJL3",
+          "competition": "VJL3 P2",
+          "division_rank": 17,
+          "overall_rank": 77
+        },
+        {
+          "team": "Gippsland United U12 Boys 2",
+          "division": "VJL3",
+          "competition": "VJL3 P1",
+          "division_rank": 18,
+          "overall_rank": 78
+        },
+        {
+          "team": "Ringwood U12 Boys 2",
+          "division": "VJL3",
+          "competition": "VJL3 P1",
+          "division_rank": 19,
+          "overall_rank": 79
+        },
+        {
+          "team": "Wyndham U12 Boys 2",
+          "division": "VJL3",
+          "competition": "VJL3 P2",
+          "division_rank": 20,
+          "overall_rank": 80
+        },
+        {
+          "team": "Melbourne U12 Boys 4",
+          "division": "VJL4",
+          "competition": "VJL4 P2",
+          "division_rank": 1,
+          "overall_rank": 81
+        },
+        {
+          "team": "Casey U12 Boys 4",
+          "division": "VJL4",
+          "competition": "VJL4 P1",
+          "division_rank": 2,
+          "overall_rank": 82
+        },
+        {
+          "team": "Camberwell U12 Boys 3",
+          "division": "VJL4",
+          "competition": "VJL4 P2",
+          "division_rank": 3,
+          "overall_rank": 83
+        },
+        {
+          "team": "Dandenong U12 Boys 4",
+          "division": "VJL4",
+          "competition": "VJL4 P1",
+          "division_rank": 4,
+          "overall_rank": 84
+        },
+        {
+          "team": "Casey U12 Boys 5",
+          "division": "VJL4",
+          "competition": "VJL4 P1",
+          "division_rank": 5,
+          "overall_rank": 85
+        },
+        {
+          "team": "Knox U12 Boys 4",
+          "division": "VJL4",
+          "competition": "VJL4 P1",
+          "division_rank": 6,
+          "overall_rank": 86
+        },
+        {
+          "team": "Nunawading U12 Boys 4",
+          "division": "VJL4",
+          "competition": "VJL4 P1",
+          "division_rank": 7,
+          "overall_rank": 87
+        },
+        {
+          "team": "Bulleen U12 Boys 4",
+          "division": "VJL4",
+          "competition": "VJL4 P2",
+          "division_rank": 8,
+          "overall_rank": 88
+        },
+        {
+          "team": "Wyndham U12 Boys 3",
+          "division": "VJL4",
+          "competition": "VJL4 P2",
+          "division_rank": 9,
+          "overall_rank": 89
+        },
+        {
+          "team": "Waverley U12 Boys 3",
+          "division": "VJL4",
+          "competition": "VJL4 P1",
+          "division_rank": 10,
+          "overall_rank": 90
+        },
+        {
+          "team": "Altona U12 Boys 3",
+          "division": "VJL4",
+          "competition": "VJL4 P2",
+          "division_rank": 11,
+          "overall_rank": 91
+        },
+        {
+          "team": "Hawthorn U12 Boys 3",
+          "division": "VJL4",
+          "competition": "VJL4 P2",
+          "division_rank": 12,
+          "overall_rank": 92
+        },
+        {
+          "team": "Craigieburn U12 Boys 2",
+          "division": "VJL4",
+          "competition": "VJL4 P2",
+          "division_rank": 13,
+          "overall_rank": 93
+        },
+        {
+          "team": "Hawthorn U12 Boys 4",
+          "division": "VJL4",
+          "competition": "VJL4 P2",
+          "division_rank": 14,
+          "overall_rank": 94
+        },
+        {
+          "team": "Ringwood U12 Boys 3",
+          "division": "VJL4",
+          "competition": "VJL4 P1",
+          "division_rank": 15,
+          "overall_rank": 95
+        },
+        {
+          "team": "Mornington U12 Boys 2",
+          "division": "VJL4",
+          "competition": "VJL4 P1",
+          "division_rank": 16,
+          "overall_rank": 96
+        },
+        {
+          "team": "Geelong United U12 Boys 2",
+          "division": "VJL4",
+          "competition": "VJL4 P2",
+          "division_rank": 17,
+          "overall_rank": 97
+        },
+        {
+          "team": "Frankston U12 Boys 5",
+          "division": "VJL4",
+          "competition": "VJL4 P1",
+          "division_rank": 18,
+          "overall_rank": 98
+        },
+        {
+          "team": "Wallan U12 Boys 1",
+          "division": "VJL4",
+          "competition": "VJL4 P2",
+          "division_rank": 19,
+          "overall_rank": 99
+        },
+        {
+          "team": "Kilsyth U12 Boys 4",
+          "division": "VJL4",
+          "competition": "VJL4 P1",
+          "division_rank": 20,
+          "overall_rank": 100
+        },
+        {
+          "team": "Westgate U12 Boys 2",
+          "division": "VJL5",
+          "competition": "VJL5 P3",
+          "division_rank": 1,
+          "overall_rank": 101
+        },
+        {
+          "team": "Keilor U12 Boys 5",
+          "division": "VJL5",
+          "competition": "VJL5 P3",
+          "division_rank": 2,
+          "overall_rank": 102
+        },
+        {
+          "team": "Camberwell U12 Boys 4",
+          "division": "VJL5",
+          "competition": "VJL5 P2",
+          "division_rank": 3,
+          "overall_rank": 103
+        },
+        {
+          "team": "Casey U12 Boys 6",
+          "division": "VJL5",
+          "competition": "VJL5 P1",
+          "division_rank": 4,
+          "overall_rank": 104
+        },
+        {
+          "team": "Dandenong U12 Boys 6",
+          "division": "VJL5",
+          "competition": "VJL5 P1",
+          "division_rank": 5,
+          "overall_rank": 105
+        },
+        {
+          "team": "Darebin U12 Boys 2",
+          "division": "VJL5",
+          "competition": "VJL5 P2",
+          "division_rank": 6,
+          "overall_rank": 106
+        },
+        {
+          "team": "Sandringham U12 Boys 5",
+          "division": "VJL5",
+          "competition": "VJL5 P1",
+          "division_rank": 7,
+          "overall_rank": 107
+        },
+        {
+          "team": "Geelong United U12 Boys 3",
+          "division": "VJL5",
+          "competition": "VJL5 P3",
+          "division_rank": 8,
+          "overall_rank": 108
+        },
+        {
+          "team": "Eltham U12 Boys 5",
+          "division": "VJL5",
+          "competition": "VJL5 P2",
+          "division_rank": 9,
+          "overall_rank": 109
+        },
+        {
+          "team": "Melbourne U12 Boys 5",
+          "division": "VJL5",
+          "competition": "VJL5 P2",
+          "division_rank": 10,
+          "overall_rank": 110
+        },
+        {
+          "team": "Mornington U12 Boys 3",
+          "division": "VJL5",
+          "competition": "VJL5 P1",
+          "division_rank": 11,
+          "overall_rank": 111
+        },
+        {
+          "team": "Whittlesea U12 Boys 2",
+          "division": "VJL5",
+          "competition": "VJL5 P3",
+          "division_rank": 12,
+          "overall_rank": 112
+        },
+        {
+          "team": "Diamond Valley U12 Boys 5",
+          "division": "VJL5",
+          "competition": "VJL5 P2",
+          "division_rank": 13,
+          "overall_rank": 113
+        },
+        {
+          "team": "McKinnon U12 Boys 4",
+          "division": "VJL5",
+          "competition": "VJL5 P1",
+          "division_rank": 14,
+          "overall_rank": 114
+        },
+        {
+          "team": "Altona U12 Boys 4",
+          "division": "VJL5",
+          "competition": "VJL5 P3",
+          "division_rank": 15,
+          "overall_rank": 115
+        },
+        {
+          "team": "Kilsyth U12 Boys 5",
+          "division": "VJL5",
+          "competition": "VJL5 P2",
+          "division_rank": 16,
+          "overall_rank": 116
+        },
+        {
+          "team": "Eltham U12 Boys 4",
+          "division": "VJL5",
+          "competition": "VJL5 P2",
+          "division_rank": 17,
+          "overall_rank": 117
+        },
+        {
+          "team": "Keilor U12 Boys 4",
+          "division": "VJL5",
+          "competition": "VJL5 P3",
+          "division_rank": 18,
+          "overall_rank": 118
+        },
+        {
+          "team": "Waverley U12 Boys 4",
+          "division": "VJL5",
+          "competition": "VJL5 P1",
+          "division_rank": 19,
+          "overall_rank": 119
+        },
+        {
+          "team": "Broadmeadows U12 Boys 3",
+          "division": "VJL5",
+          "competition": "VJL5 P3",
+          "division_rank": 20,
+          "overall_rank": 120
+        },
+        {
+          "team": "Warragul U12 Boys 1",
+          "division": "VJL5",
+          "competition": "VJL5 P1",
+          "division_rank": 21,
+          "overall_rank": 121
+        },
+        {
+          "team": "Western Port U12 Boys 2",
+          "division": "VJL5",
+          "competition": "VJL5 P1",
+          "division_rank": 22,
+          "overall_rank": 122
+        },
+        {
+          "team": "Warrandyte U12 Boys 1",
+          "division": "VJL5",
+          "competition": "VJL5 P2",
+          "division_rank": 23,
+          "overall_rank": 123
+        },
+        {
+          "team": "Camberwell U12 Boys 5",
+          "division": "VJL5",
+          "competition": "VJL5 P2",
+          "division_rank": 24,
+          "overall_rank": 124
+        },
+        {
+          "team": "Dandenong U12 Boys 11",
+          "division": "VJL5",
+          "competition": "VJL5 P1",
+          "division_rank": 25,
+          "overall_rank": 125
+        },
+        {
+          "team": "Sunbury U12 Boys 2",
+          "division": "VJL5",
+          "competition": "VJL5 P3",
+          "division_rank": 26,
+          "overall_rank": 126
+        },
+        {
+          "team": "Surfcoast U12 Boys 2",
+          "division": "VJL5",
+          "competition": "VJL5 P3",
+          "division_rank": 27,
+          "overall_rank": 127
+        },
+        {
+          "team": "Ringwood U12 Boys 4",
+          "division": "VJL5",
+          "competition": "VJL5 P2",
+          "division_rank": 28,
+          "overall_rank": 128
+        },
+        {
+          "team": "Frankston U12 Boys 6",
+          "division": "VJL5",
+          "competition": "VJL5 P1",
+          "division_rank": 29,
+          "overall_rank": 129
+        },
+        {
+          "team": "Coburg U12 Boys 2",
+          "division": "VJL5",
+          "competition": "VJL5 P3",
+          "division_rank": 30,
+          "overall_rank": 130
+        },
+        {
+          "team": "Pakenham U12 Boys 4",
+          "division": "RL1",
+          "competition": "RL1 SOUTH",
+          "division_rank": 1,
+          "overall_rank": 131
+        },
+        {
+          "team": "Craigieburn U12 Boys 3",
+          "division": "RL1",
+          "competition": "RL1 NORTH",
+          "division_rank": 2,
+          "overall_rank": 132
+        },
+        {
+          "team": "Westgate U12 Boys 3",
+          "division": "RL1",
+          "competition": "RL1 WEST",
+          "division_rank": 3,
+          "overall_rank": 133
+        },
+        {
+          "team": "Knox U12 Boys 7",
+          "division": "RL1",
+          "competition": "RL1 EAST",
+          "division_rank": 4,
+          "overall_rank": 134
+        },
+        {
+          "team": "Nunawading U12 Boys 6",
+          "division": "RL1",
+          "competition": "RL1 EAST",
+          "division_rank": 5,
+          "overall_rank": 135
+        },
+        {
+          "team": "Hawthorn U12 Boys 5",
+          "division": "RL1",
+          "competition": "RL1 NORTH",
+          "division_rank": 6,
+          "overall_rank": 136
+        },
+        {
+          "team": "Westgate U12 Boys 4",
+          "division": "RL1",
+          "competition": "RL1 WEST",
+          "division_rank": 7,
+          "overall_rank": 137
+        },
+        {
+          "team": "Melbourne U12 Boys 6",
+          "division": "RL1",
+          "competition": "RL1 NORTH",
+          "division_rank": 8,
+          "overall_rank": 138
+        },
+        {
+          "team": "Bulleen U12 Boys 5",
+          "division": "RL1",
+          "competition": "RL1 NORTH",
+          "division_rank": 9,
+          "overall_rank": 139
+        },
+        {
+          "team": "Wyndham U12 Boys 4",
+          "division": "RL1",
+          "competition": "RL1 WEST",
+          "division_rank": 10,
+          "overall_rank": 140
+        },
+        {
+          "team": "Bellarine U12 Boys 2",
+          "division": "RL1",
+          "competition": "RL1 WEST",
+          "division_rank": 11,
+          "overall_rank": 141
+        },
+        {
+          "team": "Kilsyth U12 Boys 6",
+          "division": "RL1",
+          "competition": "RL1 EAST",
+          "division_rank": 12,
+          "overall_rank": 142
+        },
+        {
+          "team": "McKinnon U12 Boys 5",
+          "division": "RL1",
+          "competition": "RL1 SOUTH",
+          "division_rank": 13,
+          "overall_rank": 143
+        },
+        {
+          "team": "Melton U12 Boys 2",
+          "division": "RL1",
+          "competition": "RL1 WEST",
+          "division_rank": 14,
+          "overall_rank": 144
+        },
+        {
+          "team": "Southern Peninsula U12 Boys 2",
+          "division": "RL1",
+          "competition": "RL1 SOUTH",
+          "division_rank": 15,
+          "overall_rank": 145
+        },
+        {
+          "team": "Knox U12 Boys 5",
+          "division": "RL1",
+          "competition": "RL1 EAST",
+          "division_rank": 16,
+          "overall_rank": 146
+        },
+        {
+          "team": "Pakenham U12 Boys 3",
+          "division": "RL1",
+          "competition": "RL1 SOUTH",
+          "division_rank": 17,
+          "overall_rank": 147
+        },
+        {
+          "team": "Western Port U12 Boys 3",
+          "division": "RL1",
+          "competition": "RL1 SOUTH",
+          "division_rank": 18,
+          "overall_rank": 148
+        },
+        {
+          "team": "Collingwood U12 Boys 2",
+          "division": "RL1",
+          "competition": "RL1 NORTH",
+          "division_rank": 19,
+          "overall_rank": 149
+        },
+        {
+          "team": "Dandenong U12 Boys 7",
+          "division": "RL1",
+          "competition": "RL1 EAST",
+          "division_rank": 20,
+          "overall_rank": 150
+        },
+        {
+          "team": "Nunawading U12 Boys 5",
+          "division": "RL1",
+          "competition": "RL1 EAST",
+          "division_rank": 21,
+          "overall_rank": 151
+        },
+        {
+          "team": "Broadmeadows U12 Boys 4",
+          "division": "RL1",
+          "competition": "RL1 NORTH",
+          "division_rank": 22,
+          "overall_rank": 152
+        },
+        {
+          "team": "Mornington U12 Boys 4",
+          "division": "RL1",
+          "competition": "RL1 SOUTH",
+          "division_rank": 23,
+          "overall_rank": 153
+        },
+        {
+          "team": "Chelsea U12 Boys 2",
+          "division": "RL1",
+          "competition": "RL1 SOUTH",
+          "division_rank": 24,
+          "overall_rank": 154
+        },
+        {
+          "team": "Altona U12 Boys 5",
+          "division": "RL1",
+          "competition": "RL1 WEST",
+          "division_rank": 25,
+          "overall_rank": 155
+        },
+        {
+          "team": "Diamond Valley U12 Boys 6",
+          "division": "RL1",
+          "competition": "RL1 NORTH",
+          "division_rank": 26,
+          "overall_rank": 156
+        },
+        {
+          "team": "Sherbrooke U12 Boys 1",
+          "division": "RL1",
+          "competition": "RL1 EAST",
+          "division_rank": 27,
+          "overall_rank": 157
+        },
+        {
+          "team": "Wyndham U12 Boys 5",
+          "division": "RL1",
+          "competition": "RL1 WEST",
+          "division_rank": 28,
+          "overall_rank": 158
+        },
+        {
+          "team": "Blackburn U12 Boys 2",
+          "division": "RL1",
+          "competition": "RL1 EAST",
+          "division_rank": 29,
+          "overall_rank": 159
+        },
+        {
+          "team": "Nunawading U12 Boys 7",
+          "division": "RL1",
+          "competition": "RL1 EAST",
+          "division_rank": 30,
+          "overall_rank": 160
+        },
+        {
+          "team": "Sandringham U12 Boys 6",
+          "division": "RL1",
+          "competition": "RL1 SOUTH",
+          "division_rank": 31,
+          "overall_rank": 161
+        },
+        {
+          "team": "Geelong United U12 Boys 4",
+          "division": "RL1",
+          "competition": "RL1 WEST",
+          "division_rank": 32,
+          "overall_rank": 162
+        },
+        {
+          "team": "Broadmeadows U12 Boys 5",
+          "division": "RL1",
+          "competition": "RL1 WEST",
+          "division_rank": 33,
+          "overall_rank": 163
+        },
+        {
+          "team": "Casey U12 Boys 7",
+          "division": "RL1",
+          "competition": "RL1 SOUTH",
+          "division_rank": 34,
+          "overall_rank": 164
+        },
+        {
+          "team": "Eltham U12 Boys 6",
+          "division": "RL1",
+          "competition": "RL1 NORTH",
+          "division_rank": 35,
+          "overall_rank": 165
+        },
+        {
+          "team": "Dandenong U12 Boys 12",
+          "division": "RL1",
+          "competition": "RL1 SOUTH",
+          "division_rank": 36,
+          "overall_rank": 166
+        },
+        {
+          "team": "Camberwell U12 Boys 7",
+          "division": "RL1",
+          "competition": "RL1 NORTH",
+          "division_rank": 37,
+          "overall_rank": 167
+        },
+        {
+          "team": "Doncaster U12 Boys 1",
+          "division": "RL1",
+          "competition": "RL1 EAST",
+          "division_rank": 38,
+          "overall_rank": 168
+        },
+        {
+          "team": "Eltham U12 Boys 7",
+          "division": "RL1",
+          "competition": "RL1 NORTH",
+          "division_rank": 39,
+          "overall_rank": 169
+        },
+        {
+          "team": "Bacchus Marsh U12 Boys 2",
+          "division": "RL1",
+          "competition": "RL1 WEST",
+          "division_rank": 40,
+          "overall_rank": 170
+        },
+        {
+          "team": "Ringwood U12 Boys 5",
+          "division": "RL2",
+          "competition": "RL2 EAST",
+          "division_rank": 1,
+          "overall_rank": 171
+        },
+        {
+          "team": "Knox U12 Boys 8",
+          "division": "RL2",
+          "competition": "RL2 EAST",
+          "division_rank": 2,
+          "overall_rank": 172
+        },
+        {
+          "team": "Dandenong U12 Boys 8",
+          "division": "RL2",
+          "competition": "RL2 SOUTH",
+          "division_rank": 3,
+          "overall_rank": 173
+        },
+        {
+          "team": "Keilor U12 Boys 6",
+          "division": "RL2",
+          "competition": "RL2 WEST",
+          "division_rank": 4,
+          "overall_rank": 174
+        },
+        {
+          "team": "Sandringham U12 Boys 7",
+          "division": "RL2",
+          "competition": "RL2 SOUTH",
+          "division_rank": 5,
+          "overall_rank": 175
+        },
+        {
+          "team": "Keilor U12 Boys 7",
+          "division": "RL2",
+          "competition": "RL2 WEST",
+          "division_rank": 6,
+          "overall_rank": 176
+        },
+        {
+          "team": "Geelong United U12 Boys 5",
+          "division": "RL2",
+          "competition": "RL2 WEST",
+          "division_rank": 7,
+          "overall_rank": 177
+        },
+        {
+          "team": "McKinnon U12 Boys 7",
+          "division": "RL2",
+          "competition": "RL2 SOUTH",
+          "division_rank": 8,
+          "overall_rank": 178
+        },
+        {
+          "team": "Macedon Ranges U12 Boys 2",
+          "division": "RL2",
+          "competition": "RL2 WEST",
+          "division_rank": 9,
+          "overall_rank": 179
+        },
+        {
+          "team": "Southern Peninsula U12 Boys 3",
+          "division": "RL2",
+          "competition": "RL2 SOUTH",
+          "division_rank": 10,
+          "overall_rank": 180
+        },
+        {
+          "team": "Camberwell U12 Boys 6",
+          "division": "RL2",
+          "competition": "RL2 NORTH",
+          "division_rank": 11,
+          "overall_rank": 181
+        },
+        {
+          "team": "Ringwood U12 Boys 7",
+          "division": "RL2",
+          "competition": "RL2 NORTH",
+          "division_rank": 12,
+          "overall_rank": 182
+        },
+        {
+          "team": "Melbourne U12 Boys 7",
+          "division": "RL2",
+          "competition": "RL2 NORTH",
+          "division_rank": 13,
+          "overall_rank": 183
+        },
+        {
+          "team": "Bulleen U12 Boys 6",
+          "division": "RL2",
+          "competition": "RL2 NORTH",
+          "division_rank": 14,
+          "overall_rank": 184
+        },
+        {
+          "team": "Darebin U12 Boys 3",
+          "division": "RL2",
+          "competition": "RL2 NORTH",
+          "division_rank": 15,
+          "overall_rank": 185
+        },
+        {
+          "team": "Nunawading U12 Boys 8",
+          "division": "RL2",
+          "competition": "RL2 EAST",
+          "division_rank": 16,
+          "overall_rank": 186
+        },
+        {
+          "team": "Sunbury U12 Boys 3",
+          "division": "RL2",
+          "competition": "RL2 WEST",
+          "division_rank": 17,
+          "overall_rank": 187
+        },
+        {
+          "team": "Collingwood U12 Boys 3",
+          "division": "RL2",
+          "competition": "RL2 NORTH",
+          "division_rank": 18,
+          "overall_rank": 188
+        },
+        {
+          "team": "Knox U12 Boys 6",
+          "division": "RL2",
+          "competition": "RL2 EAST",
+          "division_rank": 19,
+          "overall_rank": 189
+        },
+        {
+          "team": "Whittlesea U12 Boys 3",
+          "division": "RL2",
+          "competition": "RL2 NORTH",
+          "division_rank": 20,
+          "overall_rank": 190
+        },
+        {
+          "team": "McKinnon U12 Boys 6",
+          "division": "RL2",
+          "competition": "RL2 SOUTH",
+          "division_rank": 21,
+          "overall_rank": 191
+        },
+        {
+          "team": "Ringwood U12 Boys 6",
+          "division": "RL2",
+          "competition": "RL2 EAST",
+          "division_rank": 22,
+          "overall_rank": 192
+        },
+        {
+          "team": "Western Port U12 Boys 4",
+          "division": "RL2",
+          "competition": "RL2 SOUTH",
+          "division_rank": 23,
+          "overall_rank": 193
+        },
+        {
+          "team": "Knox U12 Boys 10",
+          "division": "RL2",
+          "competition": "RL2 EAST",
+          "division_rank": 24,
+          "overall_rank": 194
+        },
+        {
+          "team": "Coburg U12 Boys 3",
+          "division": "RL2",
+          "competition": "RL2 WEST",
+          "division_rank": 25,
+          "overall_rank": 195
+        },
+        {
+          "team": "Warragul U12 Boys 2",
+          "division": "RL2",
+          "competition": "RL2 SOUTH",
+          "division_rank": 26,
+          "overall_rank": 196
+        },
+        {
+          "team": "Waverley U12 Boys 5",
+          "division": "RL2",
+          "competition": "RL2 EAST",
+          "division_rank": 27,
+          "overall_rank": 197
+        },
+        {
+          "team": "Waverley U12 Boys 6",
+          "division": "RL2",
+          "competition": "RL2 EAST",
+          "division_rank": 28,
+          "overall_rank": 198
+        },
+        {
+          "team": "Westgate U12 Boys 5",
+          "division": "RL2",
+          "competition": "RL2 WEST",
+          "division_rank": 29,
+          "overall_rank": 199
+        },
+        {
+          "team": "Whittlesea U12 Boys 4",
+          "division": "RL2",
+          "competition": "RL2 NORTH",
+          "division_rank": 30,
+          "overall_rank": 200
+        },
+        {
+          "team": "Dandenong U12 Boys 10",
+          "division": "RL2",
+          "competition": "RL2 EAST",
+          "division_rank": 31,
+          "overall_rank": 201
+        },
+        {
+          "team": "Melton U12 Boys 3",
+          "division": "RL2",
+          "competition": "RL2 WEST",
+          "division_rank": 32,
+          "overall_rank": 202
+        },
+        {
+          "team": "Casey U12 Boys 8",
+          "division": "RL2",
+          "competition": "RL2 SOUTH",
+          "division_rank": 33,
+          "overall_rank": 203
+        },
+        {
+          "team": "Diamond Valley U12 Boys 7",
+          "division": "RL2",
+          "competition": "RL2 NORTH",
+          "division_rank": 34,
+          "overall_rank": 204
+        },
+        {
+          "team": "McKinnon U12 Boys 8",
+          "division": "RL2",
+          "competition": "RL2 SOUTH",
+          "division_rank": 35,
+          "overall_rank": 205
+        },
+        {
+          "team": "Craigieburn U12 Boys 4",
+          "division": "RL2",
+          "competition": "RL2 NORTH",
+          "division_rank": 36,
+          "overall_rank": 206
+        },
+        {
+          "team": "Coburg U12 Boys 4",
+          "division": "RL2",
+          "competition": "RL2 WEST",
+          "division_rank": 37,
+          "overall_rank": 207
+        },
+        {
+          "team": "Bacchus Marsh U12 Boys 3",
+          "division": "RL2",
+          "competition": "RL2 WEST",
+          "division_rank": 38,
+          "overall_rank": 208
+        },
+        {
+          "team": "Frankston U12 Boys 7",
+          "division": "RL2",
+          "competition": "RL2 SOUTH",
+          "division_rank": 39,
+          "overall_rank": 209
+        },
+        {
+          "team": "Sherbrooke U12 Boys 2",
+          "division": "RL2",
+          "competition": "RL2 EAST",
+          "division_rank": 40,
+          "overall_rank": 210
+        },
+        {
+          "team": "Knox U12 Boys 11",
+          "division": "RL3",
+          "competition": "RL3 EAST",
+          "division_rank": 1,
+          "overall_rank": 211
+        },
+        {
+          "team": "Melbourne U12 Boys 8",
+          "division": "RL3",
+          "competition": "RL3 NORTH",
+          "division_rank": 2,
+          "overall_rank": 212
+        },
+        {
+          "team": "Sandringham U12 Boys 8",
+          "division": "RL3",
+          "competition": "RL3 SOUTH",
+          "division_rank": 3,
+          "overall_rank": 213
+        },
+        {
+          "team": "Altona U12 Boys 6",
+          "division": "RL3",
+          "competition": "RL3 WEST",
+          "division_rank": 4,
+          "overall_rank": 214
+        },
+        {
+          "team": "Sunbury U12 Boys 4",
+          "division": "RL3",
+          "competition": "RL3 WEST",
+          "division_rank": 5,
+          "overall_rank": 215
+        },
+        {
+          "team": "Hawthorn U12 Boys 6",
+          "division": "RL3",
+          "competition": "RL3 NORTH",
+          "division_rank": 6,
+          "overall_rank": 216
+        },
+        {
+          "team": "Camberwell U12 Boys 10",
+          "division": "RL3",
+          "competition": "RL3 NORTH",
+          "division_rank": 7,
+          "overall_rank": 217
+        },
+        {
+          "team": "Dandenong U12 Boys 9",
+          "division": "RL3",
+          "competition": "RL3 EAST",
+          "division_rank": 8,
+          "overall_rank": 218
+        },
+        {
+          "team": "Wyndham U12 Boys 6",
+          "division": "RL3",
+          "competition": "RL3 WEST",
+          "division_rank": 9,
+          "overall_rank": 219
+        },
+        {
+          "team": "Blackburn U12 Boys 3",
+          "division": "RL3",
+          "competition": "RL3 NORTH",
+          "division_rank": 10,
+          "overall_rank": 220
+        },
+        {
+          "team": "Knox U12 Boys 9",
+          "division": "RL3",
+          "competition": "RL3 EAST",
+          "division_rank": 11,
+          "overall_rank": 221
+        },
+        {
+          "team": "Collingwood U12 Boys 5",
+          "division": "RL3",
+          "competition": "RL3 WEST",
+          "division_rank": 12,
+          "overall_rank": 222
+        },
+        {
+          "team": "Pakenham U12 Boys 5",
+          "division": "RL3",
+          "competition": "RL3 SOUTH",
+          "division_rank": 13,
+          "overall_rank": 223
+        },
+        {
+          "team": "Camberwell U12 Boys 9",
+          "division": "RL3",
+          "competition": "RL3 NORTH",
+          "division_rank": 14,
+          "overall_rank": 224
+        },
+        {
+          "team": "Knox U12 Boys 12",
+          "division": "RL3",
+          "competition": "RL3 EAST",
+          "division_rank": 15,
+          "overall_rank": 225
+        },
+        {
+          "team": "Collingwood U12 Boys 4",
+          "division": "RL3",
+          "competition": "RL3 NORTH",
+          "division_rank": 16,
+          "overall_rank": 226
+        },
+        {
+          "team": "Casey U12 Boys 9",
+          "division": "RL3",
+          "competition": "RL3 SOUTH",
+          "division_rank": 17,
+          "overall_rank": 227
+        },
+        {
+          "team": "Nunawading U12 Boys 9",
+          "division": "RL3",
+          "competition": "RL3 EAST",
+          "division_rank": 18,
+          "overall_rank": 228
+        },
+        {
+          "team": "Ringwood U12 Boys 8",
+          "division": "RL3",
+          "competition": "RL3 EAST",
+          "division_rank": 19,
+          "overall_rank": 229
+        },
+        {
+          "team": "Keilor U12 Boys 8",
+          "division": "RL3",
+          "competition": "RL3 WEST",
+          "division_rank": 20,
+          "overall_rank": 230
+        },
+        {
+          "team": "Chelsea U12 Boys 3",
+          "division": "RL3",
+          "competition": "RL3 SOUTH",
+          "division_rank": 21,
+          "overall_rank": 231
+        },
+        {
+          "team": "Pakenham U12 Boys 6",
+          "division": "RL3",
+          "competition": "RL3 SOUTH",
+          "division_rank": 22,
+          "overall_rank": 232
+        },
+        {
+          "team": "Western Port U12 Boys 5",
+          "division": "RL3",
+          "competition": "RL3 SOUTH",
+          "division_rank": 23,
+          "overall_rank": 233
+        },
+        {
+          "team": "Frankston U12 Boys 9",
+          "division": "RL3",
+          "competition": "RL3 SOUTH",
+          "division_rank": 24,
+          "overall_rank": 234
+        },
+        {
+          "team": "Broadmeadows U12 Boys 6",
+          "division": "RL3",
+          "competition": "RL3 WEST",
+          "division_rank": 25,
+          "overall_rank": 235
+        },
+        {
+          "team": "Casey U12 Boys 10",
+          "division": "RL3",
+          "competition": "RL3 SOUTH",
+          "division_rank": 26,
+          "overall_rank": 236
+        },
+        {
+          "team": "Doncaster U12 Boys 2",
+          "division": "RL3",
+          "competition": "RL3 NORTH",
+          "division_rank": 27,
+          "overall_rank": 237
+        },
+        {
+          "team": "Bulleen U12 Boys 7",
+          "division": "RL3",
+          "competition": "RL3 NORTH",
+          "division_rank": 28,
+          "overall_rank": 238
+        },
+        {
+          "team": "Craigieburn U12 Boys 5",
+          "division": "RL3",
+          "competition": "RL3 WEST",
+          "division_rank": 29,
+          "overall_rank": 239
+        },
+        {
+          "team": "Surfcoast U12 Boys 3",
+          "division": "RL3",
+          "competition": "RL3 WEST",
+          "division_rank": 30,
+          "overall_rank": 240
+        },
+        {
+          "team": "Casey U12 Boys 11",
+          "division": "RL3",
+          "competition": "RL3 EAST",
+          "division_rank": 31,
+          "overall_rank": 241
+        },
+        {
+          "team": "Blackburn U12 Boys 4",
+          "division": "RL3",
+          "competition": "RL3 NORTH",
+          "division_rank": 32,
+          "overall_rank": 242
+        },
+        {
+          "team": "Bellarine U12 Boys 3",
+          "division": "RL3",
+          "competition": "RL3 WEST",
+          "division_rank": 33,
+          "overall_rank": 243
+        },
+        {
+          "team": "Southern Peninsula U12 Boys 4",
+          "division": "RL3",
+          "competition": "RL3 SOUTH",
+          "division_rank": 34,
+          "overall_rank": 244
+        },
+        {
+          "team": "Waverley U12 Boys 7",
+          "division": "RL3",
+          "competition": "RL3 EAST",
+          "division_rank": 35,
+          "overall_rank": 245
+        },
+        {
+          "team": "Camberwell U12 Boys 8",
+          "division": "RL3",
+          "competition": "RL3 NORTH",
+          "division_rank": 36,
+          "overall_rank": 246
+        },
+        {
+          "team": "Coburg U12 Boys 5",
+          "division": "RL3",
+          "competition": "RL3 WEST",
+          "division_rank": 37,
+          "overall_rank": 247
+        },
+        {
+          "team": "Frankston U12 Boys 8",
+          "division": "RL3",
+          "competition": "RL3 SOUTH",
+          "division_rank": 38,
+          "overall_rank": 248
+        },
+        {
+          "team": "Melton U12 Boys 4",
+          "division": "RL3",
+          "competition": "RL3 WEST",
+          "division_rank": 39,
+          "overall_rank": 249
+        },
+        {
+          "team": "Casey U12 Boys 12",
+          "division": "RL3",
+          "competition": "RL3 EAST",
+          "division_rank": 40,
+          "overall_rank": 250
+        },
+        {
+          "team": "Eltham U12 Boys 8",
+          "division": "RL3",
+          "competition": "RL3 NORTH",
+          "division_rank": 41,
+          "overall_rank": 251
+        },
+        {
+          "team": "Nunawading U12 Boys 10",
+          "division": "RL3",
+          "competition": "RL3 EAST",
+          "division_rank": 42,
+          "overall_rank": 252
+        },
+        {
+          "team": "Warrandyte U12 Boys 2",
+          "division": "RL3",
+          "competition": "RL3 NORTH",
+          "division_rank": 43,
+          "overall_rank": 253
+        }
+      ]
+    }
+  ]
+}

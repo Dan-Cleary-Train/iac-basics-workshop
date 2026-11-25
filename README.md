@@ -66,3 +66,15 @@ are described step by step and illustrated with practical exercises.
 - [Challenge_03](./challenges/challenge_03.md) Create and deploy your first ARM Template
 - [Challenge_04](./challenges/challenge_04.md) Create a GitHub Workflow to deploy an ARM Template
 - [Challenge_05](./challenges/challenge_05.md) Create a Pull Request validation workflow (optional)
+
+## Additional tools
+
+This repository also contains local basketball reporting tools. The
+[tryout player analysis guide](./challenges/Kilsyth/README.md) documents how
+to match a private source-of-truth player list against Kilsyth, MEBA, and EDJBA
+PlayHQ statistics. The [VJBL report guide](./challenges/VJBL/README.md)
+covers the VJBL results and rankings report.
+
+These reports and player-data snapshots are local analysis artifacts, not part
+of the IaC workshop exercises. Keep private workbooks, generated reports, and
+scraped player-name snapshots outside source control.
